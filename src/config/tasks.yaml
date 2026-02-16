@@ -1,0 +1,44 @@
+# SADC Economic Resilience Monitor - Task Configuration
+tasks:
+	- agent: DataHarvesterAgent
+		description: Collect macro-fiscal and economic data for all SADC countries.
+		outputs:
+			- raw_data
+
+	- agent: DataQualityAuditorAgent
+		description: Audit and validate the quality, completeness, and consistency of harvested data.
+		inputs:
+			- raw_data
+		outputs:
+			- validated_data
+
+	- agent: EconomicRiskModelerAgent
+		description: Compute quarterly fiscal risk scores and early warning flags using validated data.
+		inputs:
+			- validated_data
+		outputs:
+			- risk_scores
+			- early_warning_flags
+
+	- agent: ScenarioSimulatorAgent
+		description: Simulate macro-fiscal scenarios and stress tests for 6–12 month horizons.
+		inputs:
+			- validated_data
+		outputs:
+			- scenarios
+
+	- agent: PolicyIntelligenceAgent
+		description: Generate policy response playbooks and recommendations based on scenario outputs.
+		inputs:
+			- scenarios
+		outputs:
+			- policy_playbooks
+
+	- agent: ReportGeneratorAgent
+		description: Produce automated PDF/HTML policy briefs for stakeholders.
+		inputs:
+			- risk_scores
+			- early_warning_flags
+			- policy_playbooks
+		outputs:
+			- policy_brief_report

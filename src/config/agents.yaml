@@ -1,0 +1,65 @@
+# SADC Economic Resilience Monitor - Agent Configuration
+agents:
+
+	- name: SupervisorAgent
+		role: Macro-Fiscal Monitoring Orchestrator
+		purpose: Workflow control and failure handling for the early-warning system.
+		responsibilities:
+			- Schedule quarterly runs
+			- Manage agent dependencies
+			- Handle retries and failures
+			- Log process lineage (critical for donors)
+		manages:
+			- DataHarvesterAgent
+			- DataQualityAuditorAgent
+			- EconomicRiskModelerAgent
+			- ScenarioSimulatorAgent
+			- PolicyIntelligenceAgent
+			- ReportGeneratorAgent
+		crewai:
+			goal: Ensure reliable quarterly fiscal risk assessment for SADC countries
+			backstory: Senior macroeconomic program manager with experience at IMF and World Bank.
+
+
+	- name: DataHarvesterAgent
+		role: Macro-Fiscal Data Harvester
+		purpose: Collects and updates macro-fiscal and economic data for SADC countries.
+		countries:
+			- Zimbabwe
+			- Zambia
+			- Malawi
+			- Mozambique
+			- Namibia
+			- Botswana
+			- South Africa
+			- Angola
+			- Tanzania
+		data_sources:
+			primary:
+				- World Bank Indicators API (wbgapi)
+				- IMF WEO (optional)
+			future:
+				- National statistics offices
+		indicators:
+			gdp_growth: NY.GDP.MKTP.KD.ZG
+			inflation: FP.CPI.TOTL.ZG
+			debt_gdp: GC.DOD.TOTL.GD.ZS
+			fiscal_balance: GC.BAL.CASH.GD.ZS
+			current_account: BN.CAB.XOKA.GD.ZS
+			reserves_months: FI.RES.TOTL.MO
+		notes: Debt alone is insufficient for fragility detection; use a core macro basket.
+
+	- name: DataQualityAuditorAgent
+		role: Audits and validates the quality, completeness, and consistency of harvested data.
+
+	- name: EconomicRiskModelerAgent
+		role: Computes quarterly fiscal risk scores and early warning flags using economic models.
+
+	- name: ScenarioSimulatorAgent
+		role: Simulates macro-fiscal scenarios and stress tests for 6–12 month horizons.
+
+	- name: PolicyIntelligenceAgent
+		role: Generates policy response playbooks and recommendations based on scenario outputs.
+
+	- name: ReportGeneratorAgent
+		role: Produces automated PDF/HTML policy briefs for stakeholders.
