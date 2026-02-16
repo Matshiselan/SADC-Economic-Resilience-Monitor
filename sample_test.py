@@ -2,8 +2,10 @@
 Sample test script for SADC Economic Resilience Monitor pipeline.
 This script demonstrates a minimal end-to-end test using mock data.
 """
+
 import pandas as pd
 import numpy as np
+from tabulate import tabulate
 
 from src.tools import (
     fetch_sadc_data, profile_missingness, plot_missing_data_heatmap, detect_structural_breaks,
@@ -88,7 +90,8 @@ sims = monte_carlo_macro_shock(wide_df, shocks, n_sim=10)
 print(f'Simulated scenario (first run):\n{sims[0][["inflation"]].head()}')
 
 
-# 6. Report Generation (executive summary, table, and notes for each country)
+
+# 6. Report Generation (executive summary, pretty table, and notes for each country)
 import os
 report_path = os.path.join('reports', 'sadc_ministerial_brief.txt')
 with open(report_path, 'w', encoding='utf-8') as f:
@@ -100,16 +103,18 @@ with open(report_path, 'w', encoding='utf-8') as f:
         frs_mean = country_rows['gdp_growth'].mean() if 'gdp_growth' in country_rows else 0
         f.write(f"\n{'='*60}\nExecutive Summary: {country_name}\n{'='*60}\n")
         f.write(f"Fiscal Risk Score (mean gdp_growth): {frs_mean:.2f}\n\n")
-        # Table header
-        f.write(f"{'Year':<6} {'Flag':<8} {'Key Drivers':<20} {'Scenario Analysis':<25} {'Policy Recommendation'}\n")
-        f.write(f"{'-'*80}\n")
+        # Build table data
+        table_data = []
         for _, row in country_rows.iterrows():
             year = int(row['year'])
             flag = rule_based_risk_flag(row)
             key_drivers = f"Debt: {row.get('debt_gdp', 'NA'):.1f}, Inf: {row.get('inflation', 'NA'):.1f}, Growth: {row.get('gdp_growth', 'NA'):.1f}"
             scenario = "Inflation shock +5pp"
             policy = recommend_policy_actions(row)
-            f.write(f"{year:<6} {flag:<8} {key_drivers:<20} {scenario:<25} {policy}\n")
+            table_data.append([year, flag, key_drivers, scenario, policy])
+        headers = ["Year", "Flag", "Key Drivers", "Scenario Analysis", "Policy Recommendation"]
+        table_str = tabulate(table_data, headers=headers, tablefmt="github", showindex=False)
+        f.write(table_str + "\n")
         # Column key
         f.write("\nColumn Key:\n")
         f.write("Year: Calendar year of observation\n")
