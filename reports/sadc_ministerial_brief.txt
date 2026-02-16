@@ -1,0 +1,1202 @@
+
+============================================================
+Executive Summary: AGO
+============================================================
+Fiscal Risk Score (mean gdp_growth): 3.52
+
+Year   Flag     Key Drivers          Scenario Analysis         Policy Recommendation
+--------------------------------------------------------------------------------
+1981   MEDIUM   Debt: nan, Inf: nan, Growth: -4.4 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+1982   MEDIUM   Debt: nan, Inf: nan, Growth: 0.0 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+1983   LOW      Debt: nan, Inf: nan, Growth: 4.2 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1984   LOW      Debt: nan, Inf: nan, Growth: 6.0 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1985   LOW      Debt: nan, Inf: nan, Growth: 3.5 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1986   MEDIUM   Debt: nan, Inf: nan, Growth: 2.9 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1987   LOW      Debt: nan, Inf: nan, Growth: 4.1 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1988   LOW      Debt: nan, Inf: nan, Growth: 6.1 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1989   MEDIUM   Debt: nan, Inf: nan, Growth: 0.0 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+1990   MEDIUM   Debt: nan, Inf: nan, Growth: -3.5 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+1991   MEDIUM   Debt: nan, Inf: 83.8, Growth: 1.0 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1992   MEDIUM   Debt: nan, Inf: 299.5, Growth: -5.8 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1993   MEDIUM   Debt: nan, Inf: 1378.5, Growth: -24.0 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1994   MEDIUM   Debt: nan, Inf: 949.8, Growth: 1.3 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1995   MEDIUM   Debt: nan, Inf: 2666.5, Growth: 15.0 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1996   MEDIUM   Debt: nan, Inf: 4145.1, Growth: 13.5 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1997   MEDIUM   Debt: nan, Inf: 219.2, Growth: 7.3 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1998   MEDIUM   Debt: nan, Inf: 107.3, Growth: 4.7 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1999   MEDIUM   Debt: nan, Inf: 248.2, Growth: 2.2 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+2000   MEDIUM   Debt: nan, Inf: 325.0, Growth: 3.1 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+2001   MEDIUM   Debt: nan, Inf: 152.6, Growth: 4.2 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+2002   MEDIUM   Debt: nan, Inf: 108.9, Growth: 13.7 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+2003   MEDIUM   Debt: nan, Inf: 98.2, Growth: 3.5 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+2004   MEDIUM   Debt: nan, Inf: 43.5, Growth: 11.4 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+2005   MEDIUM   Debt: nan, Inf: 23.0, Growth: 14.2 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+2006   MEDIUM   Debt: nan, Inf: 13.3, Growth: 11.8 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2007   MEDIUM   Debt: nan, Inf: 12.3, Growth: 13.0 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2008   MEDIUM   Debt: nan, Inf: 12.5, Growth: 10.8 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2009   MEDIUM   Debt: nan, Inf: 13.7, Growth: 2.0 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2010   MEDIUM   Debt: nan, Inf: 14.5, Growth: 5.3 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2011   MEDIUM   Debt: nan, Inf: 13.5, Growth: 3.6 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2012   MEDIUM   Debt: nan, Inf: 10.3, Growth: 8.5 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2013   LOW      Debt: nan, Inf: 8.8, Growth: 4.9 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2014   LOW      Debt: nan, Inf: 7.3, Growth: 4.7 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2015   MEDIUM   Debt: nan, Inf: 9.4, Growth: 0.8 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+2016   MEDIUM   Debt: nan, Inf: 30.7, Growth: -1.7 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+2017   MEDIUM   Debt: nan, Inf: 29.8, Growth: -0.1 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+2018   MEDIUM   Debt: nan, Inf: 19.6, Growth: -0.6 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+2019   MEDIUM   Debt: nan, Inf: 17.1, Growth: -0.2 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+2020   MEDIUM   Debt: nan, Inf: 22.3, Growth: -4.0 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+2021   MEDIUM   Debt: nan, Inf: 25.8, Growth: 2.1 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+2022   MEDIUM   Debt: nan, Inf: 21.4, Growth: 4.2 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+2023   MEDIUM   Debt: nan, Inf: 13.6, Growth: 1.3 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+2024   MEDIUM   Debt: nan, Inf: 28.2, Growth: 4.4 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+
+Column Key:
+Year: Calendar year of observation
+Flag: Early warning risk flag (HIGH/MEDIUM/LOW)
+Key Drivers: Main macro-fiscal indicators
+Scenario Analysis: Description of simulated macro shock
+Policy Recommendation: Automated policy advice based on risk pattern
+
+Data Quality Notes:
+indicator
+country              0.000000
+year                 0.000000
+current_account      9.090909
+reserves_months     31.818182
+inflation           22.727273
+debt_gdp           100.000000
+gdp_growth           0.000000
+growth_shock         0.000000
+reserves_risk       31.818182
+
+
+============================================================
+Executive Summary: BWA
+============================================================
+Fiscal Risk Score (mean gdp_growth): 7.37
+
+Year   Flag     Key Drivers          Scenario Analysis         Policy Recommendation
+--------------------------------------------------------------------------------
+1970   LOW      Debt: nan, Inf: nan, Growth: 17.1 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1971   LOW      Debt: nan, Inf: nan, Growth: 25.8 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1972   LOW      Debt: nan, Inf: nan, Growth: 26.4 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1973   LOW      Debt: nan, Inf: nan, Growth: 21.3 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1974   LOW      Debt: nan, Inf: nan, Growth: 8.8 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1975   MEDIUM   Debt: nan, Inf: 12.0, Growth: 8.4 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1976   MEDIUM   Debt: nan, Inf: 11.7, Growth: 10.6 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1977   MEDIUM   Debt: nan, Inf: 13.2, Growth: 12.0 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1978   LOW      Debt: nan, Inf: 9.0, Growth: 14.3 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1979   MEDIUM   Debt: nan, Inf: 11.7, Growth: 12.1 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1980   MEDIUM   Debt: nan, Inf: 13.6, Growth: 12.0 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1981   MEDIUM   Debt: nan, Inf: 16.4, Growth: 9.1 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1982   MEDIUM   Debt: nan, Inf: 11.1, Growth: 12.2 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1983   MEDIUM   Debt: nan, Inf: 10.5, Growth: 13.1 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1984   LOW      Debt: nan, Inf: 8.6, Growth: 8.5 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1985   LOW      Debt: nan, Inf: 8.1, Growth: 7.1 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1986   MEDIUM   Debt: nan, Inf: 10.0, Growth: 8.2 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1987   LOW      Debt: nan, Inf: 9.8, Growth: 11.9 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1988   LOW      Debt: nan, Inf: 8.4, Growth: 19.4 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1989   MEDIUM   Debt: nan, Inf: 11.6, Growth: 13.1 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1990   MEDIUM   Debt: 11.4, Inf: 11.4, Growth: 6.8 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1991   MEDIUM   Debt: 12.1, Inf: 11.8, Growth: 7.5 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1992   MEDIUM   Debt: 12.5, Inf: 16.2, Growth: 2.9 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1993   MEDIUM   Debt: 12.4, Inf: 14.3, Growth: 1.9 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1994   MEDIUM   Debt: 12.0, Inf: 10.5, Growth: 3.6 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1995   MEDIUM   Debt: 11.0, Inf: 10.5, Growth: 7.0 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1996   MEDIUM   Debt: 11.2, Inf: 10.1, Growth: 5.8 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1997   LOW      Debt: nan, Inf: 8.7, Growth: 8.3 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1998   MEDIUM   Debt: nan, Inf: 6.7, Growth: 0.4 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+1999   LOW      Debt: nan, Inf: 7.7, Growth: 9.7 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2000   MEDIUM   Debt: nan, Inf: 8.6, Growth: 2.0 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2001   MEDIUM   Debt: nan, Inf: 6.6, Growth: 0.3 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+2002   LOW      Debt: nan, Inf: 8.0, Growth: 6.1 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2003   LOW      Debt: nan, Inf: 9.2, Growth: 4.6 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2004   MEDIUM   Debt: nan, Inf: 6.9, Growth: 2.7 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2005   LOW      Debt: nan, Inf: 8.6, Growth: 4.6 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2006   MEDIUM   Debt: 6.0, Inf: 11.6, Growth: 8.4 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2007   LOW      Debt: 5.9, Inf: 7.1, Growth: 5.8 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2008   MEDIUM   Debt: 8.0, Inf: 12.7, Growth: 3.3 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2009   MEDIUM   Debt: 19.3, Inf: 8.0, Growth: -14.1 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+2010   LOW      Debt: 21.9, Inf: 6.9, Growth: 10.1 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2011   LOW      Debt: 21.1, Inf: 8.5, Growth: 6.8 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2012   MEDIUM   Debt: 20.6, Inf: 7.5, Growth: -0.2 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+2013   LOW      Debt: 19.0, Inf: 5.9, Growth: 11.1 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2014   LOW      Debt: 18.3, Inf: 4.4, Growth: 5.7 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2015   MEDIUM   Debt: 19.1, Inf: 3.1, Growth: -4.9 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+2016   LOW      Debt: 15.8, Inf: 2.8, Growth: 7.2 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2017   LOW      Debt: 14.7, Inf: 3.3, Growth: 4.1 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2018   LOW      Debt: 15.2, Inf: 3.2, Growth: 4.2 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2019   LOW      Debt: 16.2, Inf: 2.8, Growth: 3.0 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2020   MEDIUM   Debt: 19.6, Inf: 1.9, Growth: -8.7 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+2021   LOW      Debt: nan, Inf: 7.2, Growth: 11.9 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2022   MEDIUM   Debt: nan, Inf: 11.7, Growth: 5.5 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2023   LOW      Debt: nan, Inf: 5.1, Growth: 3.2 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2024   MEDIUM   Debt: nan, Inf: 2.8, Growth: -3.0 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+
+Column Key:
+Year: Calendar year of observation
+Flag: Early warning risk flag (HIGH/MEDIUM/LOW)
+Key Drivers: Main macro-fiscal indicators
+Scenario Analysis: Description of simulated macro shock
+Policy Recommendation: Automated policy advice based on risk pattern
+
+Data Quality Notes:
+indicator
+country             0.000000
+year                0.000000
+current_account     9.090909
+reserves_months    10.909091
+inflation           9.090909
+debt_gdp           60.000000
+gdp_growth          0.000000
+growth_shock        0.000000
+reserves_risk      10.909091
+
+
+============================================================
+Executive Summary: COM
+============================================================
+Fiscal Risk Score (mean gdp_growth): 2.62
+
+Year   Flag     Key Drivers          Scenario Analysis         Policy Recommendation
+--------------------------------------------------------------------------------
+1980   LOW      Debt: nan, Inf: nan, Growth: nan Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1981   LOW      Debt: nan, Inf: nan, Growth: 5.5 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1982   LOW      Debt: nan, Inf: nan, Growth: 4.1 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1983   LOW      Debt: nan, Inf: nan, Growth: 3.1 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1984   LOW      Debt: nan, Inf: nan, Growth: 4.2 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1985   MEDIUM   Debt: nan, Inf: nan, Growth: 2.8 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1986   MEDIUM   Debt: nan, Inf: nan, Growth: 2.1 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1987   MEDIUM   Debt: nan, Inf: nan, Growth: 2.1 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1988   LOW      Debt: nan, Inf: nan, Growth: 5.0 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1989   MEDIUM   Debt: nan, Inf: nan, Growth: -0.9 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+1990   LOW      Debt: nan, Inf: nan, Growth: 7.3 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1991   MEDIUM   Debt: nan, Inf: nan, Growth: -6.2 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+1992   LOW      Debt: nan, Inf: nan, Growth: 7.4 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1993   MEDIUM   Debt: nan, Inf: nan, Growth: 2.5 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1994   MEDIUM   Debt: nan, Inf: nan, Growth: -4.0 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+1995   LOW      Debt: nan, Inf: nan, Growth: 5.6 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1996   MEDIUM   Debt: nan, Inf: nan, Growth: -0.5 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+1997   LOW      Debt: nan, Inf: nan, Growth: 4.4 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1998   MEDIUM   Debt: nan, Inf: nan, Growth: 0.0 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+1999   MEDIUM   Debt: nan, Inf: nan, Growth: 2.7 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2000   MEDIUM   Debt: nan, Inf: nan, Growth: -1.0 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+2001   LOW      Debt: nan, Inf: 5.6, Growth: 5.4 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2002   LOW      Debt: nan, Inf: 3.5, Growth: 4.6 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2003   MEDIUM   Debt: nan, Inf: 3.8, Growth: 1.9 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2004   LOW      Debt: nan, Inf: 4.5, Growth: 3.1 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2005   LOW      Debt: nan, Inf: 3.0, Growth: 5.7 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2006   MEDIUM   Debt: nan, Inf: 3.4, Growth: -1.8 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+2007   MEDIUM   Debt: nan, Inf: 4.5, Growth: 0.8 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+2008   LOW      Debt: nan, Inf: 1.7, Growth: 4.0 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2009   LOW      Debt: nan, Inf: 4.4, Growth: 3.2 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2010   LOW      Debt: nan, Inf: 3.4, Growth: 3.8 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2011   LOW      Debt: nan, Inf: 1.8, Growth: 4.1 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2012   LOW      Debt: nan, Inf: 6.3, Growth: 3.2 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2013   LOW      Debt: nan, Inf: -4.3, Growth: 4.5 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2014   MEDIUM   Debt: nan, Inf: 7.5, Growth: 2.1 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2015   MEDIUM   Debt: nan, Inf: -0.1, Growth: 1.1 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+2016   LOW      Debt: nan, Inf: 0.8, Growth: 3.3 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2017   LOW      Debt: nan, Inf: -0.2, Growth: 3.8 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2018   LOW      Debt: nan, Inf: 2.2, Growth: 3.6 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2019   MEDIUM   Debt: nan, Inf: 3.6, Growth: 1.8 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2020   MEDIUM   Debt: nan, Inf: 0.8, Growth: -0.2 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+2021   MEDIUM   Debt: nan, Inf: -0.0, Growth: 2.0 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2022   MEDIUM   Debt: nan, Inf: 12.5, Growth: 2.6 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2023   MEDIUM   Debt: nan, Inf: 8.4, Growth: 3.0 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2024   LOW      Debt: nan, Inf: 5.1, Growth: 3.3 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+
+Column Key:
+Year: Calendar year of observation
+Flag: Early warning risk flag (HIGH/MEDIUM/LOW)
+Key Drivers: Main macro-fiscal indicators
+Scenario Analysis: Description of simulated macro shock
+Policy Recommendation: Automated policy advice based on risk pattern
+
+Data Quality Notes:
+indicator
+country              0.000000
+year                 0.000000
+current_account     20.000000
+reserves_months     20.000000
+inflation           46.666667
+debt_gdp           100.000000
+gdp_growth           2.222222
+growth_shock         2.222222
+reserves_risk       20.000000
+
+
+============================================================
+Executive Summary: COD
+============================================================
+Fiscal Risk Score (mean gdp_growth): 1.64
+
+Year   Flag     Key Drivers          Scenario Analysis         Policy Recommendation
+--------------------------------------------------------------------------------
+1970   MEDIUM   Debt: nan, Inf: 8.0, Growth: -0.2 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+1971   LOW      Debt: nan, Inf: 5.8, Growth: 6.0 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1972   MEDIUM   Debt: nan, Inf: 15.8, Growth: 0.2 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1973   MEDIUM   Debt: nan, Inf: 15.6, Growth: 8.1 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1974   MEDIUM   Debt: nan, Inf: 29.5, Growth: 3.1 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1975   MEDIUM   Debt: nan, Inf: 28.7, Growth: -5.0 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1976   MEDIUM   Debt: nan, Inf: 80.4, Growth: -5.3 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1977   MEDIUM   Debt: nan, Inf: 68.9, Growth: 0.8 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1978   MEDIUM   Debt: nan, Inf: 48.8, Growth: -5.3 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1979   MEDIUM   Debt: nan, Inf: 101.1, Growth: 0.4 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1980   MEDIUM   Debt: nan, Inf: 46.6, Growth: 2.2 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1981   MEDIUM   Debt: nan, Inf: 35.4, Growth: 2.4 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1982   MEDIUM   Debt: nan, Inf: 36.7, Growth: -0.5 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1983   MEDIUM   Debt: nan, Inf: 76.5, Growth: 1.4 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1984   MEDIUM   Debt: nan, Inf: 52.2, Growth: 5.5 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1985   MEDIUM   Debt: nan, Inf: 23.8, Growth: 0.5 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1986   MEDIUM   Debt: nan, Inf: 44.4, Growth: 4.7 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1987   MEDIUM   Debt: nan, Inf: 78.7, Growth: 2.7 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1988   MEDIUM   Debt: nan, Inf: 71.1, Growth: 0.5 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1989   MEDIUM   Debt: nan, Inf: 104.1, Growth: -1.3 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1990   HIGH     Debt: 289.8, Inf: 81.3, Growth: -6.6 Inflation shock +5pp      Based on similarities with Zambia (2015–2018): Phased fiscal consolidation of 1.5–2% of GDP., a fiscal consolidation is recommended.
+1991   HIGH     Debt: 113.6, Inf: 2154.4, Growth: -8.4 Inflation shock +5pp      Based on similarities with Zambia (2015–2018): Phased fiscal consolidation of 1.5–2% of GDP., a fiscal consolidation is recommended.
+1992   HIGH     Debt: 128.4, Inf: 4129.2, Growth: -10.5 Inflation shock +5pp      Based on similarities with Zambia (2015–2018): Phased fiscal consolidation of 1.5–2% of GDP., a fiscal consolidation is recommended.
+1993   HIGH     Debt: 104.0, Inf: 1986.9, Growth: -13.5 Inflation shock +5pp      Based on similarities with Zambia (2015–2018): Phased fiscal consolidation of 1.5–2% of GDP., a fiscal consolidation is recommended.
+1994   HIGH     Debt: 169.8, Inf: 23773.1, Growth: -3.9 Inflation shock +5pp      Based on similarities with Zambia (2015–2018): Phased fiscal consolidation of 1.5–2% of GDP., a fiscal consolidation is recommended.
+1995   HIGH     Debt: 232.9, Inf: 541.9, Growth: 0.7 Inflation shock +5pp      Based on similarities with Zambia (2015–2018): Phased fiscal consolidation of 1.5–2% of GDP., a fiscal consolidation is recommended.
+1996   HIGH     Debt: 243.6, Inf: 492.4, Growth: -1.0 Inflation shock +5pp      Based on similarities with Zambia (2015–2018): Phased fiscal consolidation of 1.5–2% of GDP., a fiscal consolidation is recommended.
+1997   HIGH     Debt: 152.2, Inf: 198.5, Growth: -5.6 Inflation shock +5pp      Based on similarities with Zambia (2015–2018): Phased fiscal consolidation of 1.5–2% of GDP., a fiscal consolidation is recommended.
+1998   MEDIUM   Debt: nan, Inf: 29.1, Growth: -1.6 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1999   MEDIUM   Debt: nan, Inf: 284.9, Growth: -4.3 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+2000   MEDIUM   Debt: nan, Inf: 513.9, Growth: -6.9 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+2001   MEDIUM   Debt: nan, Inf: 359.9, Growth: -2.1 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+2002   MEDIUM   Debt: nan, Inf: 31.5, Growth: 2.9 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+2003   MEDIUM   Debt: nan, Inf: 12.9, Growth: 5.6 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2004   LOW      Debt: nan, Inf: 4.0, Growth: 6.7 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2005   MEDIUM   Debt: nan, Inf: 21.3, Growth: 6.1 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+2006   MEDIUM   Debt: nan, Inf: 13.1, Growth: 5.1 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2007   MEDIUM   Debt: nan, Inf: 16.9, Growth: 8.5 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+2008   MEDIUM   Debt: nan, Inf: 17.3, Growth: 7.4 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+2009   MEDIUM   Debt: nan, Inf: 2.8, Growth: 0.6 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2010   LOW      Debt: nan, Inf: 7.1, Growth: 7.8 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2011   MEDIUM   Debt: nan, Inf: 15.3, Growth: 7.6 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+2012   LOW      Debt: nan, Inf: 9.7, Growth: 8.7 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2013   LOW      Debt: nan, Inf: 0.8, Growth: 9.6 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2014   LOW      Debt: nan, Inf: 1.2, Growth: 7.3 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2015   LOW      Debt: nan, Inf: 0.7, Growth: 6.4 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2016   MEDIUM   Debt: nan, Inf: 2.9, Growth: 0.4 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2017   LOW      Debt: nan, Inf: nan, Growth: 4.2 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2018   LOW      Debt: nan, Inf: nan, Growth: 6.1 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2019   MEDIUM   Debt: nan, Inf: nan, Growth: 0.6 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2020   MEDIUM   Debt: nan, Inf: nan, Growth: 0.8 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2021   LOW      Debt: nan, Inf: nan, Growth: 6.4 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2022   LOW      Debt: 14.9, Inf: nan, Growth: 9.3 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2023   LOW      Debt: nan, Inf: nan, Growth: 8.5 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2024   LOW      Debt: nan, Inf: nan, Growth: 6.1 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+
+Column Key:
+Year: Calendar year of observation
+Flag: Early warning risk flag (HIGH/MEDIUM/LOW)
+Key Drivers: Main macro-fiscal indicators
+Scenario Analysis: Description of simulated macro shock
+Policy Recommendation: Automated policy advice based on risk pattern
+
+Data Quality Notes:
+indicator
+country             0.000000
+year                0.000000
+current_account    63.636364
+reserves_months    65.454545
+inflation          14.545455
+debt_gdp           83.636364
+gdp_growth          0.000000
+growth_shock        0.000000
+reserves_risk      65.454545
+
+
+============================================================
+Executive Summary: SWZ
+============================================================
+Fiscal Risk Score (mean gdp_growth): 4.81
+
+Year   Flag     Key Drivers          Scenario Analysis         Policy Recommendation
+--------------------------------------------------------------------------------
+1970   LOW      Debt: nan, Inf: 1.8, Growth: nan Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1971   LOW      Debt: nan, Inf: 2.3, Growth: 13.7 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1972   LOW      Debt: nan, Inf: 2.4, Growth: 5.4 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1973   MEDIUM   Debt: nan, Inf: 11.5, Growth: 9.0 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1974   MEDIUM   Debt: nan, Inf: 19.3, Growth: 5.7 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1975   MEDIUM   Debt: nan, Inf: 12.0, Growth: 13.9 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1976   MEDIUM   Debt: nan, Inf: 6.5, Growth: -2.1 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+1977   MEDIUM   Debt: nan, Inf: 20.8, Growth: 1.0 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1978   MEDIUM   Debt: nan, Inf: 8.5, Growth: 1.3 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+1979   MEDIUM   Debt: nan, Inf: 16.5, Growth: 3.1 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1980   MEDIUM   Debt: nan, Inf: 18.7, Growth: 12.4 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1981   MEDIUM   Debt: nan, Inf: 20.1, Growth: 14.6 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1982   MEDIUM   Debt: nan, Inf: 10.8, Growth: 1.2 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1983   MEDIUM   Debt: nan, Inf: 11.6, Growth: 1.2 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1984   MEDIUM   Debt: nan, Inf: 12.9, Growth: 6.2 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1985   MEDIUM   Debt: nan, Inf: 20.5, Growth: 3.8 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1986   MEDIUM   Debt: nan, Inf: 13.7, Growth: 12.3 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1987   MEDIUM   Debt: nan, Inf: 13.4, Growth: 14.6 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1988   MEDIUM   Debt: nan, Inf: 20.4, Growth: 6.6 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1989   LOW      Debt: nan, Inf: 7.5, Growth: 12.9 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1990   MEDIUM   Debt: nan, Inf: 13.1, Growth: 21.0 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1991   MEDIUM   Debt: nan, Inf: 8.9, Growth: 1.8 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1992   LOW      Debt: nan, Inf: 7.6, Growth: 3.2 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1993   MEDIUM   Debt: nan, Inf: 12.0, Growth: 3.1 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1994   MEDIUM   Debt: nan, Inf: 13.8, Growth: 2.4 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1995   MEDIUM   Debt: nan, Inf: 12.3, Growth: 4.8 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1996   LOW      Debt: nan, Inf: 6.4, Growth: 3.8 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1997   LOW      Debt: nan, Inf: 7.1, Growth: 3.1 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1998   MEDIUM   Debt: nan, Inf: 8.1, Growth: 2.6 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1999   MEDIUM   Debt: 22.7, Inf: 6.1, Growth: 3.0 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2000   MEDIUM   Debt: nan, Inf: 12.2, Growth: 1.8 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2001   MEDIUM   Debt: nan, Inf: 5.9, Growth: 1.4 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2002   MEDIUM   Debt: nan, Inf: 12.0, Growth: 4.1 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2003   LOW      Debt: nan, Inf: 7.3, Growth: 4.5 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2004   LOW      Debt: nan, Inf: 3.4, Growth: 3.6 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2005   LOW      Debt: nan, Inf: 4.8, Growth: 6.0 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2006   LOW      Debt: nan, Inf: 5.3, Growth: 6.7 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2007   LOW      Debt: nan, Inf: 8.1, Growth: 4.3 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2008   MEDIUM   Debt: nan, Inf: 12.7, Growth: 1.4 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+2009   MEDIUM   Debt: nan, Inf: 7.4, Growth: 1.4 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+2010   LOW      Debt: 13.0, Inf: 4.5, Growth: 3.8 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2011   MEDIUM   Debt: 12.8, Inf: 6.1, Growth: 1.8 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2012   LOW      Debt: 13.3, Inf: 8.9, Growth: 4.1 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2013   LOW      Debt: nan, Inf: 5.6, Growth: 4.1 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2014   MEDIUM   Debt: 14.3, Inf: 5.7, Growth: 2.1 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2015   MEDIUM   Debt: 16.4, Inf: 5.0, Growth: 1.7 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2016   MEDIUM   Debt: 20.5, Inf: 7.8, Growth: 2.9 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2017   LOW      Debt: 21.9, Inf: 6.2, Growth: 3.5 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2018   MEDIUM   Debt: 27.1, Inf: 4.8, Growth: 0.1 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2019   LOW      Debt: 29.8, Inf: 2.6, Growth: 6.4 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2020   MEDIUM   Debt: 38.4, Inf: nan, Growth: -3.0 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2021   LOW      Debt: 35.7, Inf: nan, Growth: 4.2 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2022   MEDIUM   Debt: nan, Inf: nan, Growth: 0.4 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2023   LOW      Debt: nan, Inf: nan, Growth: 3.5 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2024   MEDIUM   Debt: nan, Inf: nan, Growth: 3.0 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+
+Column Key:
+Year: Calendar year of observation
+Flag: Early warning risk flag (HIGH/MEDIUM/LOW)
+Key Drivers: Main macro-fiscal indicators
+Scenario Analysis: Description of simulated macro shock
+Policy Recommendation: Automated policy advice based on risk pattern
+
+Data Quality Notes:
+indicator
+country             0.000000
+year                0.000000
+current_account     7.272727
+reserves_months     9.090909
+inflation           9.090909
+debt_gdp           78.181818
+gdp_growth          1.818182
+growth_shock        1.818182
+reserves_risk       9.090909
+
+
+============================================================
+Executive Summary: LSO
+============================================================
+Fiscal Risk Score (mean gdp_growth): 3.88
+
+Year   Flag     Key Drivers          Scenario Analysis         Policy Recommendation
+--------------------------------------------------------------------------------
+1970   MEDIUM   Debt: nan, Inf: nan, Growth: 2.2 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1971   LOW      Debt: nan, Inf: nan, Growth: 5.1 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1972   MEDIUM   Debt: nan, Inf: nan, Growth: -0.2 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+1973   LOW      Debt: nan, Inf: nan, Growth: 26.4 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1974   MEDIUM   Debt: nan, Inf: 13.4, Growth: 11.0 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1975   MEDIUM   Debt: nan, Inf: 14.2, Growth: -13.5 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+1976   MEDIUM   Debt: nan, Inf: 11.4, Growth: 11.0 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1977   MEDIUM   Debt: nan, Inf: 16.7, Growth: 21.8 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1978   MEDIUM   Debt: nan, Inf: 13.5, Growth: 18.3 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1979   MEDIUM   Debt: nan, Inf: 16.0, Growth: 2.9 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1980   MEDIUM   Debt: nan, Inf: 16.3, Growth: -2.7 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1981   MEDIUM   Debt: nan, Inf: 12.4, Growth: 0.7 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1982   MEDIUM   Debt: nan, Inf: 12.1, Growth: 4.5 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1983   MEDIUM   Debt: nan, Inf: 17.5, Growth: 2.0 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1984   MEDIUM   Debt: nan, Inf: 11.0, Growth: 5.5 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1985   MEDIUM   Debt: nan, Inf: 13.3, Growth: 2.6 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1986   MEDIUM   Debt: nan, Inf: 18.0, Growth: 4.7 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1987   MEDIUM   Debt: nan, Inf: 11.8, Growth: 0.7 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1988   MEDIUM   Debt: nan, Inf: 11.5, Growth: 8.6 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1989   MEDIUM   Debt: nan, Inf: 14.7, Growth: 5.8 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1990   MEDIUM   Debt: nan, Inf: 11.6, Growth: 6.0 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1991   MEDIUM   Debt: nan, Inf: 17.7, Growth: 7.0 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1992   MEDIUM   Debt: nan, Inf: 17.2, Growth: 7.0 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1993   MEDIUM   Debt: nan, Inf: 13.1, Growth: 3.5 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1994   LOW      Debt: nan, Inf: 8.2, Growth: 6.0 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1995   LOW      Debt: nan, Inf: 9.3, Growth: 3.3 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1996   LOW      Debt: nan, Inf: 9.3, Growth: 5.6 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1997   LOW      Debt: nan, Inf: nan, Growth: 3.7 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1998   MEDIUM   Debt: nan, Inf: nan, Growth: 1.5 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+1999   MEDIUM   Debt: nan, Inf: nan, Growth: 0.5 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+2000   LOW      Debt: nan, Inf: 6.1, Growth: 3.9 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2001   LOW      Debt: nan, Inf: -9.6, Growth: 3.6 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2002   MEDIUM   Debt: nan, Inf: 33.8, Growth: 0.7 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+2003   LOW      Debt: nan, Inf: 6.6, Growth: 4.6 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2004   MEDIUM   Debt: nan, Inf: 5.0, Growth: 1.7 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2005   LOW      Debt: nan, Inf: 3.4, Growth: 3.5 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2006   LOW      Debt: nan, Inf: 6.1, Growth: 4.2 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2007   LOW      Debt: nan, Inf: 8.0, Growth: 4.2 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2008   MEDIUM   Debt: 37.5, Inf: 10.7, Growth: 5.5 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2009   MEDIUM   Debt: 41.7, Inf: -16.9, Growth: -1.3 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+2010   LOW      Debt: 29.6, Inf: -2.4, Growth: 5.3 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2011   LOW      Debt: 27.1, Inf: 5.0, Growth: 4.6 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2012   LOW      Debt: 32.2, Inf: 6.1, Growth: 6.3 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2013   MEDIUM   Debt: 33.2, Inf: 4.9, Growth: 1.8 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2014   MEDIUM   Debt: 33.0, Inf: 5.4, Growth: 1.7 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2015   LOW      Debt: 33.1, Inf: 3.2, Growth: 3.1 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2016   LOW      Debt: 42.1, Inf: 6.6, Growth: 3.6 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2017   MEDIUM   Debt: 37.4, Inf: 4.4, Growth: -3.1 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+2018   MEDIUM   Debt: 32.8, Inf: 4.8, Growth: -1.5 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+2019   MEDIUM   Debt: 32.2, Inf: 5.2, Growth: -1.4 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+2020   MEDIUM   Debt: 3.0, Inf: 5.0, Growth: -8.2 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+2021   MEDIUM   Debt: nan, Inf: 6.0, Growth: 2.3 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2022   MEDIUM   Debt: nan, Inf: 8.3, Growth: 2.4 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2023   MEDIUM   Debt: nan, Inf: 6.3, Growth: 1.8 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2024   MEDIUM   Debt: nan, Inf: 6.1, Growth: 2.9 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+
+Column Key:
+Year: Calendar year of observation
+Flag: Early warning risk flag (HIGH/MEDIUM/LOW)
+Key Drivers: Main macro-fiscal indicators
+Scenario Analysis: Description of simulated macro shock
+Policy Recommendation: Automated policy advice based on risk pattern
+
+Data Quality Notes:
+indicator
+country             0.000000
+year                0.000000
+current_account    10.909091
+reserves_months    18.181818
+inflation          12.727273
+debt_gdp           76.363636
+gdp_growth          0.000000
+growth_shock        0.000000
+reserves_risk      18.181818
+
+
+============================================================
+Executive Summary: MDG
+============================================================
+Fiscal Risk Score (mean gdp_growth): 1.93
+
+Year   Flag     Key Drivers          Scenario Analysis         Policy Recommendation
+--------------------------------------------------------------------------------
+1970   LOW      Debt: nan, Inf: 2.9, Growth: 5.3 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1971   LOW      Debt: nan, Inf: 5.4, Growth: 3.9 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1972   MEDIUM   Debt: nan, Inf: 5.6, Growth: -1.3 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+1973   MEDIUM   Debt: nan, Inf: 6.1, Growth: -2.6 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+1974   MEDIUM   Debt: nan, Inf: 22.1, Growth: 2.0 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1975   MEDIUM   Debt: nan, Inf: 8.2, Growth: 1.3 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1976   MEDIUM   Debt: nan, Inf: 5.0, Growth: -3.1 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1977   MEDIUM   Debt: nan, Inf: 3.1, Growth: 2.4 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1978   MEDIUM   Debt: nan, Inf: 6.5, Growth: -2.7 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1979   MEDIUM   Debt: nan, Inf: 14.1, Growth: 9.9 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1980   MEDIUM   Debt: nan, Inf: 18.2, Growth: 1.0 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1981   MEDIUM   Debt: nan, Inf: 30.5, Growth: -9.8 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1982   MEDIUM   Debt: nan, Inf: 31.8, Growth: -1.9 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1983   MEDIUM   Debt: nan, Inf: 19.3, Growth: 0.9 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1984   MEDIUM   Debt: nan, Inf: 9.9, Growth: 1.8 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1985   MEDIUM   Debt: nan, Inf: 10.6, Growth: 1.2 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1986   MEDIUM   Debt: nan, Inf: 14.5, Growth: 2.0 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1987   MEDIUM   Debt: nan, Inf: 15.0, Growth: 1.2 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+1988   MEDIUM   Debt: nan, Inf: 26.9, Growth: 3.4 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1989   LOW      Debt: nan, Inf: 9.0, Growth: 4.1 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1990   MEDIUM   Debt: nan, Inf: 11.8, Growth: 3.1 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1991   MEDIUM   Debt: nan, Inf: 8.6, Growth: -6.3 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1992   MEDIUM   Debt: nan, Inf: 14.5, Growth: 1.2 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1993   MEDIUM   Debt: nan, Inf: 10.0, Growth: 2.1 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1994   MEDIUM   Debt: nan, Inf: 38.9, Growth: -0.0 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1995   MEDIUM   Debt: nan, Inf: 49.1, Growth: 1.7 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1996   MEDIUM   Debt: nan, Inf: 19.8, Growth: 2.2 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1997   LOW      Debt: nan, Inf: 4.5, Growth: 3.7 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1998   LOW      Debt: nan, Inf: 6.2, Growth: 3.9 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1999   LOW      Debt: nan, Inf: 9.9, Growth: 4.7 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2000   MEDIUM   Debt: nan, Inf: 11.9, Growth: 4.5 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2001   LOW      Debt: nan, Inf: 7.9, Growth: 6.0 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2002   MEDIUM   Debt: nan, Inf: 16.5, Growth: -12.4 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+2003   LOW      Debt: nan, Inf: -1.7, Growth: 9.8 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2004   MEDIUM   Debt: nan, Inf: 14.0, Growth: 5.3 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2005   MEDIUM   Debt: nan, Inf: 18.4, Growth: 4.8 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+2006   MEDIUM   Debt: nan, Inf: 10.8, Growth: 5.4 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2007   MEDIUM   Debt: nan, Inf: 10.3, Growth: 5.7 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2008   LOW      Debt: nan, Inf: 9.3, Growth: 6.7 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2009   MEDIUM   Debt: nan, Inf: 9.0, Growth: -4.0 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2010   MEDIUM   Debt: nan, Inf: 9.2, Growth: 0.6 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+2011   MEDIUM   Debt: nan, Inf: 9.5, Growth: 1.6 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+2012   LOW      Debt: nan, Inf: 5.7, Growth: 3.0 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2013   MEDIUM   Debt: nan, Inf: 5.8, Growth: 2.3 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2014   LOW      Debt: nan, Inf: 6.1, Growth: 3.3 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2015   LOW      Debt: nan, Inf: 7.4, Growth: 3.1 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2016   LOW      Debt: nan, Inf: 6.0, Growth: 4.0 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2017   LOW      Debt: nan, Inf: 8.6, Growth: 3.9 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2018   LOW      Debt: nan, Inf: 8.6, Growth: 3.2 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2019   LOW      Debt: nan, Inf: 5.6, Growth: 4.4 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2020   MEDIUM   Debt: nan, Inf: 4.2, Growth: -7.1 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+2021   LOW      Debt: nan, Inf: 5.8, Growth: 4.7 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2022   LOW      Debt: nan, Inf: 8.2, Growth: 4.2 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2023   LOW      Debt: nan, Inf: 9.9, Growth: 4.2 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2024   LOW      Debt: nan, Inf: nan, Growth: 4.2 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+
+Column Key:
+Year: Calendar year of observation
+Flag: Early warning risk flag (HIGH/MEDIUM/LOW)
+Key Drivers: Main macro-fiscal indicators
+Scenario Analysis: Description of simulated macro shock
+Policy Recommendation: Automated policy advice based on risk pattern
+
+Data Quality Notes:
+indicator
+country              0.000000
+year                 0.000000
+current_account     10.909091
+reserves_months     10.909091
+inflation            1.818182
+debt_gdp           100.000000
+gdp_growth           0.000000
+growth_shock         0.000000
+reserves_risk       10.909091
+
+
+============================================================
+Executive Summary: MWI
+============================================================
+Fiscal Risk Score (mean gdp_growth): 3.96
+
+Year   Flag     Key Drivers          Scenario Analysis         Policy Recommendation
+--------------------------------------------------------------------------------
+1970   MEDIUM   Debt: nan, Inf: nan, Growth: 0.5 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+1971   LOW      Debt: nan, Inf: nan, Growth: 16.2 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1972   LOW      Debt: nan, Inf: nan, Growth: 6.2 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1973   MEDIUM   Debt: nan, Inf: nan, Growth: 2.3 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1974   LOW      Debt: nan, Inf: nan, Growth: 7.2 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1975   LOW      Debt: nan, Inf: nan, Growth: 6.1 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1976   LOW      Debt: nan, Inf: nan, Growth: 5.0 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1977   LOW      Debt: nan, Inf: nan, Growth: 4.9 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1978   LOW      Debt: nan, Inf: nan, Growth: 9.7 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1979   LOW      Debt: nan, Inf: nan, Growth: 4.4 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1980   MEDIUM   Debt: nan, Inf: nan, Growth: 0.4 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1981   MEDIUM   Debt: nan, Inf: 11.8, Growth: -5.3 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1982   MEDIUM   Debt: nan, Inf: 9.8, Growth: 2.5 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1983   MEDIUM   Debt: nan, Inf: 13.5, Growth: 3.7 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1984   MEDIUM   Debt: nan, Inf: 20.0, Growth: 5.4 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1985   MEDIUM   Debt: nan, Inf: 10.5, Growth: 4.6 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1986   MEDIUM   Debt: nan, Inf: 14.0, Growth: -0.2 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1987   MEDIUM   Debt: nan, Inf: 25.2, Growth: 1.6 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1988   MEDIUM   Debt: nan, Inf: 33.9, Growth: 3.2 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1989   MEDIUM   Debt: nan, Inf: 12.4, Growth: 1.3 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1990   MEDIUM   Debt: nan, Inf: 11.8, Growth: 5.7 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1991   MEDIUM   Debt: nan, Inf: 12.6, Growth: 8.7 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1992   MEDIUM   Debt: nan, Inf: 23.8, Growth: -7.3 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1993   MEDIUM   Debt: nan, Inf: 22.8, Growth: 9.7 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1994   MEDIUM   Debt: nan, Inf: 34.6, Growth: -10.2 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1995   MEDIUM   Debt: nan, Inf: 83.3, Growth: 16.7 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1996   MEDIUM   Debt: nan, Inf: 37.6, Growth: 7.3 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1997   LOW      Debt: nan, Inf: 9.1, Growth: 3.8 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1998   MEDIUM   Debt: nan, Inf: 29.7, Growth: 3.9 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1999   MEDIUM   Debt: nan, Inf: 44.8, Growth: 3.0 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+2000   MEDIUM   Debt: nan, Inf: 29.6, Growth: 1.6 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+2001   MEDIUM   Debt: nan, Inf: 22.7, Growth: -5.0 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+2002   MEDIUM   Debt: nan, Inf: 14.7, Growth: 1.7 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2003   LOW      Debt: nan, Inf: 9.6, Growth: 5.7 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2004   MEDIUM   Debt: nan, Inf: 11.4, Growth: 5.4 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2005   MEDIUM   Debt: nan, Inf: 15.4, Growth: 3.3 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+2006   MEDIUM   Debt: nan, Inf: 14.0, Growth: 4.7 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2007   LOW      Debt: nan, Inf: 8.0, Growth: 9.6 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2008   LOW      Debt: nan, Inf: 8.7, Growth: 7.6 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2009   LOW      Debt: 20.1, Inf: 8.4, Growth: 8.3 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2010   LOW      Debt: 19.3, Inf: 7.4, Growth: 6.9 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2011   LOW      Debt: 18.8, Inf: 7.6, Growth: 4.9 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2012   MEDIUM   Debt: 28.5, Inf: 21.3, Growth: 1.9 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+2013   MEDIUM   Debt: 24.9, Inf: 27.3, Growth: 5.4 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+2014   MEDIUM   Debt: 27.9, Inf: 23.8, Growth: 5.6 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+2015   MEDIUM   Debt: 27.3, Inf: 21.9, Growth: 2.8 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+2016   MEDIUM   Debt: 37.9, Inf: 21.7, Growth: 2.5 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+2017   MEDIUM   Debt: 34.3, Inf: 11.5, Growth: 4.0 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2018   MEDIUM   Debt: 41.7, Inf: 12.4, Growth: 4.4 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2019   LOW      Debt: 44.8, Inf: 9.4, Growth: 5.7 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2020   MEDIUM   Debt: nan, Inf: 8.6, Growth: 0.8 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2021   LOW      Debt: nan, Inf: 9.3, Growth: 4.6 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2022   MEDIUM   Debt: 55.6, Inf: 21.0, Growth: 0.9 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+2023   MEDIUM   Debt: nan, Inf: 28.8, Growth: 1.9 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+2024   MEDIUM   Debt: nan, Inf: 32.2, Growth: 1.7 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+
+Column Key:
+Year: Calendar year of observation
+Flag: Early warning risk flag (HIGH/MEDIUM/LOW)
+Key Drivers: Main macro-fiscal indicators
+Scenario Analysis: Description of simulated macro shock
+Policy Recommendation: Automated policy advice based on risk pattern
+
+Data Quality Notes:
+indicator
+country             0.000000
+year                0.000000
+current_account    18.181818
+reserves_months    21.818182
+inflation          20.000000
+debt_gdp           78.181818
+gdp_growth          0.000000
+growth_shock        0.000000
+reserves_risk      21.818182
+
+
+============================================================
+Executive Summary: MUS
+============================================================
+Fiscal Risk Score (mean gdp_growth): 4.65
+
+Year   Flag     Key Drivers          Scenario Analysis         Policy Recommendation
+--------------------------------------------------------------------------------
+1970   MEDIUM   Debt: nan, Inf: 1.5, Growth: -0.4 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+1971   LOW      Debt: nan, Inf: 0.3, Growth: 4.3 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1972   LOW      Debt: nan, Inf: 5.4, Growth: 8.3 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1973   MEDIUM   Debt: nan, Inf: 13.5, Growth: 12.0 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1974   MEDIUM   Debt: nan, Inf: 29.1, Growth: 8.8 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1975   MEDIUM   Debt: nan, Inf: 14.7, Growth: 0.9 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+1976   MEDIUM   Debt: nan, Inf: 13.0, Growth: 23.8 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1977   LOW      Debt: nan, Inf: 9.2, Growth: 6.5 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1978   LOW      Debt: nan, Inf: 8.5, Growth: 3.8 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1979   MEDIUM   Debt: nan, Inf: 14.5, Growth: 3.5 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1980   MEDIUM   Debt: nan, Inf: 42.0, Growth: -10.1 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1981   MEDIUM   Debt: nan, Inf: 14.5, Growth: 5.9 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1982   MEDIUM   Debt: nan, Inf: 11.4, Growth: 5.5 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1983   MEDIUM   Debt: nan, Inf: 5.6, Growth: 0.4 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1984   LOW      Debt: nan, Inf: 7.4, Growth: 4.7 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1985   LOW      Debt: nan, Inf: 6.7, Growth: 7.0 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1986   LOW      Debt: nan, Inf: 1.6, Growth: 9.7 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1987   LOW      Debt: nan, Inf: 0.5, Growth: 8.9 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1988   LOW      Debt: nan, Inf: 9.2, Growth: 6.8 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1989   MEDIUM   Debt: nan, Inf: 12.7, Growth: 4.5 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1990   MEDIUM   Debt: 39.1, Inf: 13.5, Growth: 7.2 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1991   LOW      Debt: 39.4, Inf: 7.0, Growth: 4.4 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1992   LOW      Debt: 31.5, Inf: 4.6, Growth: 6.5 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1993   MEDIUM   Debt: 29.8, Inf: 10.5, Growth: 5.1 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1994   LOW      Debt: 30.7, Inf: 7.3, Growth: 4.1 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1995   LOW      Debt: 32.4, Inf: 6.0, Growth: 4.3 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1996   LOW      Debt: 35.3, Inf: 6.6, Growth: 5.6 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1997   LOW      Debt: 35.3, Inf: 6.8, Growth: 5.7 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1998   LOW      Debt: 33.1, Inf: 6.8, Growth: 6.1 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1999   MEDIUM   Debt: 31.0, Inf: 6.9, Growth: 2.6 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2000   LOW      Debt: 31.7, Inf: 4.2, Growth: 8.2 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2001   LOW      Debt: 29.8, Inf: 5.4, Growth: 3.3 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2002   MEDIUM   Debt: 39.3, Inf: 6.4, Growth: 1.6 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2003   LOW      Debt: 44.1, Inf: 3.9, Growth: 5.9 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2004   LOW      Debt: 38.5, Inf: 4.7, Growth: 4.3 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2005   MEDIUM   Debt: 41.1, Inf: 4.9, Growth: 1.8 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2006   LOW      Debt: 37.4, Inf: 8.9, Growth: 4.9 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2007   LOW      Debt: 34.2, Inf: 8.8, Growth: 5.7 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2008   LOW      Debt: 33.2, Inf: 9.7, Growth: 5.4 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2009   LOW      Debt: 36.0, Inf: 2.5, Growth: 3.3 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2010   LOW      Debt: 36.3, Inf: 2.9, Growth: 4.4 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2011   LOW      Debt: 35.0, Inf: 6.5, Growth: 4.1 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2012   LOW      Debt: 36.0, Inf: 3.9, Growth: 3.5 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2013   LOW      Debt: nan, Inf: 3.5, Growth: 3.4 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2014   LOW      Debt: nan, Inf: 3.2, Growth: 3.8 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2015   LOW      Debt: nan, Inf: 1.3, Growth: 3.7 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2016   LOW      Debt: nan, Inf: 1.0, Growth: 3.9 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2017   LOW      Debt: 55.4, Inf: 3.7, Growth: 3.9 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2018   LOW      Debt: 54.6, Inf: 3.2, Growth: 4.0 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2019   MEDIUM   Debt: 57.1, Inf: 0.4, Growth: 2.9 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2020   MEDIUM   Debt: nan, Inf: 2.6, Growth: -14.5 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+2021   LOW      Debt: nan, Inf: 4.0, Growth: 3.4 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2022   MEDIUM   Debt: nan, Inf: 10.8, Growth: 8.7 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2023   LOW      Debt: nan, Inf: 7.1, Growth: 5.0 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2024   LOW      Debt: nan, Inf: 3.6, Growth: 4.9 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+
+Column Key:
+Year: Calendar year of observation
+Flag: Early warning risk flag (HIGH/MEDIUM/LOW)
+Key Drivers: Main macro-fiscal indicators
+Scenario Analysis: Description of simulated macro shock
+Policy Recommendation: Automated policy advice based on risk pattern
+
+Data Quality Notes:
+indicator
+country             0.000000
+year                0.000000
+current_account    10.909091
+reserves_months    10.909091
+inflation           0.000000
+debt_gdp           52.727273
+gdp_growth          0.000000
+growth_shock        0.000000
+reserves_risk      10.909091
+
+
+============================================================
+Executive Summary: MOZ
+============================================================
+Fiscal Risk Score (mean gdp_growth): 4.81
+
+Year   Flag     Key Drivers          Scenario Analysis         Policy Recommendation
+--------------------------------------------------------------------------------
+1981   LOW      Debt: nan, Inf: nan, Growth: 5.0 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1982   MEDIUM   Debt: nan, Inf: nan, Growth: -6.9 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+1983   MEDIUM   Debt: nan, Inf: nan, Growth: -15.7 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+1984   MEDIUM   Debt: nan, Inf: nan, Growth: -6.5 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+1985   MEDIUM   Debt: nan, Inf: nan, Growth: 1.0 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+1986   MEDIUM   Debt: nan, Inf: nan, Growth: -2.3 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+1987   LOW      Debt: nan, Inf: nan, Growth: 14.7 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1988   LOW      Debt: nan, Inf: nan, Growth: 8.2 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1989   LOW      Debt: nan, Inf: nan, Growth: 6.5 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1990   MEDIUM   Debt: nan, Inf: nan, Growth: 1.0 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+1991   LOW      Debt: nan, Inf: nan, Growth: 4.9 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1992   MEDIUM   Debt: nan, Inf: nan, Growth: -7.6 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+1993   LOW      Debt: nan, Inf: nan, Growth: 10.9 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1994   LOW      Debt: nan, Inf: nan, Growth: 6.4 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1995   MEDIUM   Debt: nan, Inf: nan, Growth: 2.1 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1996   LOW      Debt: nan, Inf: nan, Growth: 10.7 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1997   LOW      Debt: nan, Inf: nan, Growth: 11.8 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1998   LOW      Debt: nan, Inf: nan, Growth: 10.4 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1999   LOW      Debt: nan, Inf: nan, Growth: 11.8 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2000   MEDIUM   Debt: nan, Inf: nan, Growth: 0.8 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+2001   LOW      Debt: nan, Inf: nan, Growth: 12.9 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2002   LOW      Debt: nan, Inf: nan, Growth: 9.7 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2003   LOW      Debt: nan, Inf: nan, Growth: 7.2 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2004   LOW      Debt: nan, Inf: nan, Growth: 8.2 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2005   LOW      Debt: nan, Inf: 6.4, Growth: 6.3 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2006   MEDIUM   Debt: nan, Inf: 13.2, Growth: 9.9 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2007   LOW      Debt: nan, Inf: 8.5, Growth: 7.6 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2008   MEDIUM   Debt: nan, Inf: 14.5, Growth: 6.9 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2009   LOW      Debt: nan, Inf: 3.8, Growth: 5.9 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2010   MEDIUM   Debt: nan, Inf: 12.4, Growth: 6.7 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2011   MEDIUM   Debt: nan, Inf: 11.2, Growth: 7.1 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2012   LOW      Debt: nan, Inf: 2.6, Growth: 8.0 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2013   LOW      Debt: nan, Inf: 4.3, Growth: 6.6 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2014   LOW      Debt: nan, Inf: 2.6, Growth: 7.7 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2015   LOW      Debt: nan, Inf: 3.6, Growth: 7.4 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2016   MEDIUM   Debt: 92.2, Inf: 17.4, Growth: 4.7 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+2017   MEDIUM   Debt: 78.5, Inf: 15.1, Growth: 2.6 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+2018   MEDIUM   Debt: 81.4, Inf: 3.9, Growth: 3.5 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2019   MEDIUM   Debt: 78.9, Inf: 2.8, Growth: 2.3 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2020   MEDIUM   Debt: 101.4, Inf: 3.5, Growth: -1.2 Inflation shock +5pp      Based on similarities with Zambia (2015–2018): Phased fiscal consolidation of 1.5–2% of GDP., a fiscal consolidation is recommended.
+2021   MEDIUM   Debt: 84.2, Inf: 6.4, Growth: 2.4 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2022   MEDIUM   Debt: 76.6, Inf: 10.3, Growth: 4.4 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2023   MEDIUM   Debt: 72.7, Inf: 7.1, Growth: 5.5 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2024   MEDIUM   Debt: 71.8, Inf: 4.1, Growth: 2.1 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+
+Column Key:
+Year: Calendar year of observation
+Flag: Early warning risk flag (HIGH/MEDIUM/LOW)
+Key Drivers: Main macro-fiscal indicators
+Scenario Analysis: Description of simulated macro shock
+Policy Recommendation: Automated policy advice based on risk pattern
+
+Data Quality Notes:
+indicator
+country             0.000000
+year                0.000000
+current_account    54.545455
+reserves_months    54.545455
+inflation          54.545455
+debt_gdp           79.545455
+gdp_growth          0.000000
+growth_shock        0.000000
+reserves_risk      54.545455
+
+
+============================================================
+Executive Summary: NAM
+============================================================
+Fiscal Risk Score (mean gdp_growth): 2.95
+
+Year   Flag     Key Drivers          Scenario Analysis         Policy Recommendation
+--------------------------------------------------------------------------------
+1981   MEDIUM   Debt: nan, Inf: nan, Growth: 1.0 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+1982   MEDIUM   Debt: nan, Inf: nan, Growth: -0.4 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+1983   MEDIUM   Debt: nan, Inf: nan, Growth: -1.8 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+1984   MEDIUM   Debt: nan, Inf: nan, Growth: -0.2 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+1985   MEDIUM   Debt: nan, Inf: nan, Growth: 0.5 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+1986   LOW      Debt: nan, Inf: nan, Growth: 4.8 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1987   LOW      Debt: nan, Inf: nan, Growth: 3.6 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1988   MEDIUM   Debt: nan, Inf: nan, Growth: 0.8 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+1989   MEDIUM   Debt: nan, Inf: nan, Growth: 1.9 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1990   MEDIUM   Debt: nan, Inf: nan, Growth: 2.0 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1991   LOW      Debt: nan, Inf: nan, Growth: 8.2 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1992   LOW      Debt: nan, Inf: nan, Growth: 7.2 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1993   MEDIUM   Debt: nan, Inf: nan, Growth: -1.6 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1994   MEDIUM   Debt: nan, Inf: nan, Growth: 1.7 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1995   LOW      Debt: nan, Inf: nan, Growth: 3.9 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1996   LOW      Debt: nan, Inf: nan, Growth: 3.2 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1997   LOW      Debt: nan, Inf: nan, Growth: 4.2 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1998   LOW      Debt: nan, Inf: nan, Growth: 3.3 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1999   LOW      Debt: nan, Inf: nan, Growth: 3.4 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2000   LOW      Debt: nan, Inf: nan, Growth: 3.5 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2001   MEDIUM   Debt: nan, Inf: nan, Growth: 1.2 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2002   LOW      Debt: nan, Inf: nan, Growth: 4.8 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2003   LOW      Debt: nan, Inf: 7.1, Growth: 4.2 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2004   LOW      Debt: nan, Inf: 4.1, Growth: 12.3 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2005   MEDIUM   Debt: nan, Inf: 2.3, Growth: 2.5 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2006   LOW      Debt: nan, Inf: 5.0, Growth: 7.1 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2007   MEDIUM   Debt: 117.5, Inf: 6.5, Growth: 5.4 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2008   MEDIUM   Debt: 1.1, Inf: 9.1, Growth: 2.6 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2009   MEDIUM   Debt: 0.3, Inf: 9.5, Growth: 0.3 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+2010   LOW      Debt: 1.6, Inf: 4.9, Growth: 6.0 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2011   LOW      Debt: 7.5, Inf: 5.0, Growth: 5.1 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2012   LOW      Debt: -1.2, Inf: 6.7, Growth: 5.1 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2013   LOW      Debt: 2.6, Inf: 5.6, Growth: 5.6 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2014   LOW      Debt: nan, Inf: 5.4, Growth: 6.1 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2015   LOW      Debt: 4.7, Inf: 3.4, Growth: 4.3 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2016   MEDIUM   Debt: nan, Inf: 6.7, Growth: 0.0 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+2017   MEDIUM   Debt: nan, Inf: 6.1, Growth: -1.0 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+2018   MEDIUM   Debt: nan, Inf: 4.3, Growth: 1.1 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+2019   MEDIUM   Debt: nan, Inf: 3.7, Growth: -0.8 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+2020   MEDIUM   Debt: nan, Inf: 2.2, Growth: -8.1 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+2021   LOW      Debt: nan, Inf: 3.6, Growth: 3.6 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2022   LOW      Debt: nan, Inf: 6.1, Growth: 5.4 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2023   LOW      Debt: nan, Inf: 5.9, Growth: 4.4 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2024   LOW      Debt: nan, Inf: 4.2, Growth: 3.7 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+
+Column Key:
+Year: Calendar year of observation
+Flag: Early warning risk flag (HIGH/MEDIUM/LOW)
+Key Drivers: Main macro-fiscal indicators
+Scenario Analysis: Description of simulated macro shock
+Policy Recommendation: Automated policy advice based on risk pattern
+
+Data Quality Notes:
+indicator
+country             0.000000
+year                0.000000
+current_account    20.454545
+reserves_months    25.000000
+inflation          50.000000
+debt_gdp           81.818182
+gdp_growth          0.000000
+growth_shock        0.000000
+reserves_risk      25.000000
+
+
+============================================================
+Executive Summary: ZAF
+============================================================
+Fiscal Risk Score (mean gdp_growth): 2.26
+
+Year   Flag     Key Drivers          Scenario Analysis         Policy Recommendation
+--------------------------------------------------------------------------------
+1970   LOW      Debt: nan, Inf: 5.0, Growth: 5.2 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1971   LOW      Debt: nan, Inf: 6.0, Growth: 4.3 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1972   MEDIUM   Debt: nan, Inf: 6.4, Growth: 1.7 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1973   LOW      Debt: nan, Inf: 9.4, Growth: 4.6 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1974   MEDIUM   Debt: nan, Inf: 11.7, Growth: 6.1 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1975   MEDIUM   Debt: nan, Inf: 13.4, Growth: 1.7 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1976   MEDIUM   Debt: nan, Inf: 11.0, Growth: 2.2 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1977   MEDIUM   Debt: nan, Inf: 11.2, Growth: -0.1 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1978   MEDIUM   Debt: nan, Inf: 11.1, Growth: 3.0 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1979   MEDIUM   Debt: nan, Inf: 13.3, Growth: 3.8 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1980   MEDIUM   Debt: nan, Inf: 13.7, Growth: 6.6 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1981   MEDIUM   Debt: nan, Inf: 15.3, Growth: 5.4 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1982   MEDIUM   Debt: nan, Inf: 14.6, Growth: -0.4 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1983   MEDIUM   Debt: nan, Inf: 12.3, Growth: -1.8 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1984   MEDIUM   Debt: nan, Inf: 11.5, Growth: 5.1 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1985   MEDIUM   Debt: nan, Inf: 16.3, Growth: -1.2 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1986   MEDIUM   Debt: nan, Inf: 18.7, Growth: 0.0 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1987   MEDIUM   Debt: nan, Inf: 16.2, Growth: 2.1 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1988   MEDIUM   Debt: nan, Inf: 12.8, Growth: 4.2 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1989   MEDIUM   Debt: nan, Inf: 14.7, Growth: 2.4 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1990   MEDIUM   Debt: 32.4, Inf: 14.3, Growth: -0.3 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1991   MEDIUM   Debt: 33.9, Inf: 15.3, Growth: -1.0 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1992   MEDIUM   Debt: 36.9, Inf: 13.9, Growth: -2.1 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1993   MEDIUM   Debt: 40.0, Inf: 9.7, Growth: 1.2 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1994   LOW      Debt: 44.8, Inf: 8.9, Growth: 3.2 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1995   LOW      Debt: 44.9, Inf: 8.7, Growth: 3.1 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1996   LOW      Debt: 44.2, Inf: 7.4, Growth: 4.3 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1997   MEDIUM   Debt: 43.2, Inf: 8.6, Growth: 2.6 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1998   MEDIUM   Debt: 44.7, Inf: 6.9, Growth: 0.5 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1999   MEDIUM   Debt: 42.2, Inf: 5.2, Growth: 2.4 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2000   LOW      Debt: 39.6, Inf: 5.3, Growth: 4.2 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2001   MEDIUM   Debt: nan, Inf: 5.7, Growth: 2.7 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2002   LOW      Debt: nan, Inf: 9.5, Growth: 3.7 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2003   MEDIUM   Debt: nan, Inf: 5.7, Growth: 2.9 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2004   LOW      Debt: nan, Inf: -0.7, Growth: 4.6 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2005   LOW      Debt: nan, Inf: 2.1, Growth: 5.3 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2006   LOW      Debt: nan, Inf: 3.2, Growth: 5.6 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2007   LOW      Debt: nan, Inf: 6.2, Growth: 5.4 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2008   LOW      Debt: nan, Inf: 9.9, Growth: 3.2 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2009   MEDIUM   Debt: nan, Inf: 7.2, Growth: -1.5 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+2010   LOW      Debt: nan, Inf: 4.1, Growth: 3.0 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2011   LOW      Debt: nan, Inf: 5.0, Growth: 3.2 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2012   MEDIUM   Debt: nan, Inf: 5.7, Growth: 2.4 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2013   MEDIUM   Debt: nan, Inf: 5.8, Growth: 2.5 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2014   MEDIUM   Debt: nan, Inf: 6.1, Growth: 1.4 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+2015   MEDIUM   Debt: 52.7, Inf: 4.5, Growth: 1.3 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+2016   MEDIUM   Debt: 53.7, Inf: 6.6, Growth: 0.7 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+2017   MEDIUM   Debt: 56.3, Inf: 5.2, Growth: 1.2 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+2018   MEDIUM   Debt: 59.1, Inf: 4.5, Growth: 1.6 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+2019   MEDIUM   Debt: 64.6, Inf: 4.1, Growth: 0.3 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+2020   MEDIUM   Debt: 75.7, Inf: 3.2, Growth: -6.2 Inflation shock +5pp      Based on similarities with Zambia (2015–2018): Phased fiscal consolidation of 1.5–2% of GDP., a fiscal consolidation is recommended.
+2021   MEDIUM   Debt: 74.1, Inf: 4.6, Growth: 4.9 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2022   MEDIUM   Debt: 76.2, Inf: 7.0, Growth: 2.1 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2023   MEDIUM   Debt: 79.4, Inf: 6.1, Growth: 0.8 Inflation shock +5pp      Based on similarities with Zambia (2015–2018): Phased fiscal consolidation of 1.5–2% of GDP., a fiscal consolidation is recommended.
+2024   MEDIUM   Debt: nan, Inf: 4.4, Growth: 0.5 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+
+Column Key:
+Year: Calendar year of observation
+Flag: Early warning risk flag (HIGH/MEDIUM/LOW)
+Key Drivers: Main macro-fiscal indicators
+Scenario Analysis: Description of simulated macro shock
+Policy Recommendation: Automated policy advice based on risk pattern
+
+Data Quality Notes:
+indicator
+country             0.000000
+year                0.000000
+current_account     0.000000
+reserves_months     0.000000
+inflation           0.000000
+debt_gdp           63.636364
+gdp_growth          0.000000
+growth_shock        0.000000
+reserves_risk       0.000000
+
+
+============================================================
+Executive Summary: TZA
+============================================================
+Fiscal Risk Score (mean gdp_growth): 3.53
+
+Year   Flag     Key Drivers          Scenario Analysis         Policy Recommendation
+--------------------------------------------------------------------------------
+1970   MEDIUM   Debt: nan, Inf: 3.5, Growth: -46.4 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+1971   LOW      Debt: nan, Inf: 4.8, Growth: 3.9 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1972   LOW      Debt: nan, Inf: 7.6, Growth: 7.1 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1973   MEDIUM   Debt: nan, Inf: 10.4, Growth: 6.2 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1974   MEDIUM   Debt: nan, Inf: 19.6, Growth: 2.1 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1975   MEDIUM   Debt: nan, Inf: 26.1, Growth: 4.0 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1976   LOW      Debt: nan, Inf: 6.9, Growth: 3.3 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1977   MEDIUM   Debt: nan, Inf: 11.6, Growth: 0.0 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+1978   MEDIUM   Debt: nan, Inf: 6.6, Growth: 2.1 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1979   MEDIUM   Debt: nan, Inf: 12.9, Growth: 2.5 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1980   MEDIUM   Debt: nan, Inf: 30.2, Growth: 2.7 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1981   MEDIUM   Debt: nan, Inf: 25.7, Growth: -1.0 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1982   MEDIUM   Debt: nan, Inf: 28.9, Growth: -0.4 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1983   MEDIUM   Debt: nan, Inf: 27.1, Growth: -0.4 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1984   MEDIUM   Debt: nan, Inf: 36.1, Growth: 4.7 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1985   MEDIUM   Debt: nan, Inf: 33.3, Growth: 1.2 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1986   MEDIUM   Debt: nan, Inf: 32.4, Growth: 5.5 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1987   MEDIUM   Debt: nan, Inf: 29.9, Growth: 4.8 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1988   MEDIUM   Debt: nan, Inf: 31.2, Growth: 7.3 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1989   MEDIUM   Debt: nan, Inf: 25.8, Growth: 3.8 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1990   MEDIUM   Debt: nan, Inf: 35.8, Growth: 7.0 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1991   MEDIUM   Debt: nan, Inf: 28.7, Growth: 2.1 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1992   MEDIUM   Debt: nan, Inf: 21.8, Growth: 0.6 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1993   MEDIUM   Debt: nan, Inf: 25.3, Growth: 1.2 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1994   MEDIUM   Debt: nan, Inf: 34.1, Growth: 1.6 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1995   MEDIUM   Debt: nan, Inf: 27.4, Growth: 3.6 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1996   MEDIUM   Debt: nan, Inf: 21.0, Growth: 4.5 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1997   MEDIUM   Debt: nan, Inf: 16.1, Growth: 3.5 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1998   MEDIUM   Debt: nan, Inf: 12.8, Growth: 3.7 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1999   LOW      Debt: nan, Inf: 7.9, Growth: 4.9 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2000   LOW      Debt: nan, Inf: 5.9, Growth: 4.5 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2001   LOW      Debt: nan, Inf: 5.1, Growth: 6.1 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2002   LOW      Debt: nan, Inf: 5.3, Growth: 7.1 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2003   LOW      Debt: nan, Inf: 5.3, Growth: 6.7 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2004   LOW      Debt: nan, Inf: 4.7, Growth: 7.5 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2005   LOW      Debt: nan, Inf: 5.0, Growth: 7.5 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2006   LOW      Debt: nan, Inf: 7.3, Growth: 6.5 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2007   LOW      Debt: nan, Inf: 7.0, Growth: 6.8 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2008   MEDIUM   Debt: nan, Inf: 10.3, Growth: 5.7 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2009   MEDIUM   Debt: nan, Inf: 12.1, Growth: 5.3 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2010   LOW      Debt: nan, Inf: 6.2, Growth: 6.3 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2011   MEDIUM   Debt: nan, Inf: 12.7, Growth: 7.7 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2012   MEDIUM   Debt: nan, Inf: 16.0, Growth: 4.5 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+2013   LOW      Debt: nan, Inf: 7.9, Growth: 6.8 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2014   LOW      Debt: nan, Inf: 6.1, Growth: 6.7 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2015   LOW      Debt: nan, Inf: 5.6, Growth: 6.2 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2016   LOW      Debt: nan, Inf: 5.2, Growth: 6.9 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2017   LOW      Debt: nan, Inf: 5.3, Growth: 6.7 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2018   LOW      Debt: nan, Inf: 3.5, Growth: 5.5 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2019   LOW      Debt: nan, Inf: 3.5, Growth: 5.8 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2020   MEDIUM   Debt: nan, Inf: 3.3, Growth: 2.0 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2021   LOW      Debt: nan, Inf: 3.7, Growth: 4.3 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2022   LOW      Debt: nan, Inf: 4.4, Growth: 4.6 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2023   LOW      Debt: nan, Inf: 3.8, Growth: 5.1 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2024   LOW      Debt: nan, Inf: 3.1, Growth: 5.5 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+
+Column Key:
+Year: Calendar year of observation
+Flag: Early warning risk flag (HIGH/MEDIUM/LOW)
+Key Drivers: Main macro-fiscal indicators
+Scenario Analysis: Description of simulated macro shock
+Policy Recommendation: Automated policy advice based on risk pattern
+
+Data Quality Notes:
+indicator
+country              0.000000
+year                 0.000000
+current_account     10.909091
+reserves_months     21.818182
+inflation            0.000000
+debt_gdp           100.000000
+gdp_growth           0.000000
+growth_shock         0.000000
+reserves_risk       21.818182
+
+
+============================================================
+Executive Summary: ZMB
+============================================================
+Fiscal Risk Score (mean gdp_growth): 3.25
+
+Year   Flag     Key Drivers          Scenario Analysis         Policy Recommendation
+--------------------------------------------------------------------------------
+1970   LOW      Debt: nan, Inf: nan, Growth: 4.8 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1971   MEDIUM   Debt: nan, Inf: nan, Growth: -0.1 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+1972   LOW      Debt: nan, Inf: nan, Growth: 9.2 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1973   MEDIUM   Debt: nan, Inf: nan, Growth: -1.0 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+1974   LOW      Debt: nan, Inf: nan, Growth: 6.4 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1975   MEDIUM   Debt: nan, Inf: nan, Growth: -2.3 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+1976   LOW      Debt: nan, Inf: nan, Growth: 6.2 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1977   MEDIUM   Debt: nan, Inf: nan, Growth: -4.6 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+1978   MEDIUM   Debt: nan, Inf: nan, Growth: 0.6 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1979   MEDIUM   Debt: nan, Inf: nan, Growth: -3.0 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1980   LOW      Debt: nan, Inf: nan, Growth: 3.0 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1981   LOW      Debt: nan, Inf: nan, Growth: 6.2 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1982   MEDIUM   Debt: nan, Inf: nan, Growth: -2.8 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1983   MEDIUM   Debt: nan, Inf: nan, Growth: -2.0 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1984   MEDIUM   Debt: nan, Inf: nan, Growth: -0.3 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1985   MEDIUM   Debt: nan, Inf: nan, Growth: 1.6 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1986   MEDIUM   Debt: nan, Inf: 55.8, Growth: 0.7 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1987   MEDIUM   Debt: nan, Inf: 47.0, Growth: 2.7 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1988   MEDIUM   Debt: nan, Inf: 51.0, Growth: 6.3 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1989   MEDIUM   Debt: nan, Inf: 123.4, Growth: -1.0 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1990   HIGH     Debt: 244.4, Inf: 107.0, Growth: -0.5 Inflation shock +5pp      Based on similarities with Zambia (2015–2018): Phased fiscal consolidation of 1.5–2% of GDP., a fiscal consolidation is recommended.
+1991   HIGH     Debt: 277.5, Inf: 97.6, Growth: -0.0 Inflation shock +5pp      Based on similarities with Zambia (2015–2018): Phased fiscal consolidation of 1.5–2% of GDP., a fiscal consolidation is recommended.
+1992   HIGH     Debt: 164.7, Inf: 165.7, Growth: -1.7 Inflation shock +5pp      Based on similarities with Zambia (2015–2018): Phased fiscal consolidation of 1.5–2% of GDP., a fiscal consolidation is recommended.
+1993   MEDIUM   Debt: 161.8, Inf: 183.3, Growth: 6.8 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1994   HIGH     Debt: 149.2, Inf: 54.6, Growth: -8.6 Inflation shock +5pp      Based on similarities with Zambia (2015–2018): Phased fiscal consolidation of 1.5–2% of GDP., a fiscal consolidation is recommended.
+1995   MEDIUM   Debt: 155.3, Inf: 34.9, Growth: 2.9 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1996   MEDIUM   Debt: 175.9, Inf: 43.1, Growth: 6.2 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1997   MEDIUM   Debt: 150.1, Inf: 24.4, Growth: 3.8 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+1998   HIGH     Debt: 161.2, Inf: 24.5, Growth: -0.4 Inflation shock +5pp      Based on similarities with Zambia (2015–2018): Phased fiscal consolidation of 1.5–2% of GDP., a fiscal consolidation is recommended.
+1999   MEDIUM   Debt: nan, Inf: 26.8, Growth: 4.7 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+2000   MEDIUM   Debt: nan, Inf: 26.0, Growth: 3.9 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+2001   MEDIUM   Debt: nan, Inf: 21.4, Growth: 5.3 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+2002   MEDIUM   Debt: nan, Inf: 22.2, Growth: 4.5 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+2003   MEDIUM   Debt: nan, Inf: 21.4, Growth: 6.9 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+2004   MEDIUM   Debt: nan, Inf: 18.0, Growth: 7.0 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+2005   MEDIUM   Debt: nan, Inf: 18.3, Growth: 7.2 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+2006   LOW      Debt: nan, Inf: 9.0, Growth: 7.9 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2007   MEDIUM   Debt: nan, Inf: 10.7, Growth: 8.4 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2008   MEDIUM   Debt: nan, Inf: 12.4, Growth: 7.8 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2009   MEDIUM   Debt: nan, Inf: 13.4, Growth: 9.2 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2010   LOW      Debt: 17.3, Inf: 8.5, Growth: 10.3 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2011   LOW      Debt: 18.0, Inf: 6.4, Growth: 5.6 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2012   LOW      Debt: 23.5, Inf: 6.6, Growth: 7.6 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2013   LOW      Debt: 24.2, Inf: 7.0, Growth: 5.1 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2014   LOW      Debt: 44.4, Inf: 7.8, Growth: 4.7 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2015   MEDIUM   Debt: 49.4, Inf: 10.1, Growth: 2.9 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2016   MEDIUM   Debt: 46.4, Inf: 17.9, Growth: 3.8 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+2017   LOW      Debt: 52.3, Inf: 6.6, Growth: 3.5 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2018   LOW      Debt: 59.7, Inf: 7.5, Growth: 4.0 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2019   MEDIUM   Debt: 61.9, Inf: 9.2, Growth: 1.4 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2020   HIGH     Debt: 103.5, Inf: 15.7, Growth: -2.8 Inflation shock +5pp      Based on similarities with Zambia (2015–2018): Phased fiscal consolidation of 1.5–2% of GDP., a fiscal consolidation is recommended.
+2021   MEDIUM   Debt: 71.4, Inf: 22.0, Growth: 6.2 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+2022   MEDIUM   Debt: nan, Inf: 11.0, Growth: 5.2 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2023   MEDIUM   Debt: nan, Inf: 10.9, Growth: 5.4 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+2024   MEDIUM   Debt: nan, Inf: 15.0, Growth: 3.8 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+
+Column Key:
+Year: Calendar year of observation
+Flag: Early warning risk flag (HIGH/MEDIUM/LOW)
+Key Drivers: Main macro-fiscal indicators
+Scenario Analysis: Description of simulated macro shock
+Policy Recommendation: Automated policy advice based on risk pattern
+
+Data Quality Notes:
+indicator
+country             0.000000
+year                0.000000
+current_account    23.636364
+reserves_months    25.454545
+inflation          29.090909
+debt_gdp           61.818182
+gdp_growth          0.000000
+growth_shock        0.000000
+reserves_risk      25.454545
+
+
+============================================================
+Executive Summary: ZWE
+============================================================
+Fiscal Risk Score (mean gdp_growth): 2.67
+
+Year   Flag     Key Drivers          Scenario Analysis         Policy Recommendation
+--------------------------------------------------------------------------------
+1970   LOW      Debt: nan, Inf: nan, Growth: 22.6 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1971   LOW      Debt: nan, Inf: nan, Growth: 8.9 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1972   LOW      Debt: nan, Inf: nan, Growth: 8.3 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1973   MEDIUM   Debt: nan, Inf: nan, Growth: 2.6 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1974   LOW      Debt: nan, Inf: nan, Growth: 6.6 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1975   MEDIUM   Debt: nan, Inf: nan, Growth: -1.9 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+1976   MEDIUM   Debt: nan, Inf: nan, Growth: 0.5 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+1977   MEDIUM   Debt: nan, Inf: nan, Growth: -6.9 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1978   MEDIUM   Debt: nan, Inf: nan, Growth: -2.7 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1979   LOW      Debt: nan, Inf: nan, Growth: 3.3 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1980   LOW      Debt: nan, Inf: nan, Growth: 14.4 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1981   LOW      Debt: nan, Inf: nan, Growth: 12.5 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1982   MEDIUM   Debt: nan, Inf: nan, Growth: 2.6 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1983   MEDIUM   Debt: nan, Inf: nan, Growth: 1.6 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1984   MEDIUM   Debt: nan, Inf: nan, Growth: -1.9 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1985   LOW      Debt: nan, Inf: nan, Growth: 6.9 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1986   MEDIUM   Debt: nan, Inf: nan, Growth: 2.1 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1987   MEDIUM   Debt: nan, Inf: nan, Growth: 1.2 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1988   LOW      Debt: nan, Inf: nan, Growth: 7.6 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1989   LOW      Debt: nan, Inf: nan, Growth: 5.2 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1990   LOW      Debt: nan, Inf: nan, Growth: 7.0 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1991   LOW      Debt: nan, Inf: nan, Growth: 5.5 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1992   MEDIUM   Debt: nan, Inf: nan, Growth: -9.0 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1993   MEDIUM   Debt: nan, Inf: nan, Growth: 1.1 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+1994   LOW      Debt: nan, Inf: nan, Growth: 9.2 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+1995   MEDIUM   Debt: nan, Inf: nan, Growth: 0.2 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+1996   LOW      Debt: nan, Inf: nan, Growth: 10.4 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1997   MEDIUM   Debt: nan, Inf: nan, Growth: 2.7 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1998   MEDIUM   Debt: nan, Inf: nan, Growth: 2.9 Inflation shock +5pp      No specific policy template matched. Recommend expert review.
+1999   MEDIUM   Debt: nan, Inf: nan, Growth: -0.8 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+2000   MEDIUM   Debt: nan, Inf: nan, Growth: -3.1 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+2001   MEDIUM   Debt: nan, Inf: nan, Growth: 1.4 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+2002   MEDIUM   Debt: nan, Inf: nan, Growth: -8.9 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+2003   MEDIUM   Debt: nan, Inf: nan, Growth: -17.0 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+2004   MEDIUM   Debt: nan, Inf: nan, Growth: -5.8 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+2005   MEDIUM   Debt: nan, Inf: nan, Growth: -5.7 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+2006   MEDIUM   Debt: nan, Inf: nan, Growth: -3.5 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+2007   MEDIUM   Debt: nan, Inf: nan, Growth: -3.7 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+2008   MEDIUM   Debt: nan, Inf: nan, Growth: -17.7 Inflation shock +5pp      Based on similarities with Botswana (2009): Countercyclical fiscal stimulus., a targeted stimulus is recommended.
+2009   LOW      Debt: nan, Inf: nan, Growth: 13.3 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2010   LOW      Debt: nan, Inf: 3.0, Growth: 19.7 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2011   LOW      Debt: nan, Inf: 3.5, Growth: 14.2 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2012   LOW      Debt: nan, Inf: 3.7, Growth: 16.7 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2013   MEDIUM   Debt: nan, Inf: 1.6, Growth: 2.0 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2014   MEDIUM   Debt: nan, Inf: -0.2, Growth: 2.4 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2015   MEDIUM   Debt: nan, Inf: -2.4, Growth: 1.8 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2016   MEDIUM   Debt: nan, Inf: -1.5, Growth: 0.8 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2017   LOW      Debt: nan, Inf: 0.9, Growth: 4.7 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2018   MEDIUM   Debt: nan, Inf: 10.6, Growth: 5.0 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2019   MEDIUM   Debt: nan, Inf: 255.3, Growth: -6.3 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+2020   MEDIUM   Debt: nan, Inf: 557.2, Growth: -7.8 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+2021   MEDIUM   Debt: nan, Inf: 98.5, Growth: 8.5 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+2022   MEDIUM   Debt: nan, Inf: 104.7, Growth: 6.1 Inflation shock +5pp      Based on similarities with IMF-supported programs: Aggressive rate hikes to anchor expectations., a monetary tightening is recommended.
+2023   LOW      Debt: nan, Inf: nan, Growth: 5.4 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+2024   MEDIUM   Debt: nan, Inf: nan, Growth: 1.7 Inflation shock +5pp      Based on similarities with Mozambique (2016): FX interventions and import compression., a FX management is recommended.
+
+Column Key:
+Year: Calendar year of observation
+Flag: Early warning risk flag (HIGH/MEDIUM/LOW)
+Key Drivers: Main macro-fiscal indicators
+Scenario Analysis: Description of simulated macro shock
+Policy Recommendation: Automated policy advice based on risk pattern
+
+Data Quality Notes:
+indicator
+country              0.000000
+year                 0.000000
+current_account     38.181818
+reserves_months     38.181818
+inflation           76.363636
+debt_gdp           100.000000
+gdp_growth           0.000000
+growth_shock         0.000000
+reserves_risk       38.181818
+

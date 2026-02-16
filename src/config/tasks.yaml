@@ -1,44 +1,48 @@
 # SADC Economic Resilience Monitor - Task Configuration
-tasks:
-	- agent: DataHarvesterAgent
-		description: Collect macro-fiscal and economic data for all SADC countries.
-		outputs:
-			- raw_data
+data_harvesting:
+  description: >
+    Collect, harmonize, and update macro-fiscal and economic data for all 16 SADC countries from authoritative sources such as the World Bank, IMF, and national statistics offices.
+    Ensure data completeness, timeliness, and consistency across all indicators and countries.
+  agent: data_harvester
+  expected_output: >
+    A harmonized DataFrame of macro-fiscal indicators for all SADC countries.
 
-	- agent: DataQualityAuditorAgent
-		description: Audit and validate the quality, completeness, and consistency of harvested data.
-		inputs:
-			- raw_data
-		outputs:
-			- validated_data
+data_quality_audit:
+  description: >
+    Audit, validate, and document the quality, completeness, and consistency of harvested macro-fiscal data for SADC countries.
+    Identify missing values, outliers, structural breaks, and recommend imputation or review strategies.
+  agent: data_quality_auditor
+  expected_output: >
+    A validated DataFrame with data quality notes and imputation recommendations.
 
-	- agent: EconomicRiskModelerAgent
-		description: Compute quarterly fiscal risk scores and early warning flags using validated data.
-		inputs:
-			- validated_data
-		outputs:
-			- risk_scores
-			- early_warning_flags
+risk_modeling:
+  description: >
+    Quantify fiscal and macroeconomic risks for SADC countries using statistical, machine learning, and rule-based models.
+    Generate quarterly risk scores and early warning signals for macro-fiscal stress.
+  agent: economic_risk_modeler
+  expected_output: >
+    Quarterly risk scores and early warning flags for each SADC country.
 
-	- agent: ScenarioSimulatorAgent
-		description: Simulate macro-fiscal scenarios and stress tests for 6–12 month horizons.
-		inputs:
-			- validated_data
-		outputs:
-			- scenarios
+scenario_simulation:
+  description: >
+    Simulate macro-fiscal scenarios and stress tests for SADC countries, including Monte Carlo, Bayesian VAR, and local projection methods.
+    Assess the impact of shocks and policy responses over 6–12 month horizons.
+  agent: scenario_simulator
+  expected_output: >
+    Scenario simulation outputs and stress test results for all SADC countries.
 
-	- agent: PolicyIntelligenceAgent
-		description: Generate policy response playbooks and recommendations based on scenario outputs.
-		inputs:
-			- scenarios
-		outputs:
-			- policy_playbooks
+policy_intelligence:
+  description: >
+    Match country macro-fiscal conditions to a knowledge base of policy responses and generate tailored, explainable recommendations for SADC governments.
+    Draw on regional and global best practices to inform actionable policy playbooks.
+  agent: policy_intelligence
+  expected_output: >
+    Policy playbooks and explainable recommendations for each SADC country.
 
-	- agent: ReportGeneratorAgent
-		description: Produce automated PDF/HTML policy briefs for stakeholders.
-		inputs:
-			- risk_scores
-			- early_warning_flags
-			- policy_playbooks
-		outputs:
-			- policy_brief_report
+report_generation:
+  description: >
+    Produce concise, visually engaging, and actionable policy briefs, dashboards, and technical annexes for SADC Ministries of Finance, Central Banks, and development partners.
+    Ensure all outputs are clear, data-driven, and suitable for high-level decision-making.
+  agent: report_generator
+  expected_output: >
+    Automated policy briefs, dashboards, and technical annexes for SADC stakeholders.

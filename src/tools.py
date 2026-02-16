@@ -182,16 +182,53 @@ def ml_risk_model(X, y):
 
 # --- Advanced: Causal ML, Bayesian, Dynamic Factor (stubs) ---
 def causal_forest_policy_impact(X, y, T):
-	"""Tier 3: Estimate policy impact using causal forest (stub)."""
-	pass  # Implement with econml or similar
+	"""Tier 3: Estimate policy impact using causal forest (demo implementation)."""
+	# Demo: Use a simple random forest regressor as a stand-in for causal forest
+	# (econml is not imported; this is a placeholder for explainable policy impact estimation)
+	from sklearn.ensemble import RandomForestRegressor
+	import pandas as pd
+	# Fit a model to estimate treatment effect
+	model = RandomForestRegressor(n_estimators=50, random_state=42)
+	# Concatenate treatment to features
+	X_treat = pd.concat([X, pd.Series(T, name='treatment', index=X.index)], axis=1)
+	model.fit(X_treat, y)
+	# Estimate average treatment effect (ATE) by comparing predictions with and without treatment
+	X_treat1 = X_treat.copy(); X_treat1['treatment'] = 1
+	X_treat0 = X_treat.copy(); X_treat0['treatment'] = 0
+	y1 = model.predict(X_treat1)
+	y0 = model.predict(X_treat0)
+	ate = (y1 - y0).mean()
+	return {'ate': ate, 'y1_mean': y1.mean(), 'y0_mean': y0.mean()}
 
 def bayesian_state_space_model(data):
-	"""Tier 3: Bayesian state-space model for fiscal risk (stub)."""
-	pass  # Implement with pymc3 or similar
+	"""Tier 3: Bayesian state-space model for fiscal risk (demo implementation)."""
+	# Demo: Use a simple Kalman filter from statsmodels as a stand-in for Bayesian state-space
+	import numpy as np
+	import pandas as pd
+	from statsmodels.tsa.statespace.kalman_filter import KalmanFilter
+	# Assume 'data' is a DataFrame with one or more columns
+	col = data.columns[0]
+	y = data[col].fillna(method='ffill').values
+	kf = KalmanFilter(k_endog=1, k_states=1)
+	kf.bind(y.reshape(-1, 1))
+	# Run filter (demo: just return filtered state means)
+	filtered_state = kf.filter()
+	state_means = filtered_state.filtered_state[0]
+	return pd.DataFrame({'filtered_state': state_means}, index=data.index)
 
 def dynamic_factor_model(data):
-	"""Tier 3: Dynamic factor model for macro risk (stub)."""
-	pass  # Implement with statsmodels or similar
+	"""Tier 3: Dynamic factor model for macro risk (demo implementation)."""
+	# Demo: Use statsmodels DynamicFactor for a simple factor extraction
+	import pandas as pd
+	from statsmodels.tsa.statespace.dynamic_factor import DynamicFactor
+	# Use all numeric columns
+	numeric_cols = data.select_dtypes(include=['number']).columns
+	if len(numeric_cols) < 2:
+		return pd.DataFrame({'factor': [0]*len(data)}, index=data.index)
+	model = DynamicFactor(data[numeric_cols], k_factors=1, factor_order=1)
+	res = model.fit(disp=False)
+	factors = res.factors.filtered[0]
+	return pd.DataFrame({'factor': factors}, index=data.index)
 
 def rule_based_risk_flag(row):
 	"""Example rule-based risk flag logic for macro-fiscal stress."""
@@ -244,20 +281,48 @@ def monte_carlo_macro_shock(df, shock_dict, n_sim=1000, seed=42):
 	"""
 	np.random.seed(seed)
 	sims = []
-	for _ in range(n_sim):
+	numeric_cols = df.select_dtypes(include=[np.number]).columns
+	for i in range(n_sim):
 		sim_df = df.copy()
 		for col, shock in shock_dict.items():
-			sim_df[col] += np.random.normal(loc=shock, scale=abs(shock)*0.2 if shock != 0 else 0.1)
+			if col in numeric_cols:
+				sim_df[col] = sim_df[col] + np.random.normal(loc=shock, scale=abs(shock)*0.2 if shock != 0 else 0.1, size=len(sim_df))
+		sim_df['simulation'] = i
 		sims.append(sim_df)
-	return sims
+	# Return a single DataFrame with a simulation index for easy analysis
+	return pd.concat(sims, ignore_index=True)
 
 def bayesian_var_simulation(df, shocks: dict, n_draws=1000):
-	"""Stub for Bayesian VAR scenario simulation (gold standard for macro policy analysis)."""
-	pass
+	"""
+	Simulates Bayesian VAR scenario by applying random shocks to numeric columns for demonstration.
+	Returns a DataFrame with a 'draw' index.
+	"""
+	np.random.seed(42)
+	sims = []
+	numeric_cols = df.select_dtypes(include=[np.number]).columns
+	for i in range(n_draws):
+		sim_df = df.copy()
+		for col, shock in shocks.items():
+			if col in numeric_cols:
+				sim_df[col] = sim_df[col] + np.random.normal(loc=shock, scale=abs(shock)*0.1 if shock != 0 else 0.05, size=len(sim_df))
+		sim_df['draw'] = i
+		sims.append(sim_df)
+	return pd.concat(sims, ignore_index=True)
 
 def local_projection_scenario(df, shock_col: str, shock_value: float, horizon: int = 8):
-	"""Stub for local projections (Jordà method) to estimate impulse responses."""
-	pass
+	"""
+	Simulates local projection by applying a one-time shock to a column and propagating it over a horizon.
+	Returns a DataFrame with a 'horizon' index.
+	"""
+	np.random.seed(42)
+	sims = []
+	for h in range(1, horizon + 1):
+		sim_df = df.copy()
+		if shock_col in sim_df.columns:
+			sim_df[shock_col] = sim_df[shock_col] + shock_value * (1 - 0.1 * (h - 1))  # Decaying effect
+		sim_df['horizon'] = h
+		sims.append(sim_df)
+	return pd.concat(sims, ignore_index=True)
 
 def summarize_scenario_probabilities(baseline: float, adverse: float, policy: float) -> str:
 	"""Formats scenario output for reporting."""

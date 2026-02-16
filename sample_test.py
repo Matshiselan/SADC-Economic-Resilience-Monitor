@@ -13,15 +13,22 @@ from src.tools import (
 
 # 1. Fetch real macro data for SADC countries from World Bank API
 sadc_iso_codes = [
-    'ZWE',  # Zimbabwe
-    'ZMB',  # Zambia
+    'AGO',  # Angola
+    'BWA',  # Botswana
+    'COM',  # Comoros
+    'COD',  # Democratic Republic of the Congo
+    'SWZ',  # Eswatini (Swaziland)
+    'LSO',  # Lesotho
+    'MDG',  # Madagascar
     'MWI',  # Malawi
+    'MUS',  # Mauritius
     'MOZ',  # Mozambique
     'NAM',  # Namibia
-    'BWA',  # Botswana
+    'SEY',  # Seychelles
     'ZAF',  # South Africa
-    'AGO',  # Angola
     'TZA',  # Tanzania
+    'ZMB',  # Zambia
+    'ZWE',  # Zimbabwe
 ]
 
 print('Fetching World Bank macro-fiscal data (1970-2024)...')
@@ -80,24 +87,40 @@ shocks = {'inflation': 5}
 sims = monte_carlo_macro_shock(wide_df, shocks, n_sim=10)
 print(f'Simulated scenario (first run):\n{sims[0][["inflation"]].head()}')
 
-# 6. Report Generation (text and heatmap for Zambia)
-zambia_rows = wide_df[wide_df['country'] == 'ZWE']
-if not zambia_rows.empty:
-    zambia_frs = zambia_rows['gdp_growth'].mean() if 'gdp_growth' in zambia_rows else 0
-    zambia_flags = [rule_based_risk_flag(row) for _, row in zambia_rows.iterrows()]
-    zambia_policies = [recommend_policy_actions(row) for _, row in zambia_rows.iterrows()]
-    generate_ministerial_brief(
-        country='ZWE',
-        risk_score=zambia_frs,
-        flags=zambia_flags,
-        scenarios='Inflation shock +5pp',
-        recommendations=zambia_policies,
-        filename='sample_ministerial_brief.txt'
-    )
 
-    # Risk heatmap
-    if 'gdp_growth' in wide_df:
-        risk_matrix = wide_df.pivot(index='year', columns='country', values='gdp_growth').values
-        plot_risk_heatmap(risk_matrix, sadc_iso_codes, filename='sample_risk_heatmap.png')
+# 6. Report Generation (executive summary, table, and notes for each country)
+import os
+report_path = os.path.join('reports', 'sadc_ministerial_brief.txt')
+with open(report_path, 'w', encoding='utf-8') as f:
+    for country in sadc_iso_codes:
+        country_rows = wide_df[wide_df['country'] == country]
+        if country_rows.empty:
+            continue
+        country_name = country
+        frs_mean = country_rows['gdp_growth'].mean() if 'gdp_growth' in country_rows else 0
+        f.write(f"\n{'='*60}\nExecutive Summary: {country_name}\n{'='*60}\n")
+        f.write(f"Fiscal Risk Score (mean gdp_growth): {frs_mean:.2f}\n\n")
+        # Table header
+        f.write(f"{'Year':<6} {'Flag':<8} {'Key Drivers':<20} {'Scenario Analysis':<25} {'Policy Recommendation'}\n")
+        f.write(f"{'-'*80}\n")
+        for _, row in country_rows.iterrows():
+            year = int(row['year'])
+            flag = rule_based_risk_flag(row)
+            key_drivers = f"Debt: {row.get('debt_gdp', 'NA'):.1f}, Inf: {row.get('inflation', 'NA'):.1f}, Growth: {row.get('gdp_growth', 'NA'):.1f}"
+            scenario = "Inflation shock +5pp"
+            policy = recommend_policy_actions(row)
+            f.write(f"{year:<6} {flag:<8} {key_drivers:<20} {scenario:<25} {policy}\n")
+        # Column key
+        f.write("\nColumn Key:\n")
+        f.write("Year: Calendar year of observation\n")
+        f.write("Flag: Early warning risk flag (HIGH/MEDIUM/LOW)\n")
+        f.write("Key Drivers: Main macro-fiscal indicators\n")
+        f.write("Scenario Analysis: Description of simulated macro shock\n")
+        f.write("Policy Recommendation: Automated policy advice based on risk pattern\n")
+        # Data quality notes (no graph)
+        f.write("\nData Quality Notes:\n")
+        missing = profile_missingness(country_rows)
+        f.write(missing.to_string())
+        f.write("\n\n")
 
-print('Sample ministerial brief and risk heatmap generated.')
+print(f'Report generated for all countries: {report_path}')
