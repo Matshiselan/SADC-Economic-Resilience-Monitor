@@ -51,15 +51,15 @@ def profile_missingness(df: pd.DataFrame) -> pd.Series:
 	"""Returns the percentage of missing values per column."""
 	return df.isnull().mean() * 100
 
-def plot_missing_data_heatmap(df: pd.DataFrame, figsize=(10, 6)) -> None:
-	"""Plots a heatmap of missing data for visual inspection."""
-	plt.figure(figsize=figsize)
-	plt.imshow(df.isnull(), aspect='auto', cmap='viridis', interpolation='none')
-	plt.xlabel('Variables')
-	plt.ylabel('Observations')
-	plt.title('Missing Data Heatmap')
-	plt.colorbar(label='Missing')
-	plt.show()
+# def plot_missing_data_heatmap(df: pd.DataFrame, figsize=(10, 6)) -> None:
+# 	"""Plots a heatmap of missing data for visual inspection."""
+# 	plt.figure(figsize=figsize)
+# 	plt.imshow(df.isnull(), aspect='auto', cmap='viridis', interpolation='none')
+# 	plt.xlabel('Variables')
+# 	plt.ylabel('Observations')
+# 	plt.title('Missing Data Heatmap')
+# 	plt.colorbar(label='Missing')
+# 	plt.show()
 
 def detect_structural_breaks(df: pd.DataFrame, column: str) -> Dict[str, Any]:
 	"""Detects structural breaks in a time series column using rolling mean/variance."""
