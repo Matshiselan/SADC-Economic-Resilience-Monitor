@@ -1,0 +1,2046 @@
+Data Quality Auditor Report: AGO
+Missing Data (%):
+indicator
+country              0.000000
+year                 0.000000
+current_account      9.090909
+reserves_months     31.818182
+inflation           22.727273
+debt_gdp           100.000000
+gdp_growth           0.000000
+growth_shock         0.000000
+reserves_risk       31.818182
+
+Structural Breaks (by column):
+gdp_growth: breakpoints at years [1993, 1998]
+inflation: breakpoints at years [1996, 2001]
+debt_gdp: breakpoints at years []
+current_account: breakpoints at years [1996, 2001]
+reserves_months: breakpoints at years []
+
+Chow Test F-statistics (by column):
+gdp_growth: error (name 'chow_test' is not defined)
+inflation: error (name 'chow_test' is not defined)
+current_account: error (name 'chow_test' is not defined)
+reserves_months: error (name 'chow_test' is not defined)
+
+Outlier Count (z-score > 3):
+gdp_growth: error (name 'detect_outliers' is not defined)
+inflation: error (name 'detect_outliers' is not defined)
+debt_gdp: error (name 'detect_outliers' is not defined)
+current_account: error (name 'detect_outliers' is not defined)
+reserves_months: error (name 'detect_outliers' is not defined)
+
+Rolling Variance (window=5, last value):
+gdp_growth: error (name 'rolling_variance' is not defined)
+inflation: error (name 'rolling_variance' is not defined)
+debt_gdp: error (name 'rolling_variance' is not defined)
+current_account: error (name 'rolling_variance' is not defined)
+reserves_months: error (name 'rolling_variance' is not defined)
+
+Metadata Quality Score:
+error (name 'score_metadata_quality' is not defined)
+
+Data Quality Auditor Report: BWA
+Missing Data (%):
+indicator
+country             0.000000
+year                0.000000
+current_account     9.090909
+reserves_months    10.909091
+inflation           9.090909
+debt_gdp           60.000000
+gdp_growth          0.000000
+growth_shock        0.000000
+reserves_risk      10.909091
+
+Structural Breaks (by column):
+gdp_growth: error (single positional indexer is out-of-bounds)
+inflation: error (single positional indexer is out-of-bounds)
+debt_gdp: breakpoints at years []
+current_account: error (single positional indexer is out-of-bounds)
+reserves_months: error (single positional indexer is out-of-bounds)
+
+Chow Test F-statistics (by column):
+gdp_growth: error (name 'chow_test' is not defined)
+inflation: error (name 'chow_test' is not defined)
+debt_gdp: error (name 'chow_test' is not defined)
+current_account: error (name 'chow_test' is not defined)
+reserves_months: error (name 'chow_test' is not defined)
+
+Outlier Count (z-score > 3):
+gdp_growth: error (name 'detect_outliers' is not defined)
+inflation: error (name 'detect_outliers' is not defined)
+debt_gdp: error (name 'detect_outliers' is not defined)
+current_account: error (name 'detect_outliers' is not defined)
+reserves_months: error (name 'detect_outliers' is not defined)
+
+Rolling Variance (window=5, last value):
+gdp_growth: error (name 'rolling_variance' is not defined)
+inflation: error (name 'rolling_variance' is not defined)
+debt_gdp: error (name 'rolling_variance' is not defined)
+current_account: error (name 'rolling_variance' is not defined)
+reserves_months: error (name 'rolling_variance' is not defined)
+
+Metadata Quality Score:
+error (name 'score_metadata_quality' is not defined)
+
+Data Quality Auditor Report: COM
+Missing Data (%):
+indicator
+country              0.000000
+year                 0.000000
+current_account     20.000000
+reserves_months     20.000000
+inflation           46.666667
+debt_gdp           100.000000
+gdp_growth           2.222222
+growth_shock         2.222222
+reserves_risk       20.000000
+
+Structural Breaks (by column):
+gdp_growth: error (single positional indexer is out-of-bounds)
+inflation: error (single positional indexer is out-of-bounds)
+debt_gdp: breakpoints at years []
+current_account: error (single positional indexer is out-of-bounds)
+reserves_months: error (single positional indexer is out-of-bounds)
+
+Chow Test F-statistics (by column):
+gdp_growth: error (name 'chow_test' is not defined)
+inflation: error (name 'chow_test' is not defined)
+current_account: error (name 'chow_test' is not defined)
+reserves_months: error (name 'chow_test' is not defined)
+
+Outlier Count (z-score > 3):
+gdp_growth: error (name 'detect_outliers' is not defined)
+inflation: error (name 'detect_outliers' is not defined)
+debt_gdp: error (name 'detect_outliers' is not defined)
+current_account: error (name 'detect_outliers' is not defined)
+reserves_months: error (name 'detect_outliers' is not defined)
+
+Rolling Variance (window=5, last value):
+gdp_growth: error (name 'rolling_variance' is not defined)
+inflation: error (name 'rolling_variance' is not defined)
+debt_gdp: error (name 'rolling_variance' is not defined)
+current_account: error (name 'rolling_variance' is not defined)
+reserves_months: error (name 'rolling_variance' is not defined)
+
+Metadata Quality Score:
+error (name 'score_metadata_quality' is not defined)
+
+Data Quality Auditor Report: COD
+Missing Data (%):
+indicator
+country             0.000000
+year                0.000000
+current_account    63.636364
+reserves_months    65.454545
+inflation          14.545455
+debt_gdp           83.636364
+gdp_growth          0.000000
+growth_shock        0.000000
+reserves_risk      65.454545
+
+Structural Breaks (by column):
+gdp_growth: error (single positional indexer is out-of-bounds)
+inflation: error (single positional indexer is out-of-bounds)
+debt_gdp: breakpoints at years []
+current_account: breakpoints at years []
+reserves_months: breakpoints at years []
+
+Chow Test F-statistics (by column):
+gdp_growth: error (name 'chow_test' is not defined)
+inflation: error (name 'chow_test' is not defined)
+current_account: error (name 'chow_test' is not defined)
+reserves_months: error (name 'chow_test' is not defined)
+
+Outlier Count (z-score > 3):
+gdp_growth: error (name 'detect_outliers' is not defined)
+inflation: error (name 'detect_outliers' is not defined)
+debt_gdp: error (name 'detect_outliers' is not defined)
+current_account: error (name 'detect_outliers' is not defined)
+reserves_months: error (name 'detect_outliers' is not defined)
+
+Rolling Variance (window=5, last value):
+gdp_growth: error (name 'rolling_variance' is not defined)
+inflation: error (name 'rolling_variance' is not defined)
+debt_gdp: error (name 'rolling_variance' is not defined)
+current_account: error (name 'rolling_variance' is not defined)
+reserves_months: error (name 'rolling_variance' is not defined)
+
+Metadata Quality Score:
+error (name 'score_metadata_quality' is not defined)
+
+Data Quality Auditor Report: SWZ
+Missing Data (%):
+indicator
+country             0.000000
+year                0.000000
+current_account     7.272727
+reserves_months     9.090909
+inflation           9.090909
+debt_gdp           78.181818
+gdp_growth          1.818182
+growth_shock        1.818182
+reserves_risk       9.090909
+
+Structural Breaks (by column):
+gdp_growth: error (single positional indexer is out-of-bounds)
+inflation: error (single positional indexer is out-of-bounds)
+debt_gdp: breakpoints at years []
+current_account: error (single positional indexer is out-of-bounds)
+reserves_months: error (single positional indexer is out-of-bounds)
+
+Chow Test F-statistics (by column):
+gdp_growth: error (name 'chow_test' is not defined)
+inflation: error (name 'chow_test' is not defined)
+debt_gdp: error (name 'chow_test' is not defined)
+current_account: error (name 'chow_test' is not defined)
+reserves_months: error (name 'chow_test' is not defined)
+
+Outlier Count (z-score > 3):
+gdp_growth: error (name 'detect_outliers' is not defined)
+inflation: error (name 'detect_outliers' is not defined)
+debt_gdp: error (name 'detect_outliers' is not defined)
+current_account: error (name 'detect_outliers' is not defined)
+reserves_months: error (name 'detect_outliers' is not defined)
+
+Rolling Variance (window=5, last value):
+gdp_growth: error (name 'rolling_variance' is not defined)
+inflation: error (name 'rolling_variance' is not defined)
+debt_gdp: error (name 'rolling_variance' is not defined)
+current_account: error (name 'rolling_variance' is not defined)
+reserves_months: error (name 'rolling_variance' is not defined)
+
+Metadata Quality Score:
+error (name 'score_metadata_quality' is not defined)
+
+Data Quality Auditor Report: LSO
+Missing Data (%):
+indicator
+country             0.000000
+year                0.000000
+current_account    10.909091
+reserves_months    18.181818
+inflation          12.727273
+debt_gdp           76.363636
+gdp_growth          0.000000
+growth_shock        0.000000
+reserves_risk      18.181818
+
+Structural Breaks (by column):
+gdp_growth: error (single positional indexer is out-of-bounds)
+inflation: error (single positional indexer is out-of-bounds)
+debt_gdp: error (single positional indexer is out-of-bounds)
+current_account: error (single positional indexer is out-of-bounds)
+reserves_months: error (single positional indexer is out-of-bounds)
+
+Chow Test F-statistics (by column):
+gdp_growth: error (name 'chow_test' is not defined)
+inflation: error (name 'chow_test' is not defined)
+debt_gdp: error (name 'chow_test' is not defined)
+current_account: error (name 'chow_test' is not defined)
+reserves_months: error (name 'chow_test' is not defined)
+
+Outlier Count (z-score > 3):
+gdp_growth: error (name 'detect_outliers' is not defined)
+inflation: error (name 'detect_outliers' is not defined)
+debt_gdp: error (name 'detect_outliers' is not defined)
+current_account: error (name 'detect_outliers' is not defined)
+reserves_months: error (name 'detect_outliers' is not defined)
+
+Rolling Variance (window=5, last value):
+gdp_growth: error (name 'rolling_variance' is not defined)
+inflation: error (name 'rolling_variance' is not defined)
+debt_gdp: error (name 'rolling_variance' is not defined)
+current_account: error (name 'rolling_variance' is not defined)
+reserves_months: error (name 'rolling_variance' is not defined)
+
+Metadata Quality Score:
+error (name 'score_metadata_quality' is not defined)
+
+Data Quality Auditor Report: MDG
+Missing Data (%):
+indicator
+country              0.000000
+year                 0.000000
+current_account     10.909091
+reserves_months     10.909091
+inflation            1.818182
+debt_gdp           100.000000
+gdp_growth           0.000000
+growth_shock         0.000000
+reserves_risk       10.909091
+
+Structural Breaks (by column):
+gdp_growth: error (single positional indexer is out-of-bounds)
+inflation: error (single positional indexer is out-of-bounds)
+debt_gdp: breakpoints at years []
+current_account: error (single positional indexer is out-of-bounds)
+reserves_months: error (single positional indexer is out-of-bounds)
+
+Chow Test F-statistics (by column):
+gdp_growth: error (name 'chow_test' is not defined)
+inflation: error (name 'chow_test' is not defined)
+current_account: error (name 'chow_test' is not defined)
+reserves_months: error (name 'chow_test' is not defined)
+
+Outlier Count (z-score > 3):
+gdp_growth: error (name 'detect_outliers' is not defined)
+inflation: error (name 'detect_outliers' is not defined)
+debt_gdp: error (name 'detect_outliers' is not defined)
+current_account: error (name 'detect_outliers' is not defined)
+reserves_months: error (name 'detect_outliers' is not defined)
+
+Rolling Variance (window=5, last value):
+gdp_growth: error (name 'rolling_variance' is not defined)
+inflation: error (name 'rolling_variance' is not defined)
+debt_gdp: error (name 'rolling_variance' is not defined)
+current_account: error (name 'rolling_variance' is not defined)
+reserves_months: error (name 'rolling_variance' is not defined)
+
+Metadata Quality Score:
+error (name 'score_metadata_quality' is not defined)
+
+Data Quality Auditor Report: MWI
+Missing Data (%):
+indicator
+country             0.000000
+year                0.000000
+current_account    18.181818
+reserves_months    21.818182
+inflation          20.000000
+debt_gdp           78.181818
+gdp_growth          0.000000
+growth_shock        0.000000
+reserves_risk      21.818182
+
+Structural Breaks (by column):
+gdp_growth: error (single positional indexer is out-of-bounds)
+inflation: error (single positional indexer is out-of-bounds)
+debt_gdp: breakpoints at years []
+current_account: error (single positional indexer is out-of-bounds)
+reserves_months: error (single positional indexer is out-of-bounds)
+
+Chow Test F-statistics (by column):
+gdp_growth: error (name 'chow_test' is not defined)
+inflation: error (name 'chow_test' is not defined)
+debt_gdp: error (name 'chow_test' is not defined)
+current_account: error (name 'chow_test' is not defined)
+reserves_months: error (name 'chow_test' is not defined)
+
+Outlier Count (z-score > 3):
+gdp_growth: error (name 'detect_outliers' is not defined)
+inflation: error (name 'detect_outliers' is not defined)
+debt_gdp: error (name 'detect_outliers' is not defined)
+current_account: error (name 'detect_outliers' is not defined)
+reserves_months: error (name 'detect_outliers' is not defined)
+
+Rolling Variance (window=5, last value):
+gdp_growth: error (name 'rolling_variance' is not defined)
+inflation: error (name 'rolling_variance' is not defined)
+debt_gdp: error (name 'rolling_variance' is not defined)
+current_account: error (name 'rolling_variance' is not defined)
+reserves_months: error (name 'rolling_variance' is not defined)
+
+Metadata Quality Score:
+error (name 'score_metadata_quality' is not defined)
+
+Data Quality Auditor Report: MUS
+Missing Data (%):
+indicator
+country             0.000000
+year                0.000000
+current_account    10.909091
+reserves_months    10.909091
+inflation           0.000000
+debt_gdp           52.727273
+gdp_growth          0.000000
+growth_shock        0.000000
+reserves_risk      10.909091
+
+Structural Breaks (by column):
+gdp_growth: error (single positional indexer is out-of-bounds)
+inflation: error (single positional indexer is out-of-bounds)
+debt_gdp: breakpoints at years []
+current_account: error (single positional indexer is out-of-bounds)
+reserves_months: error (single positional indexer is out-of-bounds)
+
+Chow Test F-statistics (by column):
+gdp_growth: error (name 'chow_test' is not defined)
+inflation: error (name 'chow_test' is not defined)
+debt_gdp: error (name 'chow_test' is not defined)
+current_account: error (name 'chow_test' is not defined)
+reserves_months: error (name 'chow_test' is not defined)
+
+Outlier Count (z-score > 3):
+gdp_growth: error (name 'detect_outliers' is not defined)
+inflation: error (name 'detect_outliers' is not defined)
+debt_gdp: error (name 'detect_outliers' is not defined)
+current_account: error (name 'detect_outliers' is not defined)
+reserves_months: error (name 'detect_outliers' is not defined)
+
+Rolling Variance (window=5, last value):
+gdp_growth: error (name 'rolling_variance' is not defined)
+inflation: error (name 'rolling_variance' is not defined)
+debt_gdp: error (name 'rolling_variance' is not defined)
+current_account: error (name 'rolling_variance' is not defined)
+reserves_months: error (name 'rolling_variance' is not defined)
+
+Metadata Quality Score:
+error (name 'score_metadata_quality' is not defined)
+
+Data Quality Auditor Report: MOZ
+Missing Data (%):
+indicator
+country             0.000000
+year                0.000000
+current_account    54.545455
+reserves_months    54.545455
+inflation          54.545455
+debt_gdp           79.545455
+gdp_growth          0.000000
+growth_shock        0.000000
+reserves_risk      54.545455
+
+Structural Breaks (by column):
+gdp_growth: error (single positional indexer is out-of-bounds)
+inflation: breakpoints at years []
+debt_gdp: breakpoints at years []
+current_account: error (single positional indexer is out-of-bounds)
+reserves_months: breakpoints at years []
+
+Chow Test F-statistics (by column):
+gdp_growth: error (name 'chow_test' is not defined)
+inflation: error (name 'chow_test' is not defined)
+current_account: error (name 'chow_test' is not defined)
+reserves_months: error (name 'chow_test' is not defined)
+
+Outlier Count (z-score > 3):
+gdp_growth: error (name 'detect_outliers' is not defined)
+inflation: error (name 'detect_outliers' is not defined)
+debt_gdp: error (name 'detect_outliers' is not defined)
+current_account: error (name 'detect_outliers' is not defined)
+reserves_months: error (name 'detect_outliers' is not defined)
+
+Rolling Variance (window=5, last value):
+gdp_growth: error (name 'rolling_variance' is not defined)
+inflation: error (name 'rolling_variance' is not defined)
+debt_gdp: error (name 'rolling_variance' is not defined)
+current_account: error (name 'rolling_variance' is not defined)
+reserves_months: error (name 'rolling_variance' is not defined)
+
+Metadata Quality Score:
+error (name 'score_metadata_quality' is not defined)
+
+Data Quality Auditor Report: NAM
+Missing Data (%):
+indicator
+country             0.000000
+year                0.000000
+current_account    20.454545
+reserves_months    25.000000
+inflation          50.000000
+debt_gdp           81.818182
+gdp_growth          0.000000
+growth_shock        0.000000
+reserves_risk      25.000000
+
+Structural Breaks (by column):
+gdp_growth: error (single positional indexer is out-of-bounds)
+inflation: error (single positional indexer is out-of-bounds)
+debt_gdp: breakpoints at years []
+current_account: error (single positional indexer is out-of-bounds)
+reserves_months: error (single positional indexer is out-of-bounds)
+
+Chow Test F-statistics (by column):
+gdp_growth: error (name 'chow_test' is not defined)
+inflation: error (name 'chow_test' is not defined)
+current_account: error (name 'chow_test' is not defined)
+reserves_months: error (name 'chow_test' is not defined)
+
+Outlier Count (z-score > 3):
+gdp_growth: error (name 'detect_outliers' is not defined)
+inflation: error (name 'detect_outliers' is not defined)
+debt_gdp: error (name 'detect_outliers' is not defined)
+current_account: error (name 'detect_outliers' is not defined)
+reserves_months: error (name 'detect_outliers' is not defined)
+
+Rolling Variance (window=5, last value):
+gdp_growth: error (name 'rolling_variance' is not defined)
+inflation: error (name 'rolling_variance' is not defined)
+debt_gdp: error (name 'rolling_variance' is not defined)
+current_account: error (name 'rolling_variance' is not defined)
+reserves_months: error (name 'rolling_variance' is not defined)
+
+Metadata Quality Score:
+error (name 'score_metadata_quality' is not defined)
+
+Data Quality Auditor Report: ZAF
+Missing Data (%):
+indicator
+country             0.000000
+year                0.000000
+current_account     0.000000
+reserves_months     0.000000
+inflation           0.000000
+debt_gdp           63.636364
+gdp_growth          0.000000
+growth_shock        0.000000
+reserves_risk       0.000000
+
+Structural Breaks (by column):
+gdp_growth: error (single positional indexer is out-of-bounds)
+inflation: error (single positional indexer is out-of-bounds)
+debt_gdp: breakpoints at years []
+current_account: error (single positional indexer is out-of-bounds)
+reserves_months: error (single positional indexer is out-of-bounds)
+
+Chow Test F-statistics (by column):
+gdp_growth: error (name 'chow_test' is not defined)
+inflation: error (name 'chow_test' is not defined)
+debt_gdp: error (name 'chow_test' is not defined)
+current_account: error (name 'chow_test' is not defined)
+reserves_months: error (name 'chow_test' is not defined)
+
+Outlier Count (z-score > 3):
+gdp_growth: error (name 'detect_outliers' is not defined)
+inflation: error (name 'detect_outliers' is not defined)
+debt_gdp: error (name 'detect_outliers' is not defined)
+current_account: error (name 'detect_outliers' is not defined)
+reserves_months: error (name 'detect_outliers' is not defined)
+
+Rolling Variance (window=5, last value):
+gdp_growth: error (name 'rolling_variance' is not defined)
+inflation: error (name 'rolling_variance' is not defined)
+debt_gdp: error (name 'rolling_variance' is not defined)
+current_account: error (name 'rolling_variance' is not defined)
+reserves_months: error (name 'rolling_variance' is not defined)
+
+Metadata Quality Score:
+error (name 'score_metadata_quality' is not defined)
+
+Data Quality Auditor Report: TZA
+Missing Data (%):
+indicator
+country              0.000000
+year                 0.000000
+current_account     10.909091
+reserves_months     21.818182
+inflation            0.000000
+debt_gdp           100.000000
+gdp_growth           0.000000
+growth_shock         0.000000
+reserves_risk       21.818182
+
+Structural Breaks (by column):
+gdp_growth: error (single positional indexer is out-of-bounds)
+inflation: error (single positional indexer is out-of-bounds)
+debt_gdp: breakpoints at years []
+current_account: error (single positional indexer is out-of-bounds)
+reserves_months: error (single positional indexer is out-of-bounds)
+
+Chow Test F-statistics (by column):
+gdp_growth: error (name 'chow_test' is not defined)
+inflation: error (name 'chow_test' is not defined)
+current_account: error (name 'chow_test' is not defined)
+reserves_months: error (name 'chow_test' is not defined)
+
+Outlier Count (z-score > 3):
+gdp_growth: error (name 'detect_outliers' is not defined)
+inflation: error (name 'detect_outliers' is not defined)
+debt_gdp: error (name 'detect_outliers' is not defined)
+current_account: error (name 'detect_outliers' is not defined)
+reserves_months: error (name 'detect_outliers' is not defined)
+
+Rolling Variance (window=5, last value):
+gdp_growth: error (name 'rolling_variance' is not defined)
+inflation: error (name 'rolling_variance' is not defined)
+debt_gdp: error (name 'rolling_variance' is not defined)
+current_account: error (name 'rolling_variance' is not defined)
+reserves_months: error (name 'rolling_variance' is not defined)
+
+Metadata Quality Score:
+error (name 'score_metadata_quality' is not defined)
+
+Data Quality Auditor Report: ZMB
+Missing Data (%):
+indicator
+country             0.000000
+year                0.000000
+current_account    23.636364
+reserves_months    25.454545
+inflation          29.090909
+debt_gdp           61.818182
+gdp_growth          0.000000
+growth_shock        0.000000
+reserves_risk      25.454545
+
+Structural Breaks (by column):
+gdp_growth: error (single positional indexer is out-of-bounds)
+inflation: error (single positional indexer is out-of-bounds)
+debt_gdp: error (single positional indexer is out-of-bounds)
+current_account: error (single positional indexer is out-of-bounds)
+reserves_months: error (single positional indexer is out-of-bounds)
+
+Chow Test F-statistics (by column):
+gdp_growth: error (name 'chow_test' is not defined)
+inflation: error (name 'chow_test' is not defined)
+debt_gdp: error (name 'chow_test' is not defined)
+current_account: error (name 'chow_test' is not defined)
+reserves_months: error (name 'chow_test' is not defined)
+
+Outlier Count (z-score > 3):
+gdp_growth: error (name 'detect_outliers' is not defined)
+inflation: error (name 'detect_outliers' is not defined)
+debt_gdp: error (name 'detect_outliers' is not defined)
+current_account: error (name 'detect_outliers' is not defined)
+reserves_months: error (name 'detect_outliers' is not defined)
+
+Rolling Variance (window=5, last value):
+gdp_growth: error (name 'rolling_variance' is not defined)
+inflation: error (name 'rolling_variance' is not defined)
+debt_gdp: error (name 'rolling_variance' is not defined)
+current_account: error (name 'rolling_variance' is not defined)
+reserves_months: error (name 'rolling_variance' is not defined)
+
+Metadata Quality Score:
+error (name 'score_metadata_quality' is not defined)
+
+Data Quality Auditor Report: ZWE
+Missing Data (%):
+indicator
+country              0.000000
+year                 0.000000
+current_account     38.181818
+reserves_months     38.181818
+inflation           76.363636
+debt_gdp           100.000000
+gdp_growth           0.000000
+growth_shock         0.000000
+reserves_risk       38.181818
+
+Structural Breaks (by column):
+gdp_growth: error (single positional indexer is out-of-bounds)
+inflation: error (single positional indexer is out-of-bounds)
+debt_gdp: breakpoints at years []
+current_account: error (single positional indexer is out-of-bounds)
+reserves_months: error (single positional indexer is out-of-bounds)
+
+Chow Test F-statistics (by column):
+gdp_growth: error (name 'chow_test' is not defined)
+inflation: error (name 'chow_test' is not defined)
+current_account: error (name 'chow_test' is not defined)
+reserves_months: error (name 'chow_test' is not defined)
+
+Outlier Count (z-score > 3):
+gdp_growth: error (name 'detect_outliers' is not defined)
+inflation: error (name 'detect_outliers' is not defined)
+debt_gdp: error (name 'detect_outliers' is not defined)
+current_account: error (name 'detect_outliers' is not defined)
+reserves_months: error (name 'detect_outliers' is not defined)
+
+Rolling Variance (window=5, last value):
+gdp_growth: error (name 'rolling_variance' is not defined)
+inflation: error (name 'rolling_variance' is not defined)
+debt_gdp: error (name 'rolling_variance' is not defined)
+current_account: error (name 'rolling_variance' is not defined)
+reserves_months: error (name 'rolling_variance' is not defined)
+
+Metadata Quality Score:
+error (name 'score_metadata_quality' is not defined)
+
+
+==============================
+Data Quality Auditor Report: AGO
+Missing Data (%):
+indicator
+country              0.000000
+year                 0.000000
+current_account      9.090909
+reserves_months     31.818182
+inflation           22.727273
+debt_gdp           100.000000
+gdp_growth           0.000000
+growth_shock         0.000000
+reserves_risk       31.818182
+
+Structural Breaks (by column):
+gdp_growth: breakpoints at years [1993, 1998]
+inflation: breakpoints at years [1996, 2001]
+debt_gdp: breakpoints at years []
+current_account: breakpoints at years [1996, 2001]
+reserves_months: breakpoints at years []
+
+Chow Test F-statistics (by column):
+gdp_growth: error (name 'chow_test' is not defined)
+inflation: error (name 'chow_test' is not defined)
+current_account: error (name 'chow_test' is not defined)
+reserves_months: error (name 'chow_test' is not defined)
+
+Outlier Count (z-score > 3):
+gdp_growth: error (name 'detect_outliers' is not defined)
+inflation: error (name 'detect_outliers' is not defined)
+debt_gdp: error (name 'detect_outliers' is not defined)
+current_account: error (name 'detect_outliers' is not defined)
+reserves_months: error (name 'detect_outliers' is not defined)
+
+Rolling Variance (window=5, last value):
+gdp_growth: error (name 'rolling_variance' is not defined)
+inflation: error (name 'rolling_variance' is not defined)
+debt_gdp: error (name 'rolling_variance' is not defined)
+current_account: error (name 'rolling_variance' is not defined)
+reserves_months: error (name 'rolling_variance' is not defined)
+
+Metadata Quality Score:
+error (name 'score_metadata_quality' is not defined)
+
+
+==============================
+Data Quality Auditor Report: BWA
+Missing Data (%):
+indicator
+country             0.000000
+year                0.000000
+current_account     9.090909
+reserves_months    10.909091
+inflation           9.090909
+debt_gdp           60.000000
+gdp_growth          0.000000
+growth_shock        0.000000
+reserves_risk      10.909091
+
+Structural Breaks (by column):
+gdp_growth: error (single positional indexer is out-of-bounds)
+inflation: error (single positional indexer is out-of-bounds)
+debt_gdp: breakpoints at years []
+current_account: error (single positional indexer is out-of-bounds)
+reserves_months: error (single positional indexer is out-of-bounds)
+
+Chow Test F-statistics (by column):
+gdp_growth: error (name 'chow_test' is not defined)
+inflation: error (name 'chow_test' is not defined)
+debt_gdp: error (name 'chow_test' is not defined)
+current_account: error (name 'chow_test' is not defined)
+reserves_months: error (name 'chow_test' is not defined)
+
+Outlier Count (z-score > 3):
+gdp_growth: error (name 'detect_outliers' is not defined)
+inflation: error (name 'detect_outliers' is not defined)
+debt_gdp: error (name 'detect_outliers' is not defined)
+current_account: error (name 'detect_outliers' is not defined)
+reserves_months: error (name 'detect_outliers' is not defined)
+
+Rolling Variance (window=5, last value):
+gdp_growth: error (name 'rolling_variance' is not defined)
+inflation: error (name 'rolling_variance' is not defined)
+debt_gdp: error (name 'rolling_variance' is not defined)
+current_account: error (name 'rolling_variance' is not defined)
+reserves_months: error (name 'rolling_variance' is not defined)
+
+Metadata Quality Score:
+error (name 'score_metadata_quality' is not defined)
+
+
+==============================
+Data Quality Auditor Report: COM
+Missing Data (%):
+indicator
+country              0.000000
+year                 0.000000
+current_account     20.000000
+reserves_months     20.000000
+inflation           46.666667
+debt_gdp           100.000000
+gdp_growth           2.222222
+growth_shock         2.222222
+reserves_risk       20.000000
+
+Structural Breaks (by column):
+gdp_growth: error (single positional indexer is out-of-bounds)
+inflation: error (single positional indexer is out-of-bounds)
+debt_gdp: breakpoints at years []
+current_account: error (single positional indexer is out-of-bounds)
+reserves_months: error (single positional indexer is out-of-bounds)
+
+Chow Test F-statistics (by column):
+gdp_growth: error (name 'chow_test' is not defined)
+inflation: error (name 'chow_test' is not defined)
+current_account: error (name 'chow_test' is not defined)
+reserves_months: error (name 'chow_test' is not defined)
+
+Outlier Count (z-score > 3):
+gdp_growth: error (name 'detect_outliers' is not defined)
+inflation: error (name 'detect_outliers' is not defined)
+debt_gdp: error (name 'detect_outliers' is not defined)
+current_account: error (name 'detect_outliers' is not defined)
+reserves_months: error (name 'detect_outliers' is not defined)
+
+Rolling Variance (window=5, last value):
+gdp_growth: error (name 'rolling_variance' is not defined)
+inflation: error (name 'rolling_variance' is not defined)
+debt_gdp: error (name 'rolling_variance' is not defined)
+current_account: error (name 'rolling_variance' is not defined)
+reserves_months: error (name 'rolling_variance' is not defined)
+
+Metadata Quality Score:
+error (name 'score_metadata_quality' is not defined)
+
+
+==============================
+Data Quality Auditor Report: COD
+Missing Data (%):
+indicator
+country             0.000000
+year                0.000000
+current_account    63.636364
+reserves_months    65.454545
+inflation          14.545455
+debt_gdp           83.636364
+gdp_growth          0.000000
+growth_shock        0.000000
+reserves_risk      65.454545
+
+Structural Breaks (by column):
+gdp_growth: error (single positional indexer is out-of-bounds)
+inflation: error (single positional indexer is out-of-bounds)
+debt_gdp: breakpoints at years []
+current_account: breakpoints at years []
+reserves_months: breakpoints at years []
+
+Chow Test F-statistics (by column):
+gdp_growth: error (name 'chow_test' is not defined)
+inflation: error (name 'chow_test' is not defined)
+current_account: error (name 'chow_test' is not defined)
+reserves_months: error (name 'chow_test' is not defined)
+
+Outlier Count (z-score > 3):
+gdp_growth: error (name 'detect_outliers' is not defined)
+inflation: error (name 'detect_outliers' is not defined)
+debt_gdp: error (name 'detect_outliers' is not defined)
+current_account: error (name 'detect_outliers' is not defined)
+reserves_months: error (name 'detect_outliers' is not defined)
+
+Rolling Variance (window=5, last value):
+gdp_growth: error (name 'rolling_variance' is not defined)
+inflation: error (name 'rolling_variance' is not defined)
+debt_gdp: error (name 'rolling_variance' is not defined)
+current_account: error (name 'rolling_variance' is not defined)
+reserves_months: error (name 'rolling_variance' is not defined)
+
+Metadata Quality Score:
+error (name 'score_metadata_quality' is not defined)
+
+
+==============================
+Data Quality Auditor Report: SWZ
+Missing Data (%):
+indicator
+country             0.000000
+year                0.000000
+current_account     7.272727
+reserves_months     9.090909
+inflation           9.090909
+debt_gdp           78.181818
+gdp_growth          1.818182
+growth_shock        1.818182
+reserves_risk       9.090909
+
+Structural Breaks (by column):
+gdp_growth: error (single positional indexer is out-of-bounds)
+inflation: error (single positional indexer is out-of-bounds)
+debt_gdp: breakpoints at years []
+current_account: error (single positional indexer is out-of-bounds)
+reserves_months: error (single positional indexer is out-of-bounds)
+
+Chow Test F-statistics (by column):
+gdp_growth: error (name 'chow_test' is not defined)
+inflation: error (name 'chow_test' is not defined)
+debt_gdp: error (name 'chow_test' is not defined)
+current_account: error (name 'chow_test' is not defined)
+reserves_months: error (name 'chow_test' is not defined)
+
+Outlier Count (z-score > 3):
+gdp_growth: error (name 'detect_outliers' is not defined)
+inflation: error (name 'detect_outliers' is not defined)
+debt_gdp: error (name 'detect_outliers' is not defined)
+current_account: error (name 'detect_outliers' is not defined)
+reserves_months: error (name 'detect_outliers' is not defined)
+
+Rolling Variance (window=5, last value):
+gdp_growth: error (name 'rolling_variance' is not defined)
+inflation: error (name 'rolling_variance' is not defined)
+debt_gdp: error (name 'rolling_variance' is not defined)
+current_account: error (name 'rolling_variance' is not defined)
+reserves_months: error (name 'rolling_variance' is not defined)
+
+Metadata Quality Score:
+error (name 'score_metadata_quality' is not defined)
+
+
+==============================
+Data Quality Auditor Report: LSO
+Missing Data (%):
+indicator
+country             0.000000
+year                0.000000
+current_account    10.909091
+reserves_months    18.181818
+inflation          12.727273
+debt_gdp           76.363636
+gdp_growth          0.000000
+growth_shock        0.000000
+reserves_risk      18.181818
+
+Structural Breaks (by column):
+gdp_growth: error (single positional indexer is out-of-bounds)
+inflation: error (single positional indexer is out-of-bounds)
+debt_gdp: error (single positional indexer is out-of-bounds)
+current_account: error (single positional indexer is out-of-bounds)
+reserves_months: error (single positional indexer is out-of-bounds)
+
+Chow Test F-statistics (by column):
+gdp_growth: error (name 'chow_test' is not defined)
+inflation: error (name 'chow_test' is not defined)
+debt_gdp: error (name 'chow_test' is not defined)
+current_account: error (name 'chow_test' is not defined)
+reserves_months: error (name 'chow_test' is not defined)
+
+Outlier Count (z-score > 3):
+gdp_growth: error (name 'detect_outliers' is not defined)
+inflation: error (name 'detect_outliers' is not defined)
+debt_gdp: error (name 'detect_outliers' is not defined)
+current_account: error (name 'detect_outliers' is not defined)
+reserves_months: error (name 'detect_outliers' is not defined)
+
+Rolling Variance (window=5, last value):
+gdp_growth: error (name 'rolling_variance' is not defined)
+inflation: error (name 'rolling_variance' is not defined)
+debt_gdp: error (name 'rolling_variance' is not defined)
+current_account: error (name 'rolling_variance' is not defined)
+reserves_months: error (name 'rolling_variance' is not defined)
+
+Metadata Quality Score:
+error (name 'score_metadata_quality' is not defined)
+
+
+==============================
+Data Quality Auditor Report: MDG
+Missing Data (%):
+indicator
+country              0.000000
+year                 0.000000
+current_account     10.909091
+reserves_months     10.909091
+inflation            1.818182
+debt_gdp           100.000000
+gdp_growth           0.000000
+growth_shock         0.000000
+reserves_risk       10.909091
+
+Structural Breaks (by column):
+gdp_growth: error (single positional indexer is out-of-bounds)
+inflation: error (single positional indexer is out-of-bounds)
+debt_gdp: breakpoints at years []
+current_account: error (single positional indexer is out-of-bounds)
+reserves_months: error (single positional indexer is out-of-bounds)
+
+Chow Test F-statistics (by column):
+gdp_growth: error (name 'chow_test' is not defined)
+inflation: error (name 'chow_test' is not defined)
+current_account: error (name 'chow_test' is not defined)
+reserves_months: error (name 'chow_test' is not defined)
+
+Outlier Count (z-score > 3):
+gdp_growth: error (name 'detect_outliers' is not defined)
+inflation: error (name 'detect_outliers' is not defined)
+debt_gdp: error (name 'detect_outliers' is not defined)
+current_account: error (name 'detect_outliers' is not defined)
+reserves_months: error (name 'detect_outliers' is not defined)
+
+Rolling Variance (window=5, last value):
+gdp_growth: error (name 'rolling_variance' is not defined)
+inflation: error (name 'rolling_variance' is not defined)
+debt_gdp: error (name 'rolling_variance' is not defined)
+current_account: error (name 'rolling_variance' is not defined)
+reserves_months: error (name 'rolling_variance' is not defined)
+
+Metadata Quality Score:
+error (name 'score_metadata_quality' is not defined)
+
+
+==============================
+Data Quality Auditor Report: MWI
+Missing Data (%):
+indicator
+country             0.000000
+year                0.000000
+current_account    18.181818
+reserves_months    21.818182
+inflation          20.000000
+debt_gdp           78.181818
+gdp_growth          0.000000
+growth_shock        0.000000
+reserves_risk      21.818182
+
+Structural Breaks (by column):
+gdp_growth: error (single positional indexer is out-of-bounds)
+inflation: error (single positional indexer is out-of-bounds)
+debt_gdp: breakpoints at years []
+current_account: error (single positional indexer is out-of-bounds)
+reserves_months: error (single positional indexer is out-of-bounds)
+
+Chow Test F-statistics (by column):
+gdp_growth: error (name 'chow_test' is not defined)
+inflation: error (name 'chow_test' is not defined)
+debt_gdp: error (name 'chow_test' is not defined)
+current_account: error (name 'chow_test' is not defined)
+reserves_months: error (name 'chow_test' is not defined)
+
+Outlier Count (z-score > 3):
+gdp_growth: error (name 'detect_outliers' is not defined)
+inflation: error (name 'detect_outliers' is not defined)
+debt_gdp: error (name 'detect_outliers' is not defined)
+current_account: error (name 'detect_outliers' is not defined)
+reserves_months: error (name 'detect_outliers' is not defined)
+
+Rolling Variance (window=5, last value):
+gdp_growth: error (name 'rolling_variance' is not defined)
+inflation: error (name 'rolling_variance' is not defined)
+debt_gdp: error (name 'rolling_variance' is not defined)
+current_account: error (name 'rolling_variance' is not defined)
+reserves_months: error (name 'rolling_variance' is not defined)
+
+Metadata Quality Score:
+error (name 'score_metadata_quality' is not defined)
+
+
+==============================
+Data Quality Auditor Report: MUS
+Missing Data (%):
+indicator
+country             0.000000
+year                0.000000
+current_account    10.909091
+reserves_months    10.909091
+inflation           0.000000
+debt_gdp           52.727273
+gdp_growth          0.000000
+growth_shock        0.000000
+reserves_risk      10.909091
+
+Structural Breaks (by column):
+gdp_growth: error (single positional indexer is out-of-bounds)
+inflation: error (single positional indexer is out-of-bounds)
+debt_gdp: breakpoints at years []
+current_account: error (single positional indexer is out-of-bounds)
+reserves_months: error (single positional indexer is out-of-bounds)
+
+Chow Test F-statistics (by column):
+gdp_growth: error (name 'chow_test' is not defined)
+inflation: error (name 'chow_test' is not defined)
+debt_gdp: error (name 'chow_test' is not defined)
+current_account: error (name 'chow_test' is not defined)
+reserves_months: error (name 'chow_test' is not defined)
+
+Outlier Count (z-score > 3):
+gdp_growth: error (name 'detect_outliers' is not defined)
+inflation: error (name 'detect_outliers' is not defined)
+debt_gdp: error (name 'detect_outliers' is not defined)
+current_account: error (name 'detect_outliers' is not defined)
+reserves_months: error (name 'detect_outliers' is not defined)
+
+Rolling Variance (window=5, last value):
+gdp_growth: error (name 'rolling_variance' is not defined)
+inflation: error (name 'rolling_variance' is not defined)
+debt_gdp: error (name 'rolling_variance' is not defined)
+current_account: error (name 'rolling_variance' is not defined)
+reserves_months: error (name 'rolling_variance' is not defined)
+
+Metadata Quality Score:
+error (name 'score_metadata_quality' is not defined)
+
+
+==============================
+Data Quality Auditor Report: MOZ
+Missing Data (%):
+indicator
+country             0.000000
+year                0.000000
+current_account    54.545455
+reserves_months    54.545455
+inflation          54.545455
+debt_gdp           79.545455
+gdp_growth          0.000000
+growth_shock        0.000000
+reserves_risk      54.545455
+
+Structural Breaks (by column):
+gdp_growth: error (single positional indexer is out-of-bounds)
+inflation: breakpoints at years []
+debt_gdp: breakpoints at years []
+current_account: error (single positional indexer is out-of-bounds)
+reserves_months: breakpoints at years []
+
+Chow Test F-statistics (by column):
+gdp_growth: error (name 'chow_test' is not defined)
+inflation: error (name 'chow_test' is not defined)
+current_account: error (name 'chow_test' is not defined)
+reserves_months: error (name 'chow_test' is not defined)
+
+Outlier Count (z-score > 3):
+gdp_growth: error (name 'detect_outliers' is not defined)
+inflation: error (name 'detect_outliers' is not defined)
+debt_gdp: error (name 'detect_outliers' is not defined)
+current_account: error (name 'detect_outliers' is not defined)
+reserves_months: error (name 'detect_outliers' is not defined)
+
+Rolling Variance (window=5, last value):
+gdp_growth: error (name 'rolling_variance' is not defined)
+inflation: error (name 'rolling_variance' is not defined)
+debt_gdp: error (name 'rolling_variance' is not defined)
+current_account: error (name 'rolling_variance' is not defined)
+reserves_months: error (name 'rolling_variance' is not defined)
+
+Metadata Quality Score:
+error (name 'score_metadata_quality' is not defined)
+
+
+==============================
+Data Quality Auditor Report: NAM
+Missing Data (%):
+indicator
+country             0.000000
+year                0.000000
+current_account    20.454545
+reserves_months    25.000000
+inflation          50.000000
+debt_gdp           81.818182
+gdp_growth          0.000000
+growth_shock        0.000000
+reserves_risk      25.000000
+
+Structural Breaks (by column):
+gdp_growth: error (single positional indexer is out-of-bounds)
+inflation: error (single positional indexer is out-of-bounds)
+debt_gdp: breakpoints at years []
+current_account: error (single positional indexer is out-of-bounds)
+reserves_months: error (single positional indexer is out-of-bounds)
+
+Chow Test F-statistics (by column):
+gdp_growth: error (name 'chow_test' is not defined)
+inflation: error (name 'chow_test' is not defined)
+current_account: error (name 'chow_test' is not defined)
+reserves_months: error (name 'chow_test' is not defined)
+
+Outlier Count (z-score > 3):
+gdp_growth: error (name 'detect_outliers' is not defined)
+inflation: error (name 'detect_outliers' is not defined)
+debt_gdp: error (name 'detect_outliers' is not defined)
+current_account: error (name 'detect_outliers' is not defined)
+reserves_months: error (name 'detect_outliers' is not defined)
+
+Rolling Variance (window=5, last value):
+gdp_growth: error (name 'rolling_variance' is not defined)
+inflation: error (name 'rolling_variance' is not defined)
+debt_gdp: error (name 'rolling_variance' is not defined)
+current_account: error (name 'rolling_variance' is not defined)
+reserves_months: error (name 'rolling_variance' is not defined)
+
+Metadata Quality Score:
+error (name 'score_metadata_quality' is not defined)
+
+
+==============================
+Data Quality Auditor Report: ZAF
+Missing Data (%):
+indicator
+country             0.000000
+year                0.000000
+current_account     0.000000
+reserves_months     0.000000
+inflation           0.000000
+debt_gdp           63.636364
+gdp_growth          0.000000
+growth_shock        0.000000
+reserves_risk       0.000000
+
+Structural Breaks (by column):
+gdp_growth: error (single positional indexer is out-of-bounds)
+inflation: error (single positional indexer is out-of-bounds)
+debt_gdp: breakpoints at years []
+current_account: error (single positional indexer is out-of-bounds)
+reserves_months: error (single positional indexer is out-of-bounds)
+
+Chow Test F-statistics (by column):
+gdp_growth: error (name 'chow_test' is not defined)
+inflation: error (name 'chow_test' is not defined)
+debt_gdp: error (name 'chow_test' is not defined)
+current_account: error (name 'chow_test' is not defined)
+reserves_months: error (name 'chow_test' is not defined)
+
+Outlier Count (z-score > 3):
+gdp_growth: error (name 'detect_outliers' is not defined)
+inflation: error (name 'detect_outliers' is not defined)
+debt_gdp: error (name 'detect_outliers' is not defined)
+current_account: error (name 'detect_outliers' is not defined)
+reserves_months: error (name 'detect_outliers' is not defined)
+
+Rolling Variance (window=5, last value):
+gdp_growth: error (name 'rolling_variance' is not defined)
+inflation: error (name 'rolling_variance' is not defined)
+debt_gdp: error (name 'rolling_variance' is not defined)
+current_account: error (name 'rolling_variance' is not defined)
+reserves_months: error (name 'rolling_variance' is not defined)
+
+Metadata Quality Score:
+error (name 'score_metadata_quality' is not defined)
+
+
+==============================
+Data Quality Auditor Report: TZA
+Missing Data (%):
+indicator
+country              0.000000
+year                 0.000000
+current_account     10.909091
+reserves_months     21.818182
+inflation            0.000000
+debt_gdp           100.000000
+gdp_growth           0.000000
+growth_shock         0.000000
+reserves_risk       21.818182
+
+Structural Breaks (by column):
+gdp_growth: error (single positional indexer is out-of-bounds)
+inflation: error (single positional indexer is out-of-bounds)
+debt_gdp: breakpoints at years []
+current_account: error (single positional indexer is out-of-bounds)
+reserves_months: error (single positional indexer is out-of-bounds)
+
+Chow Test F-statistics (by column):
+gdp_growth: error (name 'chow_test' is not defined)
+inflation: error (name 'chow_test' is not defined)
+current_account: error (name 'chow_test' is not defined)
+reserves_months: error (name 'chow_test' is not defined)
+
+Outlier Count (z-score > 3):
+gdp_growth: error (name 'detect_outliers' is not defined)
+inflation: error (name 'detect_outliers' is not defined)
+debt_gdp: error (name 'detect_outliers' is not defined)
+current_account: error (name 'detect_outliers' is not defined)
+reserves_months: error (name 'detect_outliers' is not defined)
+
+Rolling Variance (window=5, last value):
+gdp_growth: error (name 'rolling_variance' is not defined)
+inflation: error (name 'rolling_variance' is not defined)
+debt_gdp: error (name 'rolling_variance' is not defined)
+current_account: error (name 'rolling_variance' is not defined)
+reserves_months: error (name 'rolling_variance' is not defined)
+
+Metadata Quality Score:
+error (name 'score_metadata_quality' is not defined)
+
+
+==============================
+Data Quality Auditor Report: ZMB
+Missing Data (%):
+indicator
+country             0.000000
+year                0.000000
+current_account    23.636364
+reserves_months    25.454545
+inflation          29.090909
+debt_gdp           61.818182
+gdp_growth          0.000000
+growth_shock        0.000000
+reserves_risk      25.454545
+
+Structural Breaks (by column):
+gdp_growth: error (single positional indexer is out-of-bounds)
+inflation: error (single positional indexer is out-of-bounds)
+debt_gdp: error (single positional indexer is out-of-bounds)
+current_account: error (single positional indexer is out-of-bounds)
+reserves_months: error (single positional indexer is out-of-bounds)
+
+Chow Test F-statistics (by column):
+gdp_growth: error (name 'chow_test' is not defined)
+inflation: error (name 'chow_test' is not defined)
+debt_gdp: error (name 'chow_test' is not defined)
+current_account: error (name 'chow_test' is not defined)
+reserves_months: error (name 'chow_test' is not defined)
+
+Outlier Count (z-score > 3):
+gdp_growth: error (name 'detect_outliers' is not defined)
+inflation: error (name 'detect_outliers' is not defined)
+debt_gdp: error (name 'detect_outliers' is not defined)
+current_account: error (name 'detect_outliers' is not defined)
+reserves_months: error (name 'detect_outliers' is not defined)
+
+Rolling Variance (window=5, last value):
+gdp_growth: error (name 'rolling_variance' is not defined)
+inflation: error (name 'rolling_variance' is not defined)
+debt_gdp: error (name 'rolling_variance' is not defined)
+current_account: error (name 'rolling_variance' is not defined)
+reserves_months: error (name 'rolling_variance' is not defined)
+
+Metadata Quality Score:
+error (name 'score_metadata_quality' is not defined)
+
+
+==============================
+Data Quality Auditor Report: ZWE
+Missing Data (%):
+indicator
+country              0.000000
+year                 0.000000
+current_account     38.181818
+reserves_months     38.181818
+inflation           76.363636
+debt_gdp           100.000000
+gdp_growth           0.000000
+growth_shock         0.000000
+reserves_risk       38.181818
+
+Structural Breaks (by column):
+gdp_growth: error (single positional indexer is out-of-bounds)
+inflation: error (single positional indexer is out-of-bounds)
+debt_gdp: breakpoints at years []
+current_account: error (single positional indexer is out-of-bounds)
+reserves_months: error (single positional indexer is out-of-bounds)
+
+Chow Test F-statistics (by column):
+gdp_growth: error (name 'chow_test' is not defined)
+inflation: error (name 'chow_test' is not defined)
+current_account: error (name 'chow_test' is not defined)
+reserves_months: error (name 'chow_test' is not defined)
+
+Outlier Count (z-score > 3):
+gdp_growth: error (name 'detect_outliers' is not defined)
+inflation: error (name 'detect_outliers' is not defined)
+debt_gdp: error (name 'detect_outliers' is not defined)
+current_account: error (name 'detect_outliers' is not defined)
+reserves_months: error (name 'detect_outliers' is not defined)
+
+Rolling Variance (window=5, last value):
+gdp_growth: error (name 'rolling_variance' is not defined)
+inflation: error (name 'rolling_variance' is not defined)
+debt_gdp: error (name 'rolling_variance' is not defined)
+current_account: error (name 'rolling_variance' is not defined)
+reserves_months: error (name 'rolling_variance' is not defined)
+
+Metadata Quality Score:
+error (name 'score_metadata_quality' is not defined)
+
+
+============================================================
+Data Quality Summary: AGO
+============================================================
+Data Quality Auditor Report: AGO
+Missing Data (%):
+indicator
+country              0.000000
+year                 0.000000
+current_account      9.090909
+reserves_months     31.818182
+inflation           22.727273
+debt_gdp           100.000000
+gdp_growth           0.000000
+growth_shock         0.000000
+reserves_risk       31.818182
+
+Structural Breaks (by column):
+gdp_growth: breakpoints at years [1993, 1998]
+inflation: breakpoints at years [1996, 2001]
+debt_gdp: breakpoints at years []
+current_account: breakpoints at years [1996, 2001]
+reserves_months: breakpoints at years []
+
+Chow Test F-statistics (by column):
+gdp_growth: error (name 'chow_test' is not defined)
+inflation: error (name 'chow_test' is not defined)
+current_account: error (name 'chow_test' is not defined)
+reserves_months: error (name 'chow_test' is not defined)
+
+Outlier Count (z-score > 3):
+gdp_growth: error (name 'detect_outliers' is not defined)
+inflation: error (name 'detect_outliers' is not defined)
+debt_gdp: error (name 'detect_outliers' is not defined)
+current_account: error (name 'detect_outliers' is not defined)
+reserves_months: error (name 'detect_outliers' is not defined)
+
+Rolling Variance (window=5, last value):
+gdp_growth: error (name 'rolling_variance' is not defined)
+inflation: error (name 'rolling_variance' is not defined)
+debt_gdp: error (name 'rolling_variance' is not defined)
+current_account: error (name 'rolling_variance' is not defined)
+reserves_months: error (name 'rolling_variance' is not defined)
+
+Metadata Quality Score:
+error (name 'score_metadata_quality' is not defined)
+
+
+============================================================
+Data Quality Summary: BWA
+============================================================
+Data Quality Auditor Report: BWA
+Missing Data (%):
+indicator
+country             0.000000
+year                0.000000
+current_account     9.090909
+reserves_months    10.909091
+inflation           9.090909
+debt_gdp           60.000000
+gdp_growth          0.000000
+growth_shock        0.000000
+reserves_risk      10.909091
+
+Structural Breaks (by column):
+gdp_growth: error (single positional indexer is out-of-bounds)
+inflation: error (single positional indexer is out-of-bounds)
+debt_gdp: breakpoints at years []
+current_account: error (single positional indexer is out-of-bounds)
+reserves_months: error (single positional indexer is out-of-bounds)
+
+Chow Test F-statistics (by column):
+gdp_growth: error (name 'chow_test' is not defined)
+inflation: error (name 'chow_test' is not defined)
+debt_gdp: error (name 'chow_test' is not defined)
+current_account: error (name 'chow_test' is not defined)
+reserves_months: error (name 'chow_test' is not defined)
+
+Outlier Count (z-score > 3):
+gdp_growth: error (name 'detect_outliers' is not defined)
+inflation: error (name 'detect_outliers' is not defined)
+debt_gdp: error (name 'detect_outliers' is not defined)
+current_account: error (name 'detect_outliers' is not defined)
+reserves_months: error (name 'detect_outliers' is not defined)
+
+Rolling Variance (window=5, last value):
+gdp_growth: error (name 'rolling_variance' is not defined)
+inflation: error (name 'rolling_variance' is not defined)
+debt_gdp: error (name 'rolling_variance' is not defined)
+current_account: error (name 'rolling_variance' is not defined)
+reserves_months: error (name 'rolling_variance' is not defined)
+
+Metadata Quality Score:
+error (name 'score_metadata_quality' is not defined)
+
+
+============================================================
+Data Quality Summary: COM
+============================================================
+Data Quality Auditor Report: COM
+Missing Data (%):
+indicator
+country              0.000000
+year                 0.000000
+current_account     20.000000
+reserves_months     20.000000
+inflation           46.666667
+debt_gdp           100.000000
+gdp_growth           2.222222
+growth_shock         2.222222
+reserves_risk       20.000000
+
+Structural Breaks (by column):
+gdp_growth: error (single positional indexer is out-of-bounds)
+inflation: error (single positional indexer is out-of-bounds)
+debt_gdp: breakpoints at years []
+current_account: error (single positional indexer is out-of-bounds)
+reserves_months: error (single positional indexer is out-of-bounds)
+
+Chow Test F-statistics (by column):
+gdp_growth: error (name 'chow_test' is not defined)
+inflation: error (name 'chow_test' is not defined)
+current_account: error (name 'chow_test' is not defined)
+reserves_months: error (name 'chow_test' is not defined)
+
+Outlier Count (z-score > 3):
+gdp_growth: error (name 'detect_outliers' is not defined)
+inflation: error (name 'detect_outliers' is not defined)
+debt_gdp: error (name 'detect_outliers' is not defined)
+current_account: error (name 'detect_outliers' is not defined)
+reserves_months: error (name 'detect_outliers' is not defined)
+
+Rolling Variance (window=5, last value):
+gdp_growth: error (name 'rolling_variance' is not defined)
+inflation: error (name 'rolling_variance' is not defined)
+debt_gdp: error (name 'rolling_variance' is not defined)
+current_account: error (name 'rolling_variance' is not defined)
+reserves_months: error (name 'rolling_variance' is not defined)
+
+Metadata Quality Score:
+error (name 'score_metadata_quality' is not defined)
+
+
+============================================================
+Data Quality Summary: COD
+============================================================
+Data Quality Auditor Report: COD
+Missing Data (%):
+indicator
+country             0.000000
+year                0.000000
+current_account    63.636364
+reserves_months    65.454545
+inflation          14.545455
+debt_gdp           83.636364
+gdp_growth          0.000000
+growth_shock        0.000000
+reserves_risk      65.454545
+
+Structural Breaks (by column):
+gdp_growth: error (single positional indexer is out-of-bounds)
+inflation: error (single positional indexer is out-of-bounds)
+debt_gdp: breakpoints at years []
+current_account: breakpoints at years []
+reserves_months: breakpoints at years []
+
+Chow Test F-statistics (by column):
+gdp_growth: error (name 'chow_test' is not defined)
+inflation: error (name 'chow_test' is not defined)
+current_account: error (name 'chow_test' is not defined)
+reserves_months: error (name 'chow_test' is not defined)
+
+Outlier Count (z-score > 3):
+gdp_growth: error (name 'detect_outliers' is not defined)
+inflation: error (name 'detect_outliers' is not defined)
+debt_gdp: error (name 'detect_outliers' is not defined)
+current_account: error (name 'detect_outliers' is not defined)
+reserves_months: error (name 'detect_outliers' is not defined)
+
+Rolling Variance (window=5, last value):
+gdp_growth: error (name 'rolling_variance' is not defined)
+inflation: error (name 'rolling_variance' is not defined)
+debt_gdp: error (name 'rolling_variance' is not defined)
+current_account: error (name 'rolling_variance' is not defined)
+reserves_months: error (name 'rolling_variance' is not defined)
+
+Metadata Quality Score:
+error (name 'score_metadata_quality' is not defined)
+
+
+============================================================
+Data Quality Summary: SWZ
+============================================================
+Data Quality Auditor Report: SWZ
+Missing Data (%):
+indicator
+country             0.000000
+year                0.000000
+current_account     7.272727
+reserves_months     9.090909
+inflation           9.090909
+debt_gdp           78.181818
+gdp_growth          1.818182
+growth_shock        1.818182
+reserves_risk       9.090909
+
+Structural Breaks (by column):
+gdp_growth: error (single positional indexer is out-of-bounds)
+inflation: error (single positional indexer is out-of-bounds)
+debt_gdp: breakpoints at years []
+current_account: error (single positional indexer is out-of-bounds)
+reserves_months: error (single positional indexer is out-of-bounds)
+
+Chow Test F-statistics (by column):
+gdp_growth: error (name 'chow_test' is not defined)
+inflation: error (name 'chow_test' is not defined)
+debt_gdp: error (name 'chow_test' is not defined)
+current_account: error (name 'chow_test' is not defined)
+reserves_months: error (name 'chow_test' is not defined)
+
+Outlier Count (z-score > 3):
+gdp_growth: error (name 'detect_outliers' is not defined)
+inflation: error (name 'detect_outliers' is not defined)
+debt_gdp: error (name 'detect_outliers' is not defined)
+current_account: error (name 'detect_outliers' is not defined)
+reserves_months: error (name 'detect_outliers' is not defined)
+
+Rolling Variance (window=5, last value):
+gdp_growth: error (name 'rolling_variance' is not defined)
+inflation: error (name 'rolling_variance' is not defined)
+debt_gdp: error (name 'rolling_variance' is not defined)
+current_account: error (name 'rolling_variance' is not defined)
+reserves_months: error (name 'rolling_variance' is not defined)
+
+Metadata Quality Score:
+error (name 'score_metadata_quality' is not defined)
+
+
+============================================================
+Data Quality Summary: LSO
+============================================================
+Data Quality Auditor Report: LSO
+Missing Data (%):
+indicator
+country             0.000000
+year                0.000000
+current_account    10.909091
+reserves_months    18.181818
+inflation          12.727273
+debt_gdp           76.363636
+gdp_growth          0.000000
+growth_shock        0.000000
+reserves_risk      18.181818
+
+Structural Breaks (by column):
+gdp_growth: error (single positional indexer is out-of-bounds)
+inflation: error (single positional indexer is out-of-bounds)
+debt_gdp: error (single positional indexer is out-of-bounds)
+current_account: error (single positional indexer is out-of-bounds)
+reserves_months: error (single positional indexer is out-of-bounds)
+
+Chow Test F-statistics (by column):
+gdp_growth: error (name 'chow_test' is not defined)
+inflation: error (name 'chow_test' is not defined)
+debt_gdp: error (name 'chow_test' is not defined)
+current_account: error (name 'chow_test' is not defined)
+reserves_months: error (name 'chow_test' is not defined)
+
+Outlier Count (z-score > 3):
+gdp_growth: error (name 'detect_outliers' is not defined)
+inflation: error (name 'detect_outliers' is not defined)
+debt_gdp: error (name 'detect_outliers' is not defined)
+current_account: error (name 'detect_outliers' is not defined)
+reserves_months: error (name 'detect_outliers' is not defined)
+
+Rolling Variance (window=5, last value):
+gdp_growth: error (name 'rolling_variance' is not defined)
+inflation: error (name 'rolling_variance' is not defined)
+debt_gdp: error (name 'rolling_variance' is not defined)
+current_account: error (name 'rolling_variance' is not defined)
+reserves_months: error (name 'rolling_variance' is not defined)
+
+Metadata Quality Score:
+error (name 'score_metadata_quality' is not defined)
+
+
+============================================================
+Data Quality Summary: MDG
+============================================================
+Data Quality Auditor Report: MDG
+Missing Data (%):
+indicator
+country              0.000000
+year                 0.000000
+current_account     10.909091
+reserves_months     10.909091
+inflation            1.818182
+debt_gdp           100.000000
+gdp_growth           0.000000
+growth_shock         0.000000
+reserves_risk       10.909091
+
+Structural Breaks (by column):
+gdp_growth: error (single positional indexer is out-of-bounds)
+inflation: error (single positional indexer is out-of-bounds)
+debt_gdp: breakpoints at years []
+current_account: error (single positional indexer is out-of-bounds)
+reserves_months: error (single positional indexer is out-of-bounds)
+
+Chow Test F-statistics (by column):
+gdp_growth: error (name 'chow_test' is not defined)
+inflation: error (name 'chow_test' is not defined)
+current_account: error (name 'chow_test' is not defined)
+reserves_months: error (name 'chow_test' is not defined)
+
+Outlier Count (z-score > 3):
+gdp_growth: error (name 'detect_outliers' is not defined)
+inflation: error (name 'detect_outliers' is not defined)
+debt_gdp: error (name 'detect_outliers' is not defined)
+current_account: error (name 'detect_outliers' is not defined)
+reserves_months: error (name 'detect_outliers' is not defined)
+
+Rolling Variance (window=5, last value):
+gdp_growth: error (name 'rolling_variance' is not defined)
+inflation: error (name 'rolling_variance' is not defined)
+debt_gdp: error (name 'rolling_variance' is not defined)
+current_account: error (name 'rolling_variance' is not defined)
+reserves_months: error (name 'rolling_variance' is not defined)
+
+Metadata Quality Score:
+error (name 'score_metadata_quality' is not defined)
+
+
+============================================================
+Data Quality Summary: MWI
+============================================================
+Data Quality Auditor Report: MWI
+Missing Data (%):
+indicator
+country             0.000000
+year                0.000000
+current_account    18.181818
+reserves_months    21.818182
+inflation          20.000000
+debt_gdp           78.181818
+gdp_growth          0.000000
+growth_shock        0.000000
+reserves_risk      21.818182
+
+Structural Breaks (by column):
+gdp_growth: error (single positional indexer is out-of-bounds)
+inflation: error (single positional indexer is out-of-bounds)
+debt_gdp: breakpoints at years []
+current_account: error (single positional indexer is out-of-bounds)
+reserves_months: error (single positional indexer is out-of-bounds)
+
+Chow Test F-statistics (by column):
+gdp_growth: error (name 'chow_test' is not defined)
+inflation: error (name 'chow_test' is not defined)
+debt_gdp: error (name 'chow_test' is not defined)
+current_account: error (name 'chow_test' is not defined)
+reserves_months: error (name 'chow_test' is not defined)
+
+Outlier Count (z-score > 3):
+gdp_growth: error (name 'detect_outliers' is not defined)
+inflation: error (name 'detect_outliers' is not defined)
+debt_gdp: error (name 'detect_outliers' is not defined)
+current_account: error (name 'detect_outliers' is not defined)
+reserves_months: error (name 'detect_outliers' is not defined)
+
+Rolling Variance (window=5, last value):
+gdp_growth: error (name 'rolling_variance' is not defined)
+inflation: error (name 'rolling_variance' is not defined)
+debt_gdp: error (name 'rolling_variance' is not defined)
+current_account: error (name 'rolling_variance' is not defined)
+reserves_months: error (name 'rolling_variance' is not defined)
+
+Metadata Quality Score:
+error (name 'score_metadata_quality' is not defined)
+
+
+============================================================
+Data Quality Summary: MUS
+============================================================
+Data Quality Auditor Report: MUS
+Missing Data (%):
+indicator
+country             0.000000
+year                0.000000
+current_account    10.909091
+reserves_months    10.909091
+inflation           0.000000
+debt_gdp           52.727273
+gdp_growth          0.000000
+growth_shock        0.000000
+reserves_risk      10.909091
+
+Structural Breaks (by column):
+gdp_growth: error (single positional indexer is out-of-bounds)
+inflation: error (single positional indexer is out-of-bounds)
+debt_gdp: breakpoints at years []
+current_account: error (single positional indexer is out-of-bounds)
+reserves_months: error (single positional indexer is out-of-bounds)
+
+Chow Test F-statistics (by column):
+gdp_growth: error (name 'chow_test' is not defined)
+inflation: error (name 'chow_test' is not defined)
+debt_gdp: error (name 'chow_test' is not defined)
+current_account: error (name 'chow_test' is not defined)
+reserves_months: error (name 'chow_test' is not defined)
+
+Outlier Count (z-score > 3):
+gdp_growth: error (name 'detect_outliers' is not defined)
+inflation: error (name 'detect_outliers' is not defined)
+debt_gdp: error (name 'detect_outliers' is not defined)
+current_account: error (name 'detect_outliers' is not defined)
+reserves_months: error (name 'detect_outliers' is not defined)
+
+Rolling Variance (window=5, last value):
+gdp_growth: error (name 'rolling_variance' is not defined)
+inflation: error (name 'rolling_variance' is not defined)
+debt_gdp: error (name 'rolling_variance' is not defined)
+current_account: error (name 'rolling_variance' is not defined)
+reserves_months: error (name 'rolling_variance' is not defined)
+
+Metadata Quality Score:
+error (name 'score_metadata_quality' is not defined)
+
+
+============================================================
+Data Quality Summary: MOZ
+============================================================
+Data Quality Auditor Report: MOZ
+Missing Data (%):
+indicator
+country             0.000000
+year                0.000000
+current_account    54.545455
+reserves_months    54.545455
+inflation          54.545455
+debt_gdp           79.545455
+gdp_growth          0.000000
+growth_shock        0.000000
+reserves_risk      54.545455
+
+Structural Breaks (by column):
+gdp_growth: error (single positional indexer is out-of-bounds)
+inflation: breakpoints at years []
+debt_gdp: breakpoints at years []
+current_account: error (single positional indexer is out-of-bounds)
+reserves_months: breakpoints at years []
+
+Chow Test F-statistics (by column):
+gdp_growth: error (name 'chow_test' is not defined)
+inflation: error (name 'chow_test' is not defined)
+current_account: error (name 'chow_test' is not defined)
+reserves_months: error (name 'chow_test' is not defined)
+
+Outlier Count (z-score > 3):
+gdp_growth: error (name 'detect_outliers' is not defined)
+inflation: error (name 'detect_outliers' is not defined)
+debt_gdp: error (name 'detect_outliers' is not defined)
+current_account: error (name 'detect_outliers' is not defined)
+reserves_months: error (name 'detect_outliers' is not defined)
+
+Rolling Variance (window=5, last value):
+gdp_growth: error (name 'rolling_variance' is not defined)
+inflation: error (name 'rolling_variance' is not defined)
+debt_gdp: error (name 'rolling_variance' is not defined)
+current_account: error (name 'rolling_variance' is not defined)
+reserves_months: error (name 'rolling_variance' is not defined)
+
+Metadata Quality Score:
+error (name 'score_metadata_quality' is not defined)
+
+
+============================================================
+Data Quality Summary: NAM
+============================================================
+Data Quality Auditor Report: NAM
+Missing Data (%):
+indicator
+country             0.000000
+year                0.000000
+current_account    20.454545
+reserves_months    25.000000
+inflation          50.000000
+debt_gdp           81.818182
+gdp_growth          0.000000
+growth_shock        0.000000
+reserves_risk      25.000000
+
+Structural Breaks (by column):
+gdp_growth: error (single positional indexer is out-of-bounds)
+inflation: error (single positional indexer is out-of-bounds)
+debt_gdp: breakpoints at years []
+current_account: error (single positional indexer is out-of-bounds)
+reserves_months: error (single positional indexer is out-of-bounds)
+
+Chow Test F-statistics (by column):
+gdp_growth: error (name 'chow_test' is not defined)
+inflation: error (name 'chow_test' is not defined)
+current_account: error (name 'chow_test' is not defined)
+reserves_months: error (name 'chow_test' is not defined)
+
+Outlier Count (z-score > 3):
+gdp_growth: error (name 'detect_outliers' is not defined)
+inflation: error (name 'detect_outliers' is not defined)
+debt_gdp: error (name 'detect_outliers' is not defined)
+current_account: error (name 'detect_outliers' is not defined)
+reserves_months: error (name 'detect_outliers' is not defined)
+
+Rolling Variance (window=5, last value):
+gdp_growth: error (name 'rolling_variance' is not defined)
+inflation: error (name 'rolling_variance' is not defined)
+debt_gdp: error (name 'rolling_variance' is not defined)
+current_account: error (name 'rolling_variance' is not defined)
+reserves_months: error (name 'rolling_variance' is not defined)
+
+Metadata Quality Score:
+error (name 'score_metadata_quality' is not defined)
+
+
+============================================================
+Data Quality Summary: ZAF
+============================================================
+Data Quality Auditor Report: ZAF
+Missing Data (%):
+indicator
+country             0.000000
+year                0.000000
+current_account     0.000000
+reserves_months     0.000000
+inflation           0.000000
+debt_gdp           63.636364
+gdp_growth          0.000000
+growth_shock        0.000000
+reserves_risk       0.000000
+
+Structural Breaks (by column):
+gdp_growth: error (single positional indexer is out-of-bounds)
+inflation: error (single positional indexer is out-of-bounds)
+debt_gdp: breakpoints at years []
+current_account: error (single positional indexer is out-of-bounds)
+reserves_months: error (single positional indexer is out-of-bounds)
+
+Chow Test F-statistics (by column):
+gdp_growth: error (name 'chow_test' is not defined)
+inflation: error (name 'chow_test' is not defined)
+debt_gdp: error (name 'chow_test' is not defined)
+current_account: error (name 'chow_test' is not defined)
+reserves_months: error (name 'chow_test' is not defined)
+
+Outlier Count (z-score > 3):
+gdp_growth: error (name 'detect_outliers' is not defined)
+inflation: error (name 'detect_outliers' is not defined)
+debt_gdp: error (name 'detect_outliers' is not defined)
+current_account: error (name 'detect_outliers' is not defined)
+reserves_months: error (name 'detect_outliers' is not defined)
+
+Rolling Variance (window=5, last value):
+gdp_growth: error (name 'rolling_variance' is not defined)
+inflation: error (name 'rolling_variance' is not defined)
+debt_gdp: error (name 'rolling_variance' is not defined)
+current_account: error (name 'rolling_variance' is not defined)
+reserves_months: error (name 'rolling_variance' is not defined)
+
+Metadata Quality Score:
+error (name 'score_metadata_quality' is not defined)
+
+
+============================================================
+Data Quality Summary: TZA
+============================================================
+Data Quality Auditor Report: TZA
+Missing Data (%):
+indicator
+country              0.000000
+year                 0.000000
+current_account     10.909091
+reserves_months     21.818182
+inflation            0.000000
+debt_gdp           100.000000
+gdp_growth           0.000000
+growth_shock         0.000000
+reserves_risk       21.818182
+
+Structural Breaks (by column):
+gdp_growth: error (single positional indexer is out-of-bounds)
+inflation: error (single positional indexer is out-of-bounds)
+debt_gdp: breakpoints at years []
+current_account: error (single positional indexer is out-of-bounds)
+reserves_months: error (single positional indexer is out-of-bounds)
+
+Chow Test F-statistics (by column):
+gdp_growth: error (name 'chow_test' is not defined)
+inflation: error (name 'chow_test' is not defined)
+current_account: error (name 'chow_test' is not defined)
+reserves_months: error (name 'chow_test' is not defined)
+
+Outlier Count (z-score > 3):
+gdp_growth: error (name 'detect_outliers' is not defined)
+inflation: error (name 'detect_outliers' is not defined)
+debt_gdp: error (name 'detect_outliers' is not defined)
+current_account: error (name 'detect_outliers' is not defined)
+reserves_months: error (name 'detect_outliers' is not defined)
+
+Rolling Variance (window=5, last value):
+gdp_growth: error (name 'rolling_variance' is not defined)
+inflation: error (name 'rolling_variance' is not defined)
+debt_gdp: error (name 'rolling_variance' is not defined)
+current_account: error (name 'rolling_variance' is not defined)
+reserves_months: error (name 'rolling_variance' is not defined)
+
+Metadata Quality Score:
+error (name 'score_metadata_quality' is not defined)
+
+
+============================================================
+Data Quality Summary: ZMB
+============================================================
+Data Quality Auditor Report: ZMB
+Missing Data (%):
+indicator
+country             0.000000
+year                0.000000
+current_account    23.636364
+reserves_months    25.454545
+inflation          29.090909
+debt_gdp           61.818182
+gdp_growth          0.000000
+growth_shock        0.000000
+reserves_risk      25.454545
+
+Structural Breaks (by column):
+gdp_growth: error (single positional indexer is out-of-bounds)
+inflation: error (single positional indexer is out-of-bounds)
+debt_gdp: error (single positional indexer is out-of-bounds)
+current_account: error (single positional indexer is out-of-bounds)
+reserves_months: error (single positional indexer is out-of-bounds)
+
+Chow Test F-statistics (by column):
+gdp_growth: error (name 'chow_test' is not defined)
+inflation: error (name 'chow_test' is not defined)
+debt_gdp: error (name 'chow_test' is not defined)
+current_account: error (name 'chow_test' is not defined)
+reserves_months: error (name 'chow_test' is not defined)
+
+Outlier Count (z-score > 3):
+gdp_growth: error (name 'detect_outliers' is not defined)
+inflation: error (name 'detect_outliers' is not defined)
+debt_gdp: error (name 'detect_outliers' is not defined)
+current_account: error (name 'detect_outliers' is not defined)
+reserves_months: error (name 'detect_outliers' is not defined)
+
+Rolling Variance (window=5, last value):
+gdp_growth: error (name 'rolling_variance' is not defined)
+inflation: error (name 'rolling_variance' is not defined)
+debt_gdp: error (name 'rolling_variance' is not defined)
+current_account: error (name 'rolling_variance' is not defined)
+reserves_months: error (name 'rolling_variance' is not defined)
+
+Metadata Quality Score:
+error (name 'score_metadata_quality' is not defined)
+
+
+============================================================
+Data Quality Summary: ZWE
+============================================================
+Data Quality Auditor Report: ZWE
+Missing Data (%):
+indicator
+country              0.000000
+year                 0.000000
+current_account     38.181818
+reserves_months     38.181818
+inflation           76.363636
+debt_gdp           100.000000
+gdp_growth           0.000000
+growth_shock         0.000000
+reserves_risk       38.181818
+
+Structural Breaks (by column):
+gdp_growth: error (single positional indexer is out-of-bounds)
+inflation: error (single positional indexer is out-of-bounds)
+debt_gdp: breakpoints at years []
+current_account: error (single positional indexer is out-of-bounds)
+reserves_months: error (single positional indexer is out-of-bounds)
+
+Chow Test F-statistics (by column):
+gdp_growth: error (name 'chow_test' is not defined)
+inflation: error (name 'chow_test' is not defined)
+current_account: error (name 'chow_test' is not defined)
+reserves_months: error (name 'chow_test' is not defined)
+
+Outlier Count (z-score > 3):
+gdp_growth: error (name 'detect_outliers' is not defined)
+inflation: error (name 'detect_outliers' is not defined)
+debt_gdp: error (name 'detect_outliers' is not defined)
+current_account: error (name 'detect_outliers' is not defined)
+reserves_months: error (name 'detect_outliers' is not defined)
+
+Rolling Variance (window=5, last value):
+gdp_growth: error (name 'rolling_variance' is not defined)
+inflation: error (name 'rolling_variance' is not defined)
+debt_gdp: error (name 'rolling_variance' is not defined)
+current_account: error (name 'rolling_variance' is not defined)
+reserves_months: error (name 'rolling_variance' is not defined)
+
+Metadata Quality Score:
+error (name 'score_metadata_quality' is not defined)
+

@@ -106,18 +106,16 @@ with open(report_path, 'w', encoding='utf-8') as f:
             continue
         country_name = country
         frs_mean = country_rows['gdp_growth'].mean() if 'gdp_growth' in country_rows else 0
-        f.write(f"\n{'='*60}\nExecutive Summary: {country_name}\n{'='*60}\n")
-        f.write(f"Fiscal Risk Score (mean gdp_growth): {frs_mean:.2f}\n\n")
-        # Build table data
+
+
+        # Build table data for appendix and executive summary
         table_data = []
-        # For scenario, use the simulated inflation from the first simulation (sims DataFrame)
         sim_rows = sims[sims['country'] == country] if 'country' in sims.columns else sims
         sim_by_year = sim_rows.groupby('year').first() if 'year' in sim_rows.columns else None
         for _, row in country_rows.iterrows():
             year = int(row['year'])
             flag = rule_based_risk_flag(row)
             key_drivers = f"Debt: {row.get('debt_gdp', 'NA'):.1f}, Inf: {row.get('inflation', 'NA'):.1f}, Growth: {row.get('gdp_growth', 'NA'):.1f}"
-            # Get simulated inflation for this year (if available)
             scenario = "N/A"
             if sim_by_year is not None and year in sim_by_year.index:
                 sim_infl = sim_by_year.loc[year]['inflation'] if 'inflation' in sim_by_year.columns else None
@@ -127,73 +125,83 @@ with open(report_path, 'w', encoding='utf-8') as f:
             table_data.append([year, flag, key_drivers, scenario, policy])
         headers = ["Year", "Flag", "Key Drivers", "Scenario Analysis", "Policy Recommendation"]
         table_str = tabulate(table_data, headers=headers, tablefmt="github", showindex=False)
-        f.write(table_str + "\n")
-        # Column key
-        f.write("\nColumn Key:\n")
-        f.write("Year: Calendar year of observation\n")
-        f.write("Flag: Early warning risk flag (HIGH/MEDIUM/LOW)\n")
-        f.write("Key Drivers: Main macro-fiscal indicators\n")
-        f.write("Scenario Analysis: Description of simulated macro shock\n")
-        f.write("Policy Recommendation: Automated policy advice based on risk pattern\n")
 
-        # Data Quality Auditor Report
-        f.write("\nData Quality Auditor Report:\n")
-        # 1. Missingness
+        # Save all detailed report sections as appendix
+        appendix = []
+        appendix.append(f"Fiscal Risk Score (mean gdp_growth): {frs_mean:.2f}\n")
+        appendix.append(table_str + "\n")
+        appendix.append("Column Key:\n")
+        appendix.append("Year: Calendar year of observation\n")
+        appendix.append("Flag: Early warning risk flag (HIGH/MEDIUM/LOW)\n")
+        appendix.append("Key Drivers: Main macro-fiscal indicators\n")
+        appendix.append("Scenario Analysis: Description of simulated macro shock\n")
+        appendix.append("Policy Recommendation: Automated policy advice based on risk pattern\n")
+
+
+        # Data Quality Report: save to separate file
+        dq_report = []
+        dq_report.append(f"Data Quality Auditor Report: {country_name}\n")
         missing = profile_missingness(country_rows)
-        f.write("Missing Data (%):\n")
-        f.write(missing.to_string())
-        f.write("\n\n")
-        # 2. Structural breaks (for each numeric column)
-        f.write("Structural Breaks (by column):\n")
+        dq_report.append("Missing Data (%):\n")
+        dq_report.append(missing.to_string() + "\n\n")
+        dq_report.append("Structural Breaks (by column):\n")
         for col in ['gdp_growth', 'inflation', 'debt_gdp', 'fiscal_balance', 'current_account', 'reserves_months']:
             if col in country_rows.columns:
                 try:
                     breaks = detect_structural_breaks(country_rows, col)
-                    f.write(f"{col}: breakpoints at years {[int(country_rows.iloc[b]['year']) for b in breaks['breakpoints']]}\n")
+                    dq_report.append(f"{col}: breakpoints at years {[int(country_rows.iloc[b]['year']) for b in breaks['breakpoints']]}\n")
                 except Exception as e:
-                    f.write(f"{col}: error ({e})\n")
-        f.write("\n")
-        # 3. Chow test (split at midpoint)
-        f.write("Chow Test F-statistics (by column):\n")
+                    dq_report.append(f"{col}: error ({e})\n")
+        dq_report.append("\n")
+        dq_report.append("Chow Test F-statistics (by column):\n")
         for col in ['gdp_growth', 'inflation', 'debt_gdp', 'fiscal_balance', 'current_account', 'reserves_months']:
             if col in country_rows.columns and country_rows[col].notnull().sum() > 10:
                 try:
                     split = len(country_rows) // 2
                     f_stat = chow_test(country_rows, col, split)
-                    f.write(f"{col}: F = {f_stat:.2f}\n")
+                    dq_report.append(f"{col}: F = {f_stat:.2f}\n")
                 except Exception as e:
-                    f.write(f"{col}: error ({e})\n")
-        f.write("\n")
-        # 4. Outlier count (zscore method)
-        f.write("Outlier Count (z-score > 3):\n")
+                    dq_report.append(f"{col}: error ({e})\n")
+        dq_report.append("\n")
+        dq_report.append("Outlier Count (z-score > 3):\n")
         for col in ['gdp_growth', 'inflation', 'debt_gdp', 'fiscal_balance', 'current_account', 'reserves_months']:
             if col in country_rows.columns:
                 try:
                     outliers = detect_outliers(country_rows, col, method="zscore", threshold=3.0)
                     count = outliers.sum()
-                    f.write(f"{col}: {count}\n")
+                    dq_report.append(f"{col}: {count}\n")
                 except Exception as e:
-                    f.write(f"{col}: error ({e})\n")
-        f.write("\n")
-        # 5. Rolling variance (last value)
-        f.write("Rolling Variance (window=5, last value):\n")
+                    dq_report.append(f"{col}: error ({e})\n")
+        dq_report.append("\n")
+        dq_report.append("Rolling Variance (window=5, last value):\n")
         for col in ['gdp_growth', 'inflation', 'debt_gdp', 'fiscal_balance', 'current_account', 'reserves_months']:
             if col in country_rows.columns:
                 try:
                     rv = rolling_variance(country_rows, col, window=5)
                     last = rv.dropna().iloc[-1] if not rv.dropna().empty else float('nan')
-                    f.write(f"{col}: {last:.2f}\n")
+                    dq_report.append(f"{col}: {last:.2f}\n")
                 except Exception as e:
-                    f.write(f"{col}: error ({e})\n")
-        f.write("\n")
-        # 6. Metadata quality score (dummy metadata)
-        f.write("Metadata Quality Score:\n")
+                    dq_report.append(f"{col}: error ({e})\n")
+        dq_report.append("\n")
+        dq_report.append("Metadata Quality Score:\n")
         dummy_metadata = {"source": "World Bank", "units": "various", "frequency": "annual", "last_updated": "2025"}
         try:
             score = score_metadata_quality(country_rows, dummy_metadata)
-            f.write(f"Score: {score:.2f}\n")
+            dq_report.append(f"Score: {score:.2f}\n")
         except Exception as e:
-            f.write(f"error ({e})\n")
-        f.write("\n")
+            dq_report.append(f"error ({e})\n")
+        dq_report.append("\n")
+
+        dq_report_path = os.path.join('reports', 'data_quality_audit.txt')
+        with open(dq_report_path, 'a', encoding='utf-8') as dqf:
+            dqf.write(f"\n{'='*60}\nData Quality Summary: {country_name}\n{'='*60}\n{''.join(dq_report)}")
+
+        # Write appendix to file
+        f.write(f"\n{'='*60}\nAppendix: {country_name}\n{'='*60}\n")
+        f.write(''.join(appendix))
+
+        # Placeholder for Ollama agent executive summary
+        f.write(f"\n{'='*60}\nOllama Executive Summary: {country_name}\n{'='*60}\n")
+        f.write("[This section will be generated by the Ollama agent based on the appendix above.]\n\n")
 
 print(f'Report generated for all countries: {report_path}')
