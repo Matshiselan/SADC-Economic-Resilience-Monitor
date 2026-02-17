@@ -2,11 +2,11 @@
 
 # SADC-Economic-Resilience-Monitor
 
-![License](https://img.shields.io/github/license/your-org/SADC-Economic-Resilience-Monitor)
+![License](https://img.shields.io/github/license/Matshiselan/SADC-Economic-Resilience-Monitor)
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue)
-![Issues](https://img.shields.io/github/issues/your-org/SADC-Economic-Resilience-Monitor)
-![Last Commit](https://img.shields.io/github/last-commit/your-org/SADC-Economic-Resilience-Monitor)
-![Stars](https://img.shields.io/github/stars/your-org/SADC-Economic-Resilience-Monitor?style=social)
+![Issues](https://img.shields.io/github/issues/Matshiselan/SADC-Economic-Resilience-Monitor)
+![Last Commit](https://img.shields.io/github/last-commit/Matshiselan/SADC-Economic-Resilience-Monitor)
+![Stars](https://img.shields.io/github/stars/Matshiselan/SADC-Economic-Resilience-Monitor?style=social)
 
 > **Tags:** `SADC` `macroeconomics` `early-warning` `multi-agent` `policy` `resilience` `python` `data-quality` `scenario-analysis`
 
