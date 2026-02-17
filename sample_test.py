@@ -14,24 +14,26 @@ from src.tools import (
 )
 
 # 1. Fetch real macro data for SADC countries from World Bank API
-sadc_iso_codes = [
-    'AGO',  # Angola
-    'BWA',  # Botswana
-    'COM',  # Comoros
-    'COD',  # Democratic Republic of the Congo
-    'SWZ',  # Eswatini (Swaziland)
-    'LSO',  # Lesotho
-    'MDG',  # Madagascar
-    'MWI',  # Malawi
-    'MUS',  # Mauritius
-    'MOZ',  # Mozambique
-    'NAM',  # Namibia
-    'SEY',  # Seychelles
-    'ZAF',  # South Africa
-    'TZA',  # Tanzania
-    'ZMB',  # Zambia
-    'ZWE',  # Zimbabwe
-]
+sadc_countries = [
+        ('AGO', 'Angola'),
+        ('BWA', 'Botswana'),
+        ('COM', 'Comoros'),
+        ('COD', 'Democratic Republic of the Congo'),
+        ('SWZ', 'Eswatini'),
+        ('LSO', 'Lesotho'),
+        ('MDG', 'Madagascar'),
+        ('MWI', 'Malawi'),
+        ('MUS', 'Mauritius'),
+        ('MOZ', 'Mozambique'),
+        ('NAM', 'Namibia'),
+        ('SEY', 'Seychelles'),
+        ('ZAF', 'South Africa'),
+        ('TZA', 'Tanzania'),
+        ('ZMB', 'Zambia'),
+        ('ZWE', 'Zimbabwe'),
+    ]
+sadc_iso_codes = [iso for iso, name in sadc_countries]
+iso_to_name = dict(sadc_countries)
 
 print('Fetching World Bank macro-fiscal data (1970-2024)...')
 wb_data = fetch_sadc_data(sadc_iso_codes, start=1970, end=2025)
@@ -104,7 +106,7 @@ with open(report_path, 'w', encoding='utf-8') as f:
         country_rows = wide_df[wide_df['country'] == country]
         if country_rows.empty:
             continue
-        country_name = country
+        country_name = iso_to_name.get(country, country)
         frs_mean = country_rows['gdp_growth'].mean() if 'gdp_growth' in country_rows else 0
 
 

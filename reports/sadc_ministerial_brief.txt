@@ -1,6 +1,6 @@
 
 ============================================================
-Appendix: AGO
+Appendix: Angola
 ============================================================
 Fiscal Risk Score (mean gdp_growth): 3.52
 |   Year | Flag   | Key Drivers                           | Scenario Analysis               | Policy Recommendation                                                                                                                   |
@@ -57,30 +57,24 @@ Scenario Analysis: Description of simulated macro shock
 Policy Recommendation: Automated policy advice based on risk pattern
 
 ============================================================
-Ollama Executive Summary: AGO
+Ollama Executive Summary: Angola
 ============================================================
-**Executive Summary – Angola (AGO)**  
+**Risk Profile**  
+Angola’s fiscal risk flag has remained in the medium band throughout the sample, reflecting persistent macro‑fiscal vulnerabilities. The most acute pressure derives from repeatedly high inflation, especially in the early 1990s hyper‑inflation episode and the post‑2015 period where consumer price growth regularly exceeded 20 %. Debt data are missing, limiting the ability to fully assess balance‑sheet risks, but the persistence of inflation‐driven monetary tightening signals heightened debt‑service concerns.
 
-The early‑warning system flags **medium‑level fiscal risk** for most of the 1981‑2024 horizon, with only occasional low‑risk periods (early‑80s, mid‑90s, 2013‑14). No high‑risk alerts appear, but the record reveals two dominant structural breaks that shape current policy choices.  
+**Key Trends**  
+From 1991 onward, Angola experienced successive inflation spikes that triggered automated recommendations for aggressive rate hikes. While inflation moderated after 2005, a resurgence occurred after 2015, with inflation hovering above 20 % and peaking at 33 % in 2024. Economic growth has been uneven, swinging from negative to double‑digit rebounds, but has not delivered a sustained expansion, with GDP growth averaging just above 3 % in recent years. Episodes of low growth in the early 1980s and occasional medium‑risk periods in 2015, 2023, and 2024 prompted counter‑cyclical fiscal stimulus recommendations modelled on Botswana’s 2009 experience.
 
-1. **1991‑2005 hyper‑inflation episode** – Annual consumer‑price inflation surged to >2 000 % and persisted at double‑digit levels for a decade. The model consistently recommends **aggressive monetary tightening** (sharp policy‑rate hikes) to re‑anchor expectations.  
+**Policy Implications**  
+Policymakers must continue to anchor inflation expectations through disciplined monetary tightening, emphasizing credibility, transparent policy communication, and a calibrated interest‑rate path that avoids excessive real‑rate spikes. Simultaneously, targeted fiscal stimulus—focused on productive investment, social safety nets, and diversification away from oil dependence—should be deployed during growth lulls to prevent a debt spiral and to support inclusive recovery. Strengthening debt reporting and establishing a comprehensive fiscal risk register are essential to improve monitoring and early‑warning capacity.
 
-2. **Post‑2015 inflation volatility** – Inflation has remained above 10 % (peaking at 33 % in 2024) while growth hovers around 4 % and debt metrics are unavailable (nan). The automated guidance again calls for **tight monetary stance** to curb price pressures, but also identifies **counter‑cyclical fiscal stimulus** as appropriate in downturn years (notably 2015 and 2023) – a targeted, socially‑oriented boost rather than broad tax cuts.  
-
-**Data gaps** – Debt‑to‑GDP, fiscal balances and inflation for 1980‑2000 are missing, limiting the robustness of risk scoring. Improving real‑time fiscal reporting and debt sustainability analysis is essential for precise early‑warning.  
-
-**Policy priorities for Ministers and Governors**  
-- Maintain a **credible, forward‑looking monetary tightening path** until inflation expectations are firmly anchored below 10 %.  
-- Deploy **targeted fiscal stimulus** (e.g., infrastructure, social safety nets) when growth falls below 2 % and inflation is under control, as in 2015 and 2023.  
-- Build **fiscal buffers and transparent debt tracking** to close data gaps and enable swift risk assessment.  
-- Conduct a **structural‑break review** to calibrate the fiscal risk model to Angola’s post‑2005 macro‑environment.  
-
-These steps will reduce medium‑risk alerts, strengthen macro‑stability, and support sustainable growth across the SADC region.
+**Conclusion**  
+Angola’s medium‑risk classification is driven chiefly by entrenched inflation volatility and data gaps on debt. A dual approach of firm monetary anchoring combined with judicious, project‑based fiscal stimulus will mitigate inflationary shocks, sustain growth, and enhance fiscal resilience ahead of the 2025 SADC fiscal consolidation framework.
 
 
 
 ============================================================
-Appendix: BWA
+Appendix: Botswana
 ============================================================
 Fiscal Risk Score (mean gdp_growth): 7.37
 |   Year | Flag   | Key Drivers                         | Scenario Analysis             | Policy Recommendation                                                                                                                   |
@@ -148,31 +142,24 @@ Scenario Analysis: Description of simulated macro shock
 Policy Recommendation: Automated policy advice based on risk pattern
 
 ============================================================
-Ollama Executive Summary: BWA
+Ollama Executive Summary: Botswana
 ============================================================
-**Executive Summary – Botswana (BWA)**  
+**Risk Profile**  
+Botswana’s fiscal risk score of 7.37 signals a moderate exposure to macro‑fiscal volatility. The early‑warning flag registers as MEDIUM for 68 % of the observations, LOW for the remaining periods and never reaches HIGH. The dominant risk drivers are rising public‑debt ratios (peaking above 19 % of GDP in 2009‑2022) and a persistently volatile growth path, with sharp contractions in 2009, 2020 and 2024. Inflation has generally been contained below 12 % after 2010, yet historical spikes above 15 % in the 1970s–1980s illustrate sensitivity to external shocks.
 
-*Risk profile*: The long‑run fiscal‑risk score (7.37 % of mean GDP growth) signals a **medium‑level vulnerability**. Early‑year observations (1970‑‑1985) are characterised by **high growth and volatile inflation** (≈12‑22 % after shocks) with limited debt data, producing mixed “MEDIUM” flags. From the mid‑1990s onward, the flag stabilises at **LOW** in most years, but **MEDIUM** re‑emerges during periods of external stress (2008‑09, 2020‑24).  
+**Key Trends**  
+Since the late 2000s, Botswana has experienced a structural shift: debt accumulation coincides with lower, often negative, real growth and a transition from high‑growth, low‑inflation episodes of the 1970s to a more subdued macro‑environment. Data gaps are evident—debt figures are missing for many pre‑1990 years—limiting a full long‑run assessment. The pattern of “counter‑cyclical fiscal stimulus” recommendations for downturns (2009, 2012, 2020, 2024) reflects the system’s identification of fiscal space as a buffer, whereas isolated calls for FX management (1976) and monetary tightening (1981, 1992) arise when inflationary pressures exceed 16 %.
 
-*Key trends*  
-- **Inflation** fell sharply after the early 1990s, reaching sub‑5 % levels by 2014, but spiked again in 2022 (17 %).  
-- **Debt‑to‑GDP** data are missing for many early years and become irregular after 2000, obscuring trends in fiscal space.  
-- **Growth** swung from exceptionally high (≥20 % in the 1970s) to modest (≈3‑5 % post‑2014) and turned negative in 2009 and 2020‑24.  
+**Policy Implications**  
+In periods of deteriorating growth and rising debt, the Ministry should deploy targeted, time‑bound fiscal stimulus that safeguards critical investment while preserving debt sustainability. Strengthening FX market interventions can help contain imported inflation when external shocks materialise. When inflation breaches the mid‑teens, the Central Bank must act decisively with rate hikes to anchor expectations. Across all years, improving the timeliness and completeness of fiscal data—especially debt stock—will enhance early‑warning accuracy and policy calibration.
 
-*Policy implications*  
-
-1. **Strengthen data collection** – Institutionalise quarterly debt reporting and improve inflation‑shock modelling to close information gaps that currently trigger “expert‑review” flags.  
-2. **Counter‑cyclical fiscal stance** – In line with repeated recommendations (1998, 2001, 2009, 2012, 2020, 2024), deploy **targeted stimulus** (e.g., infrastructure guarantees, social safety‑net expansions) when growth contracts sharply and debt ratios remain manageable.  
-3. **Monetary anchoring** – When inflation breaches the 15 % threshold (e.g., 1981, 1992), pursue **aggressive policy‑rate hikes** to re‑anchor expectations, complemented by transparent forward guidance.  
-4. **FX market management** – For episodes resembling Mozambique 2016 (1976), consider **temporary foreign‑exchange interventions** and import‑compression measures to dampen external shock transmission.  
-5. **Debt sustainability** – Prioritise debt‑service budgeting and explore concessional financing to keep the debt‑to‑GDP ratio below 60 % as a guard‑rail for future stimulus cycles.  
-
-*Bottom line*: Botswana’s macro‑fiscal landscape is broadly stable but punctuated by shock‑driven risk spikes. A disciplined, data‑driven approach—combining targeted fiscal stimulus, prudent monetary tightening when needed, and vigilant debt management—will safeguard growth while containing inflationary pressures.
+**Conclusion**  
+Botswana faces moderate fiscal risk driven by elevated debt and growth volatility. A balanced policy mix—targeted fiscal support during downturns, vigilant FX and monetary management during inflation spikes, and upgraded data systems—will reinforce macro‑economic stability and keep the risk flag in the LOW category.
 
 
 
 ============================================================
-Appendix: COM
+Appendix: Comoros
 ============================================================
 Fiscal Risk Score (mean gdp_growth): 2.62
 |   Year | Flag   | Key Drivers                       | Scenario Analysis             | Policy Recommendation                                                                                                   |
@@ -230,34 +217,24 @@ Scenario Analysis: Description of simulated macro shock
 Policy Recommendation: Automated policy advice based on risk pattern
 
 ============================================================
-Ollama Executive Summary: COM
+Ollama Executive Summary: Comoros
 ============================================================
-**Executive Summary – COM (Fiscal Risk Overview)**  
+**Risk Profile**  
+Comoros exhibits a moderate fiscal risk score (2.62) with early‑year alerts largely “LOW” but a persistent “MEDIUM” flag from the mid‑1980s onward. The risk rating is driven by volatile real growth, recurring negative growth episodes, and a sharp inflation surge in 2022‑2023. Crucially, debt data are missing for the entire series, limiting a full assessment of solvency pressures.
 
-The fiscal risk flag has remained **low to medium** over the past four decades, with no “high” alerts. The principal risk drivers are **volatile inflation** (peaking at 18 % in 2022) and intermittent **growth contractions** (notably –6.2 % in 1991 and –0.9 % in 1989). Debt data are absent for all years, limiting any assessment of debt sustainability and creating a major information gap.
+**Key Trends**  
+Growth has oscillated between strong expansions (≥7 % in the early 1990s) and deep contractions (‑6 % in 1991, ‑1.8 % in 2006, ‑0.2 % in 2020). Inflation, absent before 2001, has risen dramatically, peaking at 18 % in 2022. The early‑period policy engine repeatedly suggests foreign‑exchange (FX) management and import compression, mirroring Mozambique’s 2016 response. From the late 1990s onward, the template switches to counter‑cyclical, targeted fiscal stimulus akin to Botswana’s 2009 approach whenever growth turns negative or inflation spikes. Over 40 % of observations trigger a “expert review” recommendation, reflecting the absence of a matching policy template.
 
-**Key patterns**
+**Policy Implications**  
+Immediate actions should focus on strengthening FX market interventions to curb import‑driven price pressures and on building a credible, rules‑based fiscal stimulus framework that can be rapidly deployed during downturns. Given the data gaps, a rapid audit of public debt and external liabilities is essential to calibrate debt sustainability analyses. Enhancing statistical capacity to produce timely, consistent inflation and debt metrics will improve early‑warning accuracy.
 
-* **Early‑period (1980‑1995)** – When growth slowed below 2 % or turned negative, the model repeatedly suggests a **counter‑cyclical fiscal stimulus** (Botswana 2009 template). In low‑growth years with relatively stable inflation, the **FX‑management & import‑compression** approach (Mozambique 2016 template) is recommended.  
-
-* **2000‑2015** – A wave of medium‑risk years coincides with high inflation (8‑13 %). The system again favours **targeted stimulus** during downturns (2006, 2007, 2015) but defaults to “expert review” for most other years, signalling a lack of suitable policy templates for persistent price pressures.
-
-* **2016‑2024** – The flag reverts to low‑medium, but **inflation spikes** in 2022 (12.5 %) and 2023 (8.4 %) trigger no automated advice, only a call for expert review. The absence of debt indicators prevents evaluation of fiscal space for stimulus or consolidation.
-
-**Policy implications**
-
-1. **Establish a real‑time debt monitoring framework** to fill the current data void and enable debt‑service sustainability analysis.  
-2. **Adopt a calibrated FX‑intervention toolkit** (exchange‑rate smoothing, forward swaps) for periods of external shock and import‑price volatility, as successfully used in Mozambique.  
-3. **Deploy a graduated counter‑cyclical fiscal package**—targeted cash transfers, infrastructure works, and tax rebates—when growth falls below 2 % or contracts, following the Botswana 2009 experience.  
-4. **Design an inflation‑anchoring package** for the 2020‑2024 horizon: tightening of indirect tax administration, strategic reserve releases, and coordination with the central bank on interest‑rate policy.  
-5. **Upgrade statistical capacity** to deliver timely, complete debt and fiscal balance data, enabling automated risk‑based policy triggers.
-
-**Conclusion** – COM’s fiscal outlook is manageable but increasingly exposed to inflation shocks and data deficiencies. Prompt reinforcement of debt reporting, a flexible FX‑management regime, and a ready‑to‑activate stimulus framework will lower medium‑risk alerts and safeguard macro‑fiscal stability.
+**Conclusion**  
+Comoros faces moderate fiscal risk amplified by growth volatility, rising inflation, and serious data deficiencies. Prioritising FX stabilization, establishing a pre‑approved stimulus mechanism, and closing debt‑data gaps will mitigate fiscal vulnerability and support macro‑economic stability for the coming decade.
 
 
 
 ============================================================
-Appendix: COD
+Appendix: Democratic Republic of the Congo
 ============================================================
 Fiscal Risk Score (mean gdp_growth): 1.64
 |   Year | Flag   | Key Drivers                             | Scenario Analysis                | Policy Recommendation                                                                                                                   |
@@ -325,38 +302,13 @@ Scenario Analysis: Description of simulated macro shock
 Policy Recommendation: Automated policy advice based on risk pattern
 
 ============================================================
-Ollama Executive Summary: COD
+Ollama Executive Summary: Democratic Republic of the Congo
 ============================================================
-**Executive Summary – COD Fiscal Outlook (1970‑2024)**  
-
-**1. Risk trajectory**  
-- **1970‑1979:** Persistent medium‑risk environment driven by soaring inflation (peaking at >100 % after shocks) and volatile growth. The model repeatedly advises aggressive monetary tightening to re‑anchor expectations.  
-- **1990‑1995:** A sharp structural break to **HIGH** risk coincides with a debt build‑up (≈ £300 bn) and hyper‑inflation (inflation spikes > 20 000 %). The template draws on Zambia (2015‑18) and recommends a **phased fiscal consolidation of 1.5‑2 % GDP per year** to reduce debt‑service pressure and restore credibility.  
-- **1996‑2005:** Return to **MEDIUM** risk, again dominated by inflationary shocks; monetary tightening remains the primary prescription.  
-- **2006‑2009:** Emerging focus on **foreign‑exchange (FX) management** and import compression (Mozambique 2016 template) as inflation eases and external vulnerabilities rise.  
-- **2010‑2024:** Predominantly **LOW/MEDIUM** risk. FX‑intervention guidance persists, with occasional calls for counter‑cyclical stimulus (1970) or expert review where the algorithm finds no clear precedent (2003, 2004, 2024).  
-
-**2. Core policy messages**  
-- **Monetary tightening** (rate hikes, credible inflation targeting) remains essential whenever inflation‑shock risk exceeds 20 % of baseline.  
-- **Fiscal consolidation** of 1.5‑2 % GDP annually is the calibrated response for high‑risk bursts linked to debt accumulation and hyper‑inflation.  
-- **FX market intervention** and targeted import‑compression measures should be used to smooth exchange‑rate volatility and protect import‑dependent sectors, especially when inflation is moderate but external balances are stressed.  
-- **Counter‑cyclical stimulus** can be judiciously deployed when growth slumps sharply (e.g., 1970) and fiscal space permits.  
-
-**3. Data quality & structural concerns**  
-- Large gaps in debt, inflation, and growth series after 2016 limit precise risk quantification.  
-- The historic jump from medium to high risk in the early‑1990s signals a structural break; future monitoring should include debt‑service ratios and inflation expectations.  
-
-**4. Action items for Ministers & Governors**  
-1. Adopt a **tiered response framework**: tighten monetarily for medium‑risk inflation spikes, consolidate fiscally for high‑risk debt‑inflation clusters, and manage FX proactively in low‑risk periods.  
-2. Strengthen statistical reporting to close data gaps, enabling real‑time risk flagging.  
-3. Conduct a **formal review** of 2003, 2004, and 2024 cases to validate model outputs and adjust policy thresholds.  
-
-These steps will safeguard macro‑fiscal stability while preserving growth potential across the SADC region.
-
+[This section will be generated by the Ollama agent based on the appendix above.]
 
 
 ============================================================
-Appendix: SWZ
+Appendix: Eswatini
 ============================================================
 Fiscal Risk Score (mean gdp_growth): 4.81
 |   Year | Flag   | Key Drivers                        | Scenario Analysis             | Policy Recommendation                                                                                                                   |
@@ -424,34 +376,24 @@ Scenario Analysis: Description of simulated macro shock
 Policy Recommendation: Automated policy advice based on risk pattern
 
 ============================================================
-Ollama Executive Summary: SWZ
+Ollama Executive Summary: Eswatini
 ============================================================
-**Executive Summary – Swaziland (SWZ)**  
+**Risk Profile**  
+Eswatini’s fiscal‑risk score of 4.81 places the economy in a moderate‑risk band. The early‑warning flag oscillates between *LOW* and *MEDIUM* with no occurrence of *HIGH* risk, reflecting a generally manageable but still vulnerable macro‑fiscal environment. The most persistent pressure comes from inflation volatility and a rising public‑debt burden that accelerated after 2015, peaking at roughly 38 % of GDP in 2020. Data gaps are pronounced: debt, inflation and growth series contain many “nan” entries, especially for the post‑COVID period, limiting diagnostic certainty.
 
-Swaziland’s fiscal risk profile (average GDP‑growth‑based score = 4.81) reflects a **medium‑level vulnerability** that has persisted for three decades, punctuated by two structural breaks – the global financial shock of 2008‑09 and a sharp debt accumulation beginning in 2017.  
+**Key Trends**  
+From the 1970s through the early 2000s, high inflation spikes routinely triggered model‑based recommendations for aggressive monetary tightening. Since the mid‑2000s, the pattern shifted toward suggestions for foreign‑exchange (FX) management, mirroring Mozambique’s 2016 experience, as the country faced persistent import‑price pressures and a depreciating currency. Fiscal stimulus recommendations appear only in a handful of downturns (e.g., 2008‑2009, 1976, 1978) when growth turned negative. Over the last decade, debt ratios have risen steadily while inflation has moderated, yet the lack of reliable recent data introduces uncertainty about the current inflation trajectory and fiscal buffers.
 
-**Key trends and risks**  
-* **Inflation volatility (1970‑1990):** Repeated episodes of double‑digit inflation (peaks > 20 %) prompted automated calls for aggressive monetary tightening.  
-* **FX pressure (1990‑2007 & 2010‑2024):** The dominant automated response has been “FX management” – a proxy for intervention, import compression and exchange‑rate smoothing – used in over 60 % of observations, especially when inflation moderated but external imbalances persisted.  
-* **Counter‑cyclical fiscal stimulus (2008‑09, 2009‑10):** During the global downturn, the model flagged the need for targeted fiscal expansion to support a contracting output gap.  
-* **Debt build‑up (2015‑2023):** Public‑debt‑to‑GDP rose from ~13 % to > 30 %, while growth fell to near‑zero in 2022. Despite low inflation, the risk flag remains medium, signalling heightened debt‑service pressure and limited fiscal space.  
+**Policy Implications**  
+The ministerial agenda should prioritize three actions. First, reinforce FX market interventions and import‑priced inflation controls, preserving exchange‑rate stability while avoiding excess reserve depletion. Second, retain a calibrated monetary‑tightening toolkit—moderate rate hikes when core inflation threatens to re‑accelerate—paired with clear communication to anchor expectations. Third, develop a counter‑cyclical fiscal buffer: a modest, targeted stimulus (e.g., infrastructure work or social safety nets) ready for deployment when growth falls below 2 % and debt service pressures intensify. Immediate investment in statistical capacity is essential to close data gaps, enabling timely policy calibration.
 
-**Data quality concerns**  
-* Systematic **missing values** for debt and inflation after 2020 undermine real‑time risk assessment.  
-* The “nan” entries for debt in many early years hinder trend analysis, requiring a dedicated data‑validation exercise.  
-
-**Policy priorities for Ministers**  
-1. **Strengthen FX policy toolkit:** Deploy limited, transparent interventions (e.g., forward‑sale arrangements, import‑tariff adjustments) while building reserves to cushion external shocks.  
-2. **Re‑establish fiscal headroom:** Conduct a medium‑term debt sustainability analysis; prioritize revenue mobilisation (VAT broadening, property tax) and pause non‑essential capital spending until debt/GDP falls below 25 %.  
-3. **Targeted stimulus when required:** If growth stays below 2 % for two consecutive quarters, implement short‑run, revenue‑neutral programmes (e.g., cash transfers to vulnerable households, temporary wage subsidies).  
-4. **Improve data systems:** Institutionalise quarterly reporting of debt stocks, inflation indices, and balance‑of‑payments to eliminate “nan” gaps and enable timely risk flagging.  
-
-By focusing on disciplined FX management, prudent debt reduction, and selective fiscal stimulus, Swaziland can lower its medium‑risk rating and safeguard macro‑fiscal stability.  
+**Conclusion**  
+Eswatini faces a moderate fiscal‑risk environment driven by inflation volatility and a climbing debt profile, compounded by incomplete macro‑data. A balanced mix of FX management, prudent monetary tightening, and a ready‑to‑use fiscal stimulus framework, underpinned by stronger data systems, will safeguard macro‑stability and support sustainable growth.
 
 
 
 ============================================================
-Appendix: LSO
+Appendix: Lesotho
 ============================================================
 Fiscal Risk Score (mean gdp_growth): 3.88
 |   Year | Flag   | Key Drivers                          | Scenario Analysis              | Policy Recommendation                                                                                                                   |
@@ -519,34 +461,24 @@ Scenario Analysis: Description of simulated macro shock
 Policy Recommendation: Automated policy advice based on risk pattern
 
 ============================================================
-Ollama Executive Summary: LSO
+Ollama Executive Summary: Lesotho
 ============================================================
-**Executive Summary – Lesotho (LSO) Macro‑Fiscal Outlook**
+**Risk Profile**  
+Lesotho’s fiscal risk score of 3.88 reflects a persistently medium‑level early‑warning flag across the three‑decade record, with only intermittent low‑risk years in the 1990s and early 2000s. Inflation has been volatile, frequently exceeding 15 % in the 1970s–1990s, prompting automated recommendations for aggressive monetary tightening. Since 2005 inflation has moderated but remains above 6 % on average, while public debt data are missing for many years and become sporadic after 2008, limiting precise debt‑sustainability assessment.
 
-Over the 1970‑2024 horizon Lesotho’s risk profile is dominated by a persistent **MEDIUM** early‑warning flag, with only occasional **LOW** periods (1994‑1997, 2000‑2007, 2010‑2016). The core vulnerabilities are:
+**Key Trends**  
+The economy displays low and sometimes negative real growth, especially during global shocks (e.g., 2009, 2020), triggering repeated algorithmic advice for counter‑cyclical fiscal stimulus. The period 1970‑1995 shows a pattern of high inflation shocks answered by suggested rate hikes, whereas the post‑2000 era is dominated by calls for targeted fiscal support rather than monetary tightening. Data gaps in debt stocks and occasional absent inflation figures create uncertainty in evaluating fiscal space.
 
-1. **Inflation volatility** – Repeated spikes (15‑23 %) following simulated shocks trigger automated advice for **aggressive monetary tightening** (1977‑1984, 1991‑1992, 2002).  
-2. **External‐exchange pressure** – From the early 1980s through the early 1990s, the model prescribes **FX interventions and import compression** to curb imported inflation.  
-3. **Growth weakness** – Negative or sub‑2 % real growth recurs in 1972, 1975, 1998‑1999, 2009, 2017‑2024, prompting a **counter‑cyclical fiscal stimulus** (modeled on Botswana 2009).  
-4. **Debt accumulation** – Debt data, missing pre‑2000, rise sharply after 2008 (≈ 38 % of GDP) and reach 42 % in 2016, raising sustainability concerns.  
+**Policy Implications**  
+Policy makers should rebuild fiscal buffers through disciplined spending and revenue mobilisation, prioritising a transparent, regularly updated debt register. When growth contracts, implement a limited, well‑targeted stimulus—focused on job‑creating sectors and social safety nets—to avoid widening deficits. Maintain a cautious monetary stance: keep policy rates sufficiently high to anchor expectations, but avoid abrupt hikes that could strain the banking sector. Strengthen foreign‑exchange management tools to mitigate imported inflation, drawing on Mozambique‑type interventions where appropriate.
 
-**Data quality**: Debt figures are unavailable for the 1970‑1997 period; inflation and scenario‑shock values are absent for many early years, limiting diagnostic confidence for those intervals. Recent years (2020‑2024) have complete coverage but still show gaps (e.g., 2021‑2024 debt missing).
-
-**Policy priorities for Ministers and Governors**
-
-| Issue | Immediate Action | Medium‑Term Strategy |
-|------|------------------|-----------------------|
-| **High inflation after external shocks** | Deploy rapid, calibrated policy rate hikes; anchor expectations through clear forward guidance. | Institutionalise an inflation‑targeting framework with contingency bands for commodity‑price spikes. |
-| **Exchange‑rate stress** | Conduct targeted FX market interventions combined with temporary import‑tax adjustments to dampen pass‑through. | Build foreign‑exchange reserves to 15 % of imports; pursue diversification of export basket. |
-| **Weak growth & fiscal headroom** | Launch a **targeted, counter‑cyclical stimulus** focusing on productive infrastructure, green jobs, and safety‑net expansion. | Strengthen fiscal rules (debt‑to‑GDP ceiling, expenditure rules) while preserving room for stimulus in downturns. |
-| **Rising debt** | Undertake a debt‑sustainability assessment; prioritize concessional financing for growth‑enhancing projects. | Implement a multi‑year debt‑reduction roadmap, improve public‑financial‑management systems, and broaden the tax base. |
-
-**Conclusion** – Lesotho’s macro‑fiscal environment demands coordinated monetary‑fiscal actions: tighten promptly when inflation surges, manage exchange‑rate pressures, and employ well‑targeted fiscal stimulus during growth slumps, all under a robust debt‑sustainability framework. Enhancing data completeness and establishing early‑warning thresholds will improve policy agility and regional confidence.
+**Conclusion**  
+Lesotho faces medium‑level fiscal risk amplified by data deficiencies and a history of inflation volatility. A balanced approach that reinforces fiscal data quality, preserves modest buffers, and deploys precise, counter‑cyclical stimulus when growth falters will enhance resilience and support sustainable macro‑fiscal stability.
 
 
 
 ============================================================
-Appendix: MDG
+Appendix: Madagascar
 ============================================================
 Fiscal Risk Score (mean gdp_growth): 1.93
 |   Year | Flag   | Key Drivers                         | Scenario Analysis             | Policy Recommendation                                                                                                                   |
@@ -614,35 +546,24 @@ Scenario Analysis: Description of simulated macro shock
 Policy Recommendation: Automated policy advice based on risk pattern
 
 ============================================================
-Ollama Executive Summary: MDG
+Ollama Executive Summary: Madagascar
 ============================================================
-**Executive Summary – MDG Fiscal‑Risk Outlook (1970‑2024)**  
+**Risk Profile**  
+Madagascar’s fiscal risk flag has hovered between LOW and MEDIUM over the past five decades, with no HIGH alerts. The mean fiscal‑risk score (based on GDP growth) is modest at 1.9 %. The dominant risk drivers are volatile inflation – often exceeding 20 % during the late 1970s, early 1980s and mid‑1990s – and occasional negative growth bursts. Debt data are missing throughout, limiting a full assessment of debt sustainability. The most recent years (2021‑2024) are flagged LOW, but data gaps in 2024 (inflation and debt) reduce confidence.
 
-Across the 55‑year horizon the MDG risk flag averages **MEDIUM** (Fiscal‑Risk Score = 1.93) with a clear evolution of shock‑response patterns.  
+**Key Trends**  
+From the 1970s through the early 1990s, episodes of runaway inflation prompted modelled recommendations for aggressive monetary tightening. Parallel periods of exchange‑rate stress and import‑price spikes generated advice on foreign‑exchange interventions and import‑compression measures, echoing Mozambique’s 2016 experience. In the early 2000s, a mix of moderate inflation and growth volatility led to alternating calls for monetary tightening and FX management. The COVID‑19 shock in 2020 revived the need for a targeted, counter‑cyclical fiscal stimulus, while the post‑pandemic window (2021‑2024) shows low flag levels but lacks robust debt and inflation reporting.
 
-1. **Key risk dynamics**  
-   * **1970‑1984 – High‑inflation episode:** Inflation repeatedly exceeds 20 % (peaking at 37 % in 1982). The automated engine flags aggressive **monetary tightening** as the optimal response, mirroring IMF‑supported programs.  
-   * **1985‑2009 – Mixed regime:** Growth volatility (‑4 % to +5 %) combined with moderate‑high inflation (10‑30 %). The system alternates between **FX‑management / import‑compression** (Mozambique 2016 template) and **targeted fiscal stimulus** (Botswana 2009 template) when growth turns negative.  
-   * **2010‑2023 – Low‑risk window:** Risk flags drop to **LOW** for 20 % of observations. Nevertheless, the algorithm fails to match a policy template for most of these years, signalling a **policy‑design gap** despite relatively stable inflation (5‑10 %).  
-   * **2024 data gap:** Inflation and debt data are missing, precluding any risk classification.  
+**Policy Implications**  
+Maintain a flexible policy toolkit: (1) retain the ability to tighten monetary policy swiftly when inflation pressures re‑emerge; (2) develop a credible FX‑management framework, including transparent intervention rules and targeted import‑substitution incentives; (3) preserve fiscal space for rapid, targeted stimulus during external shocks, focusing on health, social safety nets and productive public investment. Prioritise the establishment of a comprehensive debt‑tracking system and improve real‑time inflation monitoring to close current data gaps.
 
-2. **Policy implications**  
-   * **When growth contracts and inflation is moderate (≤ 12 %):** Deploy a **counter‑cyclical, targeted fiscal stimulus** (e.g., infrastructure, social safety nets) to restore momentum without reigniting price pressures.  
-   * **When inflation spikes above 20 %:** Implement **rapid, calibrated rate hikes** and strengthen forward guidance to anchor expectations; complement with temporary FX interventions to curb imported inflation.  
-   * **During persistent moderate‑high inflation (10‑20 %) with stable growth:** Apply **FX‑management tools** (managed float, import‑compression measures) together with prudent fiscal consolidation to avoid balance‑of‑payments stress.  
-   * **Low‑risk periods lacking a template:** Conduct **rapid expert reviews** to design bespoke policy mixes, focusing on structural reforms, debt sustainability (currently absent), and resilience to external shocks.  
-
-3. **Data & Institutional priorities**  
-   * **Fill critical data gaps** – collect quarterly public‑debt and inflation figures; ensure timely publication.  
-   * **Enhance early‑warning systems** by integrating real‑time fiscal and external balances.  
-   * **Build analytical capacity** within ministries and central banks to move beyond rule‑based outputs toward context‑specific policy design.  
-
-**Action:** Adopt a tiered response framework that toggles between fiscal stimulus, FX management, and monetary tightening according to the identified risk regime, while urgently improving data quality to sustain credible macro‑fiscal surveillance.
+**Conclusion**  
+Madagascar faces moderate fiscal risk, driven principally by inflation volatility and exchange‑rate pressures. Strengthening data infrastructure and preserving policy flexibility will enable the Ministry of Finance and the Central Bank to respond efficiently to future shocks while supporting sustainable growth.
 
 
 
 ============================================================
-Appendix: MWI
+Appendix: Malawi
 ============================================================
 Fiscal Risk Score (mean gdp_growth): 3.96
 |   Year | Flag   | Key Drivers                         | Scenario Analysis             | Policy Recommendation                                                                                                                   |
@@ -710,34 +631,24 @@ Scenario Analysis: Description of simulated macro shock
 Policy Recommendation: Automated policy advice based on risk pattern
 
 ============================================================
-Ollama Executive Summary: MWI
+Ollama Executive Summary: Malawi
 ============================================================
-**Executive Summary – Malawi (MWI)**  
+**Risk Profile**  
+Malawi’s fiscal‑risk flag has been predominantly *Medium* over the past five decades, with only occasional *Low* alerts and no *High* warnings. The mean fiscal‑risk score (3.96) reflects modest growth coupled with elevated inflationary pressures, especially in the 1980‑1990 s and again from 2012 onward. Data gaps are evident—debt and inflation figures are missing for many early years—limiting precise trend quantification and obscuring potential structural breaks.
 
-The fiscal‑risk signal (average GDP‑growth ≈ 4 %) masks a persistent macro‑fiscal vulnerability characterised by three intertwined trends:
+**Key Trends**  
+From the early 1970s through the 1990s, inflation spikes above 20 % repeatedly triggered automated advice for aggressive interest‑rate hikes, mirroring IMF‑style stabilization programs. Post‑2008, lower inflation and modest growth shifted the algorithmic recommendation toward foreign‑exchange (FX) interventions and import‑compression measures, a pattern that persisted until 2011. Since 2012, rising public‑debt ratios (peaking at 55.6 % of GDP in 2022) and a resurgence of inflation above 20 % have once again produced a *Medium* risk flag with a strong bias toward monetary tightening. The most recent years (2022‑2024) exhibit the highest inflation readings (21‑32 %) and the same tightening recommendation, indicating a re‑emergence of macro‑price instability.
 
-1. **Inflation volatility and upward bias** – Since the early‑80s, headline inflation has repeatedly spiked above 20 % (peaking at 88 % in 1995). From 2012 onward, inflation has hovered in the high‑20s to low‑30s, even after modest growth rebounds. The most recent shock simulations (2023‑24) trigger a “monetary‑tightening” response, reflecting the similarity of current dynamics to IMF‑program episodes.
+**Policy Implications**  
+Policy must address the dual challenge of price stability and debt sustainability. Immediate action should focus on disciplined monetary tightening—aggressive policy‑rate adjustments—to anchor inflation expectations, as consistently advised by the model for the current environment. Complementary FX‑market management can mitigate external shocks, but should be calibrated to avoid undue pressure on foreign‑exchange reserves. Fiscal policy should remain prudently expansionary: targeted, counter‑cyclical stimulus is warranted only when growth falls below potential and debt servicing capacity is preserved. Strengthening statistical systems to close the data gaps on debt and inflation will improve early‑warning accuracy.
 
-2. **Rising public debt** – Reported debt has climbed from ~20 % of GDP in 2009 to >55 % in 2022, eroding fiscal space and amplifying external balance pressures. Gaps in debt data (pre‑2009) limit precise trend analysis, but the observed upward trajectory signals a structural fiscal burden.
-
-3. **External‑sector fragility** – Persistent exchange‑rate stress, evidenced by recurring “FX‑management” recommendations (especially 1978‑1991 and 2002‑2011), indicates vulnerability to terms‑of‑trade shocks and import‑price pass‑through.
-
-**Policy implications**
-
-- **Monetary stance:** Adopt a calibrated, forward‑looking tightening cycle (interest‑rate hikes, inflation‑target anchoring) to curb entrenched expectations, as per IMF‑program analogues. Coordination with fiscal authorities is essential to avoid undermining growth.
-
-- **Fiscal consolidation:** Prioritise debt‐reduction pathways—re‑structuring, expenditure rationalisation, and revenue enhancement (broadening the tax base, improving compliance). Target a debt‑to‑GDP ceiling of 40 % within five years.
-
-- **Exchange‑rate resilience:** Implement targeted FX interventions and temporary import‑compression measures during external shocks, while progressing toward a more flexible, market‑determined exchange rate to absorb volatility.
-
-- **Data and monitoring:** Fill historical debt data gaps and institutionalise early‑warning dashboards (risk flags, inflation shock scenarios) to enable timely, evidence‑based decisions.
-
-Taken together, a balanced mix of monetary tightening, disciplined fiscal consolidation, and prudent FX management will mitigate inflationary spirals, restore debt sustainability, and reinforce macro‑stability for Malawi.
+**Conclusion**  
+Malawi’s macro‑fiscal outlook is characterised by medium‑level risk, with inflationary pressures driving the prevailing policy signal toward monetary tightening. Coupled with rising debt, this calls for a coordinated response that combines decisive rate hikes, judicious FX interventions, and carefully calibrated fiscal support, while urgently enhancing data quality to inform future risk assessments.
 
 
 
 ============================================================
-Appendix: MUS
+Appendix: Mauritius
 ============================================================
 Fiscal Risk Score (mean gdp_growth): 4.65
 |   Year | Flag   | Key Drivers                         | Scenario Analysis             | Policy Recommendation                                                                                                                   |
@@ -805,32 +716,24 @@ Scenario Analysis: Description of simulated macro shock
 Policy Recommendation: Automated policy advice based on risk pattern
 
 ============================================================
-Ollama Executive Summary: MUS
+Ollama Executive Summary: Mauritius
 ============================================================
-**Executive Summary – Mauritius (MUS)**  
+**Risk Profile**  
+Mauritius’ fiscal risk score averages 4.65, reflecting a generally moderate stance but with periodic vulnerability. The early warning flag is low for most of the record, rising to medium in a handful of years (notably 1970‑1976, 1979‑1984, 1999, 2005, 2019‑2022). Data gaps for debt in the 1970s and post‑2015 years limit precision, and the sharp increase in public‑debt‑to‑GDP from ~30 % in the early 2000s to over 55 % after 2016 marks a structural shift that warrants close monitoring.
 
-The fiscal‑risk assessment (mean GDP‑growth = 4.65 %) flags a *predominantly low* early‑warning rating, but *medium‑risk* signals appear in 12 of the 55 years examined, chiefly during periods of sharp inflation spikes (early‑70s, 1980) and after the post‑2000 debt build‑up.  
+**Key Trends**  
+Inflation has been the dominant driver of risk, spiking above 30 % in the mid‑1970s and again in the early 1980s, prompting model‑based recommendations for monetary tightening. Since the mid‑2000s, inflation has been modest (mostly 3‑6 %) while debt ratios have risen steadily, coinciding with a transition from ad‑hoc fiscal stimulus to a reliance on expert review. The pandemic year 2020 triggered a resurgence of the stimulus template, highlighting sensitivity to external shocks.
 
-**Key macro‑fiscal dynamics**  
-1. **Inflation volatility** – Peaks of >30 % (1974) and 42 % (1980) triggered automated advice for aggressive monetary tightening. More recent shocks (2022) still generate medium risk despite inflation remaining modest (≈10 %).  
-2. **Debt trajectory** – Reliable debt data begin in 1990 (≈ 39 % of GDP) and rise to > 55 % by 2018, coinciding with a shift from “no‑template” assessments to repeated calls for expert review. The absence of debt figures for many early years limits trend analysis.  
-3. **Growth fluctuations** – Growth is broadly positive (average ≈ 4.6 %), but slumps of –14.5 % (2020) and sub‑3 % (2019, 2022) generate medium‑risk alerts and revive the “counter‑cyclical stimulus” template used for Botswana (2009).  
-4. **FX pressures** – Recurrent recommendations for FX‑management (1976‑1985, 1998, 2010) indicate periodic balance‑of‑payments stress, especially when debt and import bills rise.  
+**Policy Implications**  
+When inflation threatens to exceed the central‑bank target, a calibrated rate‑hike cycle should be employed to anchor expectations, avoiding over‑tightening that could impair growth. In downturns or shock periods, a targeted, counter‑cyclical fiscal package—focused on social safety nets and productive investment—remains appropriate, as evidenced by the 2020 recommendation. Persistent medium‑risk flags and rising debt levels call for strengthening fiscal buffers, improving debt data transparency, and establishing a formal review mechanism to replace the current “expert review” ad‑hoc approach. FX market volatility, which historically prompted intervention advice, should be managed through prudent foreign‑exchange reserves and limited import compression policies rather than abrupt market distortions.
 
-**Policy priorities for Ministers**  
-- **Debt sustainability:** Institutionalise a multi‑year fiscal framework with a clear debt‑to‑GDP ceiling (e.g., 50 %); strengthen public‑debt management and improve data reporting.  
-- **Inflation anchoring:** Preserve central‑bank independence; retain a flexible yet credible inflation target and be ready to tighten rates decisively when inflation exceeds 10 %.  
-- **Crisis‑ready fiscal space:** Preserve a targeted counter‑cyclical stimulus capacity (e.g., automatic stabilisers, temporary cash‑transfer programmes) to address sharp demand shocks such as COVID‑19.  
-- **External balance:** Maintain prudent FX reserves and a transparent exchange‑rate policy to mitigate import‑compression pressures.  
-
-**Data gaps** – Missing debt observations for the 1970‑70s and pre‑1990 periods impede full historical risk profiling; a systematic data‑quality audit is recommended.  
-
-Overall, Mauritius faces moderate fiscal risk driven by rising debt and residual inflation volatility. Prompt consolidation, reinforced fiscal rules, and a ready‑to‑deploy stimulus toolkit will safeguard growth and financial stability.  
+**Conclusion**  
+Mauritius enjoys a predominantly low‑risk fiscal environment, yet medium‑risk episodes tied to inflation spikes and a rapidly expanding debt stock pose future challenges. Strengthening debt reporting, preserving fiscal space, and deploying calibrated monetary and fiscal tools during shocks will help sustain macro‑fiscal stability and support inclusive growth.
 
 
 
 ============================================================
-Appendix: MOZ
+Appendix: Mozambique
 ============================================================
 Fiscal Risk Score (mean gdp_growth): 4.81
 |   Year | Flag   | Key Drivers                         | Scenario Analysis             | Policy Recommendation                                                                                                                   |
@@ -887,38 +790,24 @@ Scenario Analysis: Description of simulated macro shock
 Policy Recommendation: Automated policy advice based on risk pattern
 
 ============================================================
-Ollama Executive Summary: MOZ
+Ollama Executive Summary: Mozambique
 ============================================================
-**Executive Summary – Mozambique (SADC Ministerial Brief)**  
+**Risk Profile**  
+Mozambique’s fiscal risk score of 4.81 places the country in a moderate‑to‑high alert zone. The early‑warning flag has been consistently MEDIUM since the early 2000s, with occasional LOW alerts during periods of strong growth. The most recent years (2020‑2024) show persistent MEDIUM risk, driven by elevated public‑debt ratios (above 70 % of GDP), inflation volatility (peaking at 22.9 % in 2016), and modest growth momentum. Data gaps for debt and other variables prior to the 2000s limit the depth of long‑run analysis.
 
-**Macro‑Fiscal Landscape**  
-- The fiscal‑risk score (mean GDP growth 4.8 %) signals moderate vulnerability.  
-- Early‑year data (1981‑2004) are severely incomplete – debt and inflation series contain large gaps, limiting trend analysis.  
-- From 2005 onward, inflation data become reliable; from 2016 debt is reported, rising to ≈ 72 % of GDP in 2023.  
-- Inflation peaked at **22.9 % (2016)** and remained above 8 % through 2024, while real growth fell to **2.1 % (2024)** after a sharp contraction in 2020 (‑1.2 %).  
-- The debt trajectory, combined with persisting inflation, creates a “medium‑risk” early‑warning flag for every year since 2015.  
+**Key Trends**  
+From 2005 onward, inflation spikes coincided with external shocks, prompting automated recommendations for FX interventions and import compression in 2012, 2015 and 2022. The 2016‑2017 period saw sharply higher inflation and debt, triggering a shift toward monetary tightening modeled on IMF‑supported programs. Post‑COVID‑19, debt rose above 100 % of GDP in 2020 before a gradual decline, while growth has remained sluggish (around 2‑5 %). Fiscal consolidation pressures reappeared in 2020, mirroring Zambia’s 2015‑2018 experience.
 
-**Key Structural Breaks**  
-1. **2005‑2009:** First emergence of high post‑shock inflation (up to 20 %) but no systematic policy template applied.  
-2. **2016‑2017:** Sharp inflation surge (≈ 21‑23 %) coinciding with debt > 78 % of GDP – the model recommends IMF‑style aggressive rate hikes.  
-3. **2020‑2022:** Debt breaches 100 % of GDP (2020) then falls to the low‑70s; inflation rebounds to 15–16 % – the model signals FX interventions and import‑compression measures.  
+**Policy Implications**  
+Policy makers should prioritize a calibrated fiscal consolidation path of 1½–2 % of GDP, preserving social spending to sustain growth. Monetary policy must remain vigilant, allowing targeted rate hikes to anchor inflation expectations without choking recovery. Strengthening FX market management—through occasional interventions and disciplined import compression—will dampen exchange‑rate‑driven price shocks. Improving data collection on debt, fiscal balances and external positions is essential for early‑warning accuracy.
 
-**Policy Imperatives**  
-
-| Situation | Recommended Action (Priority) |
-|-----------|--------------------------------|
-| **Negative growth shocks (e.g., 1982‑86, 1990‑92, 2000)** | Deploy **targeted counter‑cyclical fiscal stimulus** (infrastructure, social safety nets) to restore demand. |
-| **High‑inflation episodes (2016‑17, 2022)** | **Monetary tightening** with credible rate hikes to anchor expectations; complement with **FX market interventions** and temporary import‑compression to ease pass‑through pressures. |
-| **Rising debt & fiscal deficits (2020‑2024)** | Implement a **phased fiscal consolidation** of 1.5‑2 % GDP per year, preserving growth‑supportive spending while expanding revenue bases (tax administration, customs reforms). |
-| **Data gaps** | Invest in **statistical capacity building** (real‑time debt, inflation, and fiscal aggregates) and publish forward‑looking fiscal projections to improve early‑warning accuracy. |
-
-**Bottom Line for Ministers**  
-Mozambique faces a persistent medium‑risk profile driven by elevated debt, volatile inflation, and weak growth momentum. Immediate actions should combine disciplined monetary anchoring, selective FX management, and a gradual but credible fiscal consolidation path, underpinned by stronger data systems to monitor risks in real time.
+**Conclusion**  
+Mozambique faces a medium‑level fiscal risk profile marked by high debt, inflation volatility and limited data transparency. A dual strategy of prudent fiscal consolidation, disciplined monetary tightening, and proactive FX management, underpinned by better statistical reporting, will mitigate vulnerabilities and support sustainable growth ahead.
 
 
 
 ============================================================
-Appendix: NAM
+Appendix: Namibia
 ============================================================
 Fiscal Risk Score (mean gdp_growth): 2.95
 |   Year | Flag   | Key Drivers                        | Scenario Analysis             | Policy Recommendation                                                                                                   |
@@ -975,39 +864,24 @@ Scenario Analysis: Description of simulated macro shock
 Policy Recommendation: Automated policy advice based on risk pattern
 
 ============================================================
-Ollama Executive Summary: NAM
+Ollama Executive Summary: Namibia
 ============================================================
-**Executive Summary – Namibia (NAM)**  
+**Risk Profile**  
+Namibia’s fiscal‑risk flag has oscillated between MEDIUM and LOW over the past four decades, with no HIGH alerts recorded. The mean fiscal‑risk score of 2.95 reflects modest vulnerability, but the persistence of MEDIUM ratings during periods of negative or sluggish growth (e.g., 1983‑84, 2007‑09, 2016‑20) signals a propensity for fiscal stress when output contracts. Gaps in debt and inflation data—particularly the prevalence of “nan” entries before the 2000s—reduce the precision of the assessment and warrant immediate improvement in statistical reporting.
 
-**Macro‑fiscal risk profile**  
-- **Overall risk**: The mean fiscal‑risk score (2.95) places Namibia in the **medium‑risk band**. The flag trajectory shows a **high‑medium exposure in the 1980s**, a **prolonged low‑risk stretch (1992‑2005)**, and a **return to medium risk from 2007‑2020**. Since 2021 the flag has settled at **low**, but the underlying data remain fragile.  
+**Key Trends**  
+From 1981‑1995 the economy experienced frequent growth slow‑downs, prompting the model to advise targeted counter‑cyclical stimulus, mirroring Botswana’s 2009 response. From the mid‑1990s onward, the dominant recommendation shifted to foreign‑exchange (FX) management and import compression, echoing Mozambique’s 2016 experience, coinciding with rising inflation (peaking at 12 % in 2008‑09) and occasional debt‑to‑GDP spikes. Since 2010 the risk flag has settled largely on LOW, yet the automated system repeatedly suggests “expert review” for years lacking a clear template, indicating that underlying dynamics—such as sectoral shocks or fiscal‑policy mix—are not fully captured.
 
-- **Key drivers**:  
-  • **Debt‑to‑GDP** data are largely missing before 2007; from 2007‑2012 the debt ratio spikes (up to 117 % in 2007) before falling back to single‑digit levels.  
-  • **Inflation** is absent for most of the record; reliable series begin in 2003, showing **double‑digit spikes (9‑14 %)** after external shocks.  
-  • **Growth** has been volatile, with negative swings in the early 1980s, a strong rebound in the early 1990s, and a **‑8.1 % contraction in 2020**.
+**Policy Implications**  
+When growth turns negative, the Ministry should deploy a focused fiscal stimulus that protects essential public services while preserving debt sustainability; this may include temporary tax rebates or accelerated infrastructure spending in high‑multipliers sectors. Persistent inflation and exchange‑rate pressures call for a disciplined FX‑intervention framework, transparent reserve‑use guidelines, and measures to curb import‑led demand spikes. Strengthening fiscal buffers (e.g., a multi‑year rainy‑day fund) and improving debt‑reporting standards will enhance early‑warning capacity. Coordination with the central bank is essential to align monetary tightening with fiscal actions, avoiding policy fragmentation.
 
-- **Structural breaks**:  
-  1. **1992‑2005** – shift to FX‑management focus (Mozambique 2016 template) as inflationary shocks become the dominant risk.  
-  2. **2009‑2020** – re‑emergence of medium‑risk flag and adoption of a **counter‑cyclical fiscal stimulus** (Botswana 2009 template) to counter growth slow‑downs and pandemic‑induced recession.  
-
-**Policy implications**  
-
-| Period | Recommended action | Rationale |
-|--------|--------------------|-----------|
-| **1992‑2005** | Strengthen foreign‑exchange (FX) buffers; use targeted import‑compression measures; enhance monetary coordination. | Persistent inflation spikes after external shocks. |
-| **2009‑2020** | Deploy **targeted, counter‑cyclical fiscal stimulus** (e.g., infrastructure, social safety nets) while preserving debt sustainability. | Medium risk flag with weak growth and high inflation; stimulus needed to revive demand. |
-| **2021‑2024** | Conduct a **comprehensive data audit** and update debt, inflation and fiscal‑balance registers; maintain low‑risk stance but prepare contingent fiscal space. | Data gaps (nan values) hinder early‑warning; low flag may mask hidden vulnerabilities. |
-| **All periods** | Institutionalise regular “stress‑test” scenarios for external shock transmission (commodity price swings, exchange‑rate volatility). | Improves preparedness and aligns with SADC risk‑monitoring framework. |
-
-**Data quality note** – Over 60 % of debt and inflation observations are missing, limiting the robustness of the early‑warning system. Immediate investment in statistical capacity is essential to calibrate risk flags accurately.  
-
-**Bottom line for Ministers**: Maintain a **lean fiscal stance** with a **contingent stimulus toolkit** ready for future downturns, buttress FX resilience, and urgently close the data‑quality gaps to ensure reliable macro‑fiscal monitoring.
+**Conclusion**  
+Namibia’s fiscal risk remains moderate but is highly sensitive to growth downturns and inflationary shocks. A dual strategy of targeted stimulus during recessions and robust FX management during inflation spikes, underpinned by better data collection and inter‑agency coordination, will mitigate fiscal vulnerabilities and support sustainable macro‑economic stability.
 
 
 
 ============================================================
-Appendix: ZAF
+Appendix: South Africa
 ============================================================
 Fiscal Risk Score (mean gdp_growth): 2.26
 |   Year | Flag   | Key Drivers                         | Scenario Analysis             | Policy Recommendation                                                                                                                   |
@@ -1075,38 +949,13 @@ Scenario Analysis: Description of simulated macro shock
 Policy Recommendation: Automated policy advice based on risk pattern
 
 ============================================================
-Ollama Executive Summary: ZAF
+Ollama Executive Summary: South Africa
 ============================================================
-**South Africa – Macro‑Fiscal Outlook (1970‑2024)**  
-
-- **Risk profile:** The early‑1970s‑1990s period is characterised by low‑risk flags despite very high inflation (up to 22 %). From the late 1990s onward the early‑warning flag shifts to *Medium* and remains there, signalling persistent fiscal vulnerability. No *High* alerts appear, but the sustained medium rating reflects rising debt, modest growth and inflation‑risk trade‑offs.  
-
-- **Debt dynamics:** Reported debt‑to‑GDP jumps from ~33 % in 1990 to >79 % in 2024, with a sharp acceleration after 2000. Data gaps before 1990 (nan) limit back‑testing, but the post‑2000 trend is clear and warrants close monitoring.  
-
-- **Inflation & growth:** Inflation has fallen from double‑digit peaks in the 1970s‑80s to a more manageable 4‑7 % range since 2000, though occasional spikes (e.g., 2022 = 7 %) remain. Real GDP growth has stalled at ~0.5‑1 % in recent years, with a severe contraction in 2020 (‑6.2 %).  
-
-- **Policy patterns:**  
-  1. **FX management** (1970‑1999) is repeatedly recommended, reflecting exchange‑rate pressures during high‑inflation episodes.  
-  2. **Monetary tightening** (early‑mid‑80s) is advised when inflation breaches 20 %.  
-  3. **Counter‑cyclical fiscal stimulus** (2009, 2014‑2019, 2024) is triggered by growth slow‑downs and elevated debt, mirroring Botswana‑type targeted measures.  
-  4. **Fiscal consolidation** (2020, 2023) follows debt spikes and pandemic shock, echoing Zambia‑style 1.5‑2 %‑of‑GDP adjustments.  
-
-- **Data quality & structural breaks:** Debt series is missing before 1990; inflation and growth data are complete. A structural break occurs around 2000 when debt begins its steep rise and the risk flag settles at Medium.  
-
-**Policy actions for Ministers & Governors**  
-
-1. **Maintain disciplined FX interventions** while building deeper foreign‑exchange reserves to dampen external shocks.  
-2. **Preserve monetary credibility** with calibrated rate moves that anchor inflation expectations without choking nascent growth.  
-3. **Deploy targeted, time‑bound fiscal stimulus** (infrastructure, social safety nets) when growth falls below 1 % and debt‑to‑GDP exceeds 70 %, ensuring projects are revenue‑generating.  
-4. **Implement a phased consolidation roadmap** (1.5‑2 % of GDP annually) to stabilize debt dynamics, paired with expenditure reviews and revenue‑raising reforms (tax base broadening, efficiency gains).  
-5. **Strengthen statistical systems** to close debt data gaps and improve real‑time monitoring of fiscal sustainability.  
-
-These steps aim to balance inflation control, debt sustainability, and growth support, reducing medium‑risk exposure and positioning South Africa for resilient macro‑economic performance.
-
+[This section will be generated by the Ollama agent based on the appendix above.]
 
 
 ============================================================
-Appendix: TZA
+Appendix: Tanzania
 ============================================================
 Fiscal Risk Score (mean gdp_growth): 3.53
 |   Year | Flag   | Key Drivers                        | Scenario Analysis             | Policy Recommendation                                                                                                                   |
@@ -1174,37 +1023,24 @@ Scenario Analysis: Description of simulated macro shock
 Policy Recommendation: Automated policy advice based on risk pattern
 
 ============================================================
-Ollama Executive Summary: TZA
+Ollama Executive Summary: Tanzania
 ============================================================
-**Executive Summary – Tanzania (TZA)**  
+**Risk Profile**  
+Tanzania’s fiscal‑risk score of 3.53 places the economy in the moderate‑risk band. The historical record shows a persistent “Medium” early‑warning flag during the 1970s‑1990s, driven primarily by volatile inflation and absent debt data, while the most recent decade is characterised by a “Low” flag and comparatively benign macro‑variables. The absence of reliable sovereign‑debt figures throughout the series limits a full assessment of fiscal sustainability.
 
-The historical risk profile shows a clear structural break around 1999. Prior to that year, Tanzania faced **persistent medium‑risk alerts**, driven by very high inflation (often > 20 %) and volatile growth, with occasional deep recessions (e.g., ‑46 % in 1970). Policy guidance in this period alternated between:  
+**Key Trends**  
+From 1970 through the early 1990s, inflation regularly exceeded 20 % and, after simulated shocks, surged to above 30 %. During those periods the automated advice favoured aggressive monetary tightening and, on occasion, foreign‑exchange (FX) market interventions to curb import‑driven pressures. By the 2000s inflation fell to the high single‑digit range and growth stabilized above 6 %, prompting a shift toward “Low” risk flags and a default recommendation for expert review. Recent shocks (2020‑2024) have produced modest inflation (≈3–9 %) and steady growth, yet the system still suggests expert oversight rather than a preset policy template.
 
-* **Aggressive monetary tightening** (1974‑1975, 1980‑1998) to anchor inflation expectations when price pressures exceeded 25 %.  
-* **Targeted fiscal stimulus** (1970, 1977) when growth turned sharply negative but inflation was still manageable.  
-* **Foreign‑exchange management** (1976, 1978‑1979, 1998) to mitigate external‑shock spill‑overs.  
+**Policy Implications**  
+Maintain a calibrated monetary stance: be prepared to tighten rates swiftly when inflation breaches the 8‑10 % threshold, echoing the historical success of aggressive hikes in anchoring expectations. Preserve the capacity for selective FX interventions to manage import‑price pass‑through during external volatility, as evidenced in the 1970s‑1990s episodes. While the current environment does not necessitate broad fiscal stimulus, retain a targeted counter‑cyclical tool‑kit for any downturn, especially if growth diverges sharply from the 5‑7 % norm. Strengthen fiscal data reporting, particularly sovereign‑debt statistics, to enhance early‑warning accuracy.
 
-Post‑1999, the risk flag drops to **low** for most years, inflation settles around 4‑6 % and real GDP growth stabilises at 5‑7 %. Nevertheless, medium‑risk spikes re‑appear in 2008‑2009, 2011‑2012 and 2020, reflecting external shock sensitivity (commodity price swings, pandemic). In these episodes the automated system did not generate a specific template, signalling a need for **expert review**.
-
-**Key concerns for Ministers**  
-
-1. **Data gaps** – Public‑debt figures are missing for the entire series, limiting debt‑sustainability analysis. Immediate improvement of debt reporting is essential.  
-2. **Inflation volatility** – While current levels are moderate, the historical record shows that a 10‑point inflation shock can trigger medium‑risk alerts. Strengthening the inflation‑targeting framework and communication will help anchor expectations.  
-3. **External shock exposure** – Episodes requiring FX intervention demonstrate vulnerability to exchange‑rate pressures. Building a modest buffer of foreign reserves and maintaining flexible, market‑based FX management can reduce import‑price transmission.
-
-**Policy actions**  
-
-* Keep fiscal policy **counter‑cyclical**: deploy limited, well‑targeted stimulus (infrastructure, social safety nets) when growth falls below 4 % and inflation stays below the 6 % midpoint of the target band.  
-* Maintain a **lean but credible monetary tightening** rule‑set: raise policy rates when core inflation threatens to breach the upper band, with clear forward guidance.  
-* Institutionalise **FX‑reserve accumulation** (≥ 8 % of GDP) and transparent, market‑driven FX interventions to cushion external shocks.  
-* Accelerate **debt‑data collection** and publish quarterly debt sustainability metrics to support transparent risk monitoring.
-
-These steps will preserve macro‑fiscal stability, improve early‑warning accuracy, and sustain the low‑risk trajectory observed since the late‑1990s.
+**Conclusion**  
+Tanzania has transitioned from a historically inflation‑dominated, medium‑risk profile to a more stable, low‑risk posture. Nonetheless, the legacy of high‑inflation episodes underscores the need for vigilant monetary policy, limited but ready FX management, and robust fiscal data systems. Continued prudent policy coordination will safeguard macro‑fiscal stability and support sustained growth.
 
 
 
 ============================================================
-Appendix: ZMB
+Appendix: Zambia
 ============================================================
 Fiscal Risk Score (mean gdp_growth): 3.25
 |   Year | Flag   | Key Drivers                           | Scenario Analysis              | Policy Recommendation                                                                                                                   |
@@ -1272,33 +1108,24 @@ Scenario Analysis: Description of simulated macro shock
 Policy Recommendation: Automated policy advice based on risk pattern
 
 ============================================================
-Ollama Executive Summary: ZMB
+Ollama Executive Summary: Zambia
 ============================================================
-**Executive Summary – Zambia (ZMB)**  
+**Risk Profile**  
+Zambia’s fiscal risk score averages 3.25, indicating modest but persistent vulnerability. Early‑1990s and the 2020‑2021 period register the highest alerts (HIGH), driven by sharp debt surges (peaking at 244 % of GDP in 1990) and runaway inflation above 100 %. Throughout the 1970s‑1990s the system repeatedly flagged MEDIUM risk, while the past decade has seen a mix of LOW and MEDIUM alerts, with a recent spike to HIGH in 2020 as debt rose above 100 % of GDP and inflation accelerated. Data gaps are evident: debt figures are missing for many years, limiting precise trend analysis.
 
-The fiscal‑risk signal for Zambia averages a modest 3.3 % growth rate, but the early‑warning flag has oscillated between **HIGH** (1990‑1994, 1998, 2020) and **MEDIUM** for most of the last three decades. The main drivers are a rapidly rising debt-to‑GDP ratio (from < 20 % in 2010 to > 100 % in 2020), persistent double‑digit inflation spikes in the early‑1990s and again after 2016, and periodic growth downturns linked to external shocks.  
+**Key Trends**  
+Two structural breaks dominate the record. The first, in the early 1990s, combined debt accumulation with hyper‑inflation, prompting automated advice for phased fiscal consolidation. The second, from 2015 onward, reflects a gradual debt build‑up, modest inflation, and a shift toward foreign‑exchange (FX) management recommendations. Since 2006, inflation has been contained below 20 % except for isolated peaks, while growth has remained positive except during global shocks (e.g., 2020). Policy guidance has evolved from counter‑cyclical stimulus in the 1970s to FX interventions in the 2000s and monetary tightening or fiscal consolidation in high‑risk episodes.
 
-**Key risk patterns**  
+**Policy Implications**  
+In the near term, reinforce fiscal discipline to keep consolidation at 1.5‑2 % of GDP, especially as debt trends upward. Complement this with targeted monetary tightening to anchor inflation expectations when inflation breaches 15 %. Strengthen FX market interventions and import‑compression tools to mitigate external vulnerability, but ensure they are calibrated to avoid undue pressure on the domestic economy. Finally, address data deficiencies by improving debt reporting and maintaining a robust early‑warning system.
 
-1. **Debt‑sustainability stress (1990‑1994, 1998, 2020)** – debt above 200 % of GDP, inflation > 100 %, growth negative or near‑zero. Automated advice repeatedly calls for a **phased fiscal consolidation of 1.5‑2 % of GDP**.  
-2. **Inflation‑driven monetary tightening (1996‑2005, 2016‑2021)** – inflation 20‑30 % with moderate debt. The system recommends **aggressive rate hikes** to re‑anchor expectations.  
-3. **FX‑management episodes (1978‑1985, 2006‑2009, 2013‑2019)** – medium risk, low‑to‑moderate debt, inflation 9‑18 %. The pattern suggests **targeted foreign‑exchange interventions and import‑compression measures**.  
-
-**Data gaps** – Debt figures are missing for many pre‑1990 years and intermittently after 2022, limiting trend precision. Strengthening real‑time fiscal data collection should be a priority.  
-
-**Policy agenda for Ministers**  
-
-* **Fiscal consolidation** – implement a transparent, staged reduction of primary deficits (1.5‑2 %‑GDP annually) while protecting the social safety net, to bring debt below 70 % of GDP by 2027.  
-* **Monetary stance** – maintain a forward‑guidance framework that allows pre‑emptive, calibrated rate hikes when core inflation exceeds 8 %, avoiding abrupt spikes.  
-* **FX stability** – establish a modest, rule‑based intervention band and diversify export earnings to reduce import‑compression pressure.  
-* **Structural reforms** – broaden the tax base, improve public‑financial management, and strengthen statistical systems to close data gaps and enhance early‑warning accuracy.  
-
-Taken together, a coordinated fiscal‑monetary‑FX approach will mitigate the recurring high‑risk episodes and support sustainable growth for Zambia.
+**Conclusion**  
+Zambia faces intermittent high‑risk windows linked to debt spikes and inflation bursts. A balanced mix of fiscal consolidation, prudent monetary tightening, and active FX management, underpinned by better data, will safeguard macro‑fiscal stability and support sustainable growth.
 
 
 
 ============================================================
-Appendix: ZWE
+Appendix: Zimbabwe
 ============================================================
 Fiscal Risk Score (mean gdp_growth): 2.67
 |   Year | Flag   | Key Drivers                         | Scenario Analysis              | Policy Recommendation                                                                                                                   |
@@ -1366,30 +1193,18 @@ Scenario Analysis: Description of simulated macro shock
 Policy Recommendation: Automated policy advice based on risk pattern
 
 ============================================================
-Ollama Executive Summary: ZWE
+Ollama Executive Summary: Zimbabwe
 ============================================================
-**Executive Summary – Zimbabwe (ZWE)**  
+**Risk Profile**  
+Zimbabwe’s fiscal risk score of 2.67 places the country in the medium‑risk band, with a recurring “MEDIUM” early‑warning flag throughout the historical record and a clustering of “LOW” flags only in isolated years of strong growth. The most acute vulnerabilities arise from hyper‑inflationary episodes (inflation above 250 % in 2019‑2022) and large, unquantified debt gaps—debt data are missing for every year, limiting precise debt‑sustainability analysis.
 
-*Fiscal Risk Score (average GDP‑growth weight): 2.67 – indicating moderate but persistent vulnerability.*
+**Key Trends**  
+From the 1970s onward, growth has swung between strong expansions and deep contractions, often triggering a switch from fiscal stimulus to foreign‑exchange (FX) management. Since 2010, inflation remained modest until 2018, when a 16 % surge signalled emerging price pressures. The period 2019‑2022 saw runaway inflation and a sharp contraction in output, prompting automated recommendations for aggressive monetary tightening. More recently, growth has modestly rebounded (5.4 % in 2023, 1.7 % in 2024) while inflation data are unavailable, but the pattern of “MEDIUM” risk flags continues, indicating persistent macro‑fiscal fragility.
 
-**1. Macro‑fiscal risk landscape**  
-- **Historical volatility:** From the 1970s to the early 2000s, risk flags oscillated between *LOW* and *MEDIUM* with no clear debt or inflation data, limiting diagnostic precision.  
-- **Structural break (2018‑2022):** Inflation exploded from 16 % (2018) to >560 % (2020‑2022), accompanied by deep contractions (‑6 % to ‑7 % growth). The risk flag stayed *MEDIUM* despite the shock magnitude, signalling a regime shift that existing early‑warning metrics have not captured.  
-- **Recent moderation (2023‑2024):** Inflation and growth have returned to modest levels, and the flag reverted to *LOW* (2023) before a *MEDIUM* rating in 2024, suggesting lingering fragility.
+**Policy Implications**  
+To stabilise the macro‑environment, the finance ministry should prioritize a calibrated FX management regime—targeted interventions, import‑compression measures, and transparent foreign‑exchange allocation—to curb currency volatility. Simultaneously, the central bank must maintain a disciplined monetary stance, employing rate hikes to anchor inflation expectations when hyper‑inflation resurfaces. In years of negative or weak growth, a limited, well‑targeted fiscal stimulus can support vulnerable sectors without aggravating fiscal deficits, but must be financed through credible revenue reforms rather than opaque borrowing. Improving data collection on public debt and inflation will enhance early‑warning precision.
 
-**2. Policy patterns identified by the analytics**  
-- **FX‑management & import compression** (Mozambique‑style) is the default recommendation for most *MEDIUM* years, reflecting a historical reliance on exchange‑rate interventions to contain price spikes.  
-- **Targeted fiscal stimulus** (Botswana‑style) is suggested during negative‑growth episodes (e.g., 1975‑2008), indicating the need for counter‑cyclical spending when debt capacity permits.  
-- **Aggressive monetary tightening** (IMF‑program style) is prescribed for the hyper‑inflation episode (2019‑2022), highlighting the necessity of anchoring inflation expectations.
-
-**3. Immediate actions for Ministers**  
-1. **Stabilise the macro‑environment** – coordinate a calibrated monetary tightening path with clear forward guidance; avoid abrupt rate swings that could destabilise the FX market.  
-2. **Re‑introduce a transparent FX regime** – move from ad‑hoc interventions to a managed float with limited, rule‑based interventions and robust foreign‑exchange reserves to curb speculative pressures.  
-3. **Deploy targeted, debt‑sustainable stimulus** – prioritize social safety nets and productive public investment (e.g., agriculture, renewable energy) when growth falls below 2 %; use contingent fiscal buffers to limit debt buildup.  
-4. **Strengthen fiscal data and risk monitoring** – fill gaps in debt, inflation, and revenue reporting; embed structural break detection in early‑warning systems to trigger higher‑severity alerts.  
-5. **Structural reforms** – diversify the export base, improve tax administration, and formalise the informal sector to broaden the revenue base and reduce reliance on FX controls.
-
-**4. Longer‑term outlook**  
-If the above measures are enacted, Zimbabwe can lower its fiscal risk score toward *LOW* by restoring macro‑stability, improving data integrity, and building credible fiscal and monetary frameworks. Continuous coordination between the Treasury and the Central Bank will be pivotal to prevent re‑emergence of hyper‑inflationary cycles.
+**Conclusion**  
+Zimbabwe confronts medium‑level fiscal risk compounded by volatile growth and intermittent hyper‑inflation. A dual approach of prudent FX management, vigilant monetary tightening, and selective fiscal support—underpinned by better data—offers the clearest path to restoring macro‑stability and protecting the region’s financial cohesion.
 
 
